@@ -1,0 +1,396 @@
+id,activity_id,project_id,description,category,severity,status,assigned_to,date_raised,delay_impact_days
+iss_00001,act_001_01,proj_001,Key equipment broke down mid-task on Site Survey & Mobilization.,equipment_breakdown,medium,resolved,Contractor B,2022-01-12,0
+iss_00002,act_001_01,proj_001,Key equipment broke down mid-task on Site Survey & Mobilization.,equipment_breakdown,medium,resolved,QA Inspector,2022-01-11,0
+iss_00003,act_001_02,proj_001,Insufficient crew available; Demolition & Strip-Out understaffed.,labor_shortage,critical,resolved,Contractor B,2022-01-21,0
+iss_00004,act_001_02,proj_001,Safety non-compliance flagged during Demolition & Strip-Out.,safety,medium,resolved,Project Engineer,2022-01-19,0
+iss_00005,act_001_02,proj_001,Safety non-compliance flagged during Demolition & Strip-Out.,safety,medium,resolved,Site Manager,2022-01-25,0
+iss_00006,act_001_03,proj_001,Undocumented additional work added to Structural Repairs & Reinforcement.,scope_creep,low,resolved,QA Inspector,2022-02-08,0
+iss_00007,act_001_03,proj_001,Adverse weather halted outdoor work on Structural Repairs & Reinforcement.,weather,high,open,Contractor A,2022-02-09,2
+iss_00008,act_001_03,proj_001,Client-requested scope change impacts Structural Repairs & Reinforcement.,design_change,medium,resolved,Procurement Lead,2022-02-04,0
+iss_00009,act_001_03,proj_001,Adverse weather halted outdoor work on Structural Repairs & Reinforcement.,weather,low,resolved,Contractor B,2022-02-08,0
+iss_00010,act_001_04,proj_001,Insufficient crew available; Waterproofing & Damp Proofing understaffed.,labor_shortage,low,open,Contractor B,2022-02-26,1
+iss_00011,act_001_04,proj_001,Delivery of Waterproofing & Damp Proofing delayed by supplier.,material_delay,medium,open,QA Inspector,2022-02-26,0
+iss_00012,act_001_04,proj_001,Municipal inspection failed; rework needed on Waterproofing & Damp Proofing.,inspection_fail,high,resolved,Project Engineer,2022-02-25,0
+iss_00013,act_001_04,proj_001,Key equipment broke down mid-task on Waterproofing & Damp Proofing.,equipment_breakdown,medium,resolved,Site Manager,2022-02-24,0
+iss_00014,act_001_05,proj_001,Insufficient crew available; Plumbing Rough-in understaffed.,labor_shortage,low,resolved,Safety Officer,2022-03-03,0
+iss_00015,act_001_05,proj_001,Key equipment broke down mid-task on Plumbing Rough-in.,equipment_breakdown,low,resolved,Contractor B,2022-02-20,0
+iss_00016,act_001_05,proj_001,Delivery of Plumbing Rough-in delayed by supplier.,material_delay,low,resolved,Project Engineer,2022-02-24,0
+iss_00017,act_001_05,proj_001,Undocumented additional work added to Plumbing Rough-in.,scope_creep,low,resolved,QA Inspector,2022-02-22,0
+iss_00018,act_001_06,proj_001,Municipal inspection failed; rework needed on Electrical Wiring & Conduits.,inspection_fail,critical,resolved,Client PM,2022-02-21,0
+iss_00019,act_001_06,proj_001,Insufficient crew available; Electrical Wiring & Conduits understaffed.,labor_shortage,medium,resolved,Contractor B,2022-02-25,0
+iss_00020,act_001_06,proj_001,Safety non-compliance flagged during Electrical Wiring & Conduits.,safety,high,resolved,Safety Officer,2022-02-23,0
+iss_00021,act_001_06,proj_001,Municipal inspection failed; rework needed on Electrical Wiring & Conduits.,inspection_fail,low,resolved,Contractor A,2022-02-22,0
+iss_00022,act_001_07,proj_001,Insufficient crew available; HVAC & Ventilation Installation understaffed.,labor_shortage,low,resolved,Project Engineer,2022-02-23,0
+iss_00023,act_001_07,proj_001,Undocumented additional work added to HVAC & Ventilation Installation.,scope_creep,critical,open,Safety Officer,2022-02-24,4
+iss_00024,act_001_07,proj_001,Undocumented additional work added to HVAC & Ventilation Installation.,scope_creep,critical,open,Contractor B,2022-02-20,5
+iss_00025,act_001_07,proj_001,Adverse weather halted outdoor work on HVAC & Ventilation Installation.,weather,low,resolved,Client PM,2022-02-28,0
+iss_00026,act_001_08,proj_001,Safety non-compliance flagged during Floor Leveling & Screed.,safety,high,resolved,Contractor A,2022-03-14,0
+iss_00027,act_001_08,proj_001,Insufficient crew available; Floor Leveling & Screed understaffed.,labor_shortage,medium,resolved,Site Manager,2022-03-10,0
+iss_00028,act_001_08,proj_001,Municipal inspection failed; rework needed on Floor Leveling & Screed.,inspection_fail,medium,open,Site Manager,2022-03-11,0
+iss_00029,act_001_09,proj_001,Key equipment broke down mid-task on Tiling — Floors & Wet Areas.,equipment_breakdown,medium,resolved,Contractor A,2022-03-25,0
+iss_00030,act_001_09,proj_001,Undocumented additional work added to Tiling — Floors & Wet Areas.,scope_creep,high,resolved,QA Inspector,2022-04-01,0
+iss_00031,act_001_09,proj_001,Municipal inspection failed; rework needed on Tiling — Floors & Wet Areas.,inspection_fail,low,open,Project Engineer,2022-03-20,4
+iss_00032,act_001_10,proj_001,Undocumented additional work added to Wall Plastering & Screeding.,scope_creep,medium,resolved,Client PM,2022-03-13,0
+iss_00033,act_001_10,proj_001,Client-requested scope change impacts Wall Plastering & Screeding.,design_change,low,resolved,Contractor A,2022-03-11,0
+iss_00034,act_001_10,proj_001,Client-requested scope change impacts Wall Plastering & Screeding.,design_change,low,open,Contractor B,2022-03-13,0
+iss_00035,act_001_11,proj_001,Adverse weather halted outdoor work on False Ceiling & Insulation.,weather,low,resolved,Project Engineer,2022-03-29,0
+iss_00036,act_001_11,proj_001,Insufficient crew available; False Ceiling & Insulation understaffed.,labor_shortage,low,resolved,Safety Officer,2022-03-31,0
+iss_00037,act_001_11,proj_001,Insufficient crew available; False Ceiling & Insulation understaffed.,labor_shortage,critical,resolved,Client PM,2022-03-28,0
+iss_00038,act_001_12,proj_001,Key equipment broke down mid-task on Painting — Primer & Finish Coats.,equipment_breakdown,high,resolved,Site Manager,2022-04-18,0
+iss_00039,act_001_12,proj_001,Delivery of Painting — Primer & Finish Coats delayed by supplier.,material_delay,high,open,Contractor B,2022-04-12,2
+iss_00040,act_001_12,proj_001,Delivery of Painting — Primer & Finish Coats delayed by supplier.,material_delay,medium,resolved,Contractor A,2022-04-19,0
+iss_00041,act_001_13,proj_001,"Key equipment broke down mid-task on Carpentry, Joinery & Built-ins.",equipment_breakdown,critical,resolved,Project Engineer,2022-05-12,0
+iss_00042,act_001_13,proj_001,"Client-requested scope change impacts Carpentry, Joinery & Built-ins.",design_change,medium,open,QA Inspector,2022-05-02,5
+iss_00043,act_001_13,proj_001,"Undocumented additional work added to Carpentry, Joinery & Built-ins.",scope_creep,low,resolved,Safety Officer,2022-05-02,0
+iss_00044,act_001_14,proj_001,"Undocumented additional work added to Fixtures, Fittings & Sanitaryware.",scope_creep,low,open,Contractor B,2022-05-21,1
+iss_00045,act_001_14,proj_001,"Undocumented additional work added to Fixtures, Fittings & Sanitaryware.",scope_creep,critical,open,Site Manager,2022-05-22,2
+iss_00046,act_001_14,proj_001,"Adverse weather halted outdoor work on Fixtures, Fittings & Sanitaryware.",weather,high,resolved,Project Engineer,2022-05-19,0
+iss_00047,act_001_15,proj_001,"Adverse weather halted outdoor work on Final Inspection, Snag & Handover.",weather,low,open,QA Inspector,2022-05-29,5
+iss_00048,act_001_15,proj_001,"Adverse weather halted outdoor work on Final Inspection, Snag & Handover.",weather,high,resolved,Contractor A,2022-06-01,0
+iss_00049,act_002_01,proj_002,Key equipment broke down mid-task on Site Survey & Mobilization.,equipment_breakdown,low,resolved,Site Manager,2022-03-02,0
+iss_00050,act_002_01,proj_002,Client-requested scope change impacts Site Survey & Mobilization.,design_change,high,resolved,Site Manager,2022-03-07,0
+iss_00051,act_002_02,proj_002,Delivery of Demolition & Strip-Out delayed by supplier.,material_delay,critical,open,Safety Officer,2022-03-21,5
+iss_00052,act_002_02,proj_002,Insufficient crew available; Demolition & Strip-Out understaffed.,labor_shortage,low,resolved,Procurement Lead,2022-03-12,0
+iss_00053,act_002_02,proj_002,Municipal inspection failed; rework needed on Demolition & Strip-Out.,inspection_fail,medium,open,Client PM,2022-03-20,0
+iss_00054,act_002_03,proj_002,Insufficient crew available; Structural Repairs & Reinforcement understaffed.,labor_shortage,low,open,Client PM,2022-03-26,4
+iss_00055,act_002_03,proj_002,Key equipment broke down mid-task on Structural Repairs & Reinforcement.,equipment_breakdown,low,resolved,Site Manager,2022-03-30,0
+iss_00056,act_002_03,proj_002,Key equipment broke down mid-task on Structural Repairs & Reinforcement.,equipment_breakdown,medium,resolved,Client PM,2022-03-30,0
+iss_00057,act_002_03,proj_002,Key equipment broke down mid-task on Structural Repairs & Reinforcement.,equipment_breakdown,medium,resolved,Contractor A,2022-04-07,0
+iss_00058,act_002_04,proj_002,Adverse weather halted outdoor work on Waterproofing & Damp Proofing.,weather,critical,open,Safety Officer,2022-04-12,2
+iss_00059,act_002_04,proj_002,Safety non-compliance flagged during Waterproofing & Damp Proofing.,safety,low,resolved,Contractor A,2022-04-11,0
+iss_00060,act_002_04,proj_002,Adverse weather halted outdoor work on Waterproofing & Damp Proofing.,weather,low,resolved,Contractor B,2022-04-17,0
+iss_00061,act_002_04,proj_002,Adverse weather halted outdoor work on Waterproofing & Damp Proofing.,weather,high,resolved,Client PM,2022-04-16,0
+iss_00062,act_002_05,proj_002,Insufficient crew available; Plumbing Rough-in understaffed.,labor_shortage,low,resolved,Safety Officer,2022-04-15,0
+iss_00063,act_002_05,proj_002,Insufficient crew available; Plumbing Rough-in understaffed.,labor_shortage,high,resolved,Contractor B,2022-04-23,0
+iss_00064,act_002_05,proj_002,Adverse weather halted outdoor work on Plumbing Rough-in.,weather,medium,resolved,Procurement Lead,2022-04-24,0
+iss_00065,act_002_05,proj_002,Insufficient crew available; Plumbing Rough-in understaffed.,labor_shortage,low,resolved,Client PM,2022-04-13,0
+iss_00066,act_002_06,proj_002,Insufficient crew available; Electrical Wiring & Conduits understaffed.,labor_shortage,medium,open,Safety Officer,2022-04-17,3
+iss_00067,act_002_06,proj_002,Undocumented additional work added to Electrical Wiring & Conduits.,scope_creep,medium,resolved,QA Inspector,2022-04-21,0
+iss_00068,act_002_06,proj_002,Safety non-compliance flagged during Electrical Wiring & Conduits.,safety,low,resolved,Project Engineer,2022-04-18,0
+iss_00069,act_002_06,proj_002,Key equipment broke down mid-task on Electrical Wiring & Conduits.,equipment_breakdown,medium,resolved,Procurement Lead,2022-04-20,0
+iss_00070,act_002_07,proj_002,Client-requested scope change impacts HVAC & Ventilation Installation.,design_change,medium,resolved,QA Inspector,2022-04-19,0
+iss_00071,act_002_07,proj_002,Client-requested scope change impacts HVAC & Ventilation Installation.,design_change,high,open,Project Engineer,2022-04-11,0
+iss_00072,act_002_07,proj_002,Safety non-compliance flagged during HVAC & Ventilation Installation.,safety,medium,resolved,Contractor A,2022-04-11,0
+iss_00073,act_002_07,proj_002,Safety non-compliance flagged during HVAC & Ventilation Installation.,safety,medium,resolved,Contractor B,2022-04-15,0
+iss_00074,act_002_08,proj_002,Undocumented additional work added to Floor Leveling & Screed.,scope_creep,low,resolved,QA Inspector,2022-04-29,0
+iss_00075,act_002_08,proj_002,Client-requested scope change impacts Floor Leveling & Screed.,design_change,high,open,Contractor A,2022-04-28,1
+iss_00076,act_002_08,proj_002,Key equipment broke down mid-task on Floor Leveling & Screed.,equipment_breakdown,high,resolved,QA Inspector,2022-05-01,0
+iss_00077,act_002_09,proj_002,Delivery of Tiling — Floors & Wet Areas delayed by supplier.,material_delay,high,resolved,Contractor A,2022-05-26,0
+iss_00078,act_002_09,proj_002,Adverse weather halted outdoor work on Tiling — Floors & Wet Areas.,weather,low,resolved,Contractor A,2022-05-18,0
+iss_00079,act_002_09,proj_002,Insufficient crew available; Tiling — Floors & Wet Areas understaffed.,labor_shortage,low,resolved,QA Inspector,2022-05-15,0
+iss_00080,act_002_10,proj_002,Adverse weather halted outdoor work on Wall Plastering & Screeding.,weather,medium,open,Client PM,2022-05-07,4
+iss_00081,act_002_10,proj_002,Key equipment broke down mid-task on Wall Plastering & Screeding.,equipment_breakdown,high,resolved,Site Manager,2022-05-04,0
+iss_00082,act_002_10,proj_002,Insufficient crew available; Wall Plastering & Screeding understaffed.,labor_shortage,low,resolved,Site Manager,2022-05-09,0
+iss_00083,act_002_11,proj_002,Adverse weather halted outdoor work on False Ceiling & Insulation.,weather,medium,open,Procurement Lead,2022-05-24,3
+iss_00084,act_002_11,proj_002,Municipal inspection failed; rework needed on False Ceiling & Insulation.,inspection_fail,critical,resolved,Project Engineer,2022-05-22,0
+iss_00085,act_002_11,proj_002,Adverse weather halted outdoor work on False Ceiling & Insulation.,weather,low,open,Contractor B,2022-05-19,3
+iss_00086,act_002_12,proj_002,Key equipment broke down mid-task on Painting — Primer & Finish Coats.,equipment_breakdown,medium,open,Contractor A,2022-06-09,1
+iss_00087,act_002_12,proj_002,Undocumented additional work added to Painting — Primer & Finish Coats.,scope_creep,medium,resolved,QA Inspector,2022-06-09,0
+iss_00088,act_002_12,proj_002,Key equipment broke down mid-task on Painting — Primer & Finish Coats.,equipment_breakdown,low,resolved,QA Inspector,2022-05-30,0
+iss_00089,act_002_13,proj_002,"Municipal inspection failed; rework needed on Carpentry, Joinery & Built-ins.",inspection_fail,low,open,Safety Officer,2022-06-11,4
+iss_00090,act_002_13,proj_002,"Client-requested scope change impacts Carpentry, Joinery & Built-ins.",design_change,low,resolved,Contractor A,2022-06-17,0
+iss_00091,act_002_13,proj_002,"Delivery of Carpentry, Joinery & Built-ins delayed by supplier.",material_delay,high,resolved,Project Engineer,2022-06-12,0
+iss_00092,act_002_14,proj_002,"Client-requested scope change impacts Fixtures, Fittings & Sanitaryware.",design_change,low,resolved,Site Manager,2022-07-08,0
+iss_00093,act_002_14,proj_002,"Undocumented additional work added to Fixtures, Fittings & Sanitaryware.",scope_creep,low,resolved,Client PM,2022-06-29,0
+iss_00094,act_002_14,proj_002,"Safety non-compliance flagged during Fixtures, Fittings & Sanitaryware.",safety,high,resolved,Project Engineer,2022-07-04,0
+iss_00095,act_002_15,proj_002,"Key equipment broke down mid-task on Final Inspection, Snag & Handover.",equipment_breakdown,high,resolved,Contractor A,2022-07-12,0
+iss_00096,act_002_15,proj_002,"Key equipment broke down mid-task on Final Inspection, Snag & Handover.",equipment_breakdown,high,resolved,Contractor B,2022-07-10,0
+iss_00097,act_003_01,proj_003,Key equipment broke down mid-task on Site Survey & Mobilization.,equipment_breakdown,medium,resolved,Site Manager,2022-06-18,0
+iss_00098,act_003_01,proj_003,Adverse weather halted outdoor work on Site Survey & Mobilization.,weather,low,resolved,Contractor A,2022-06-21,0
+iss_00099,act_003_02,proj_003,Client-requested scope change impacts Demolition & Strip-Out.,design_change,high,resolved,Contractor B,2022-07-06,0
+iss_00100,act_003_02,proj_003,Adverse weather halted outdoor work on Demolition & Strip-Out.,weather,critical,resolved,Safety Officer,2022-07-02,0
+iss_00101,act_003_02,proj_003,Adverse weather halted outdoor work on Demolition & Strip-Out.,weather,medium,resolved,QA Inspector,2022-06-25,0
+iss_00102,act_003_03,proj_003,Key equipment broke down mid-task on Structural Repairs & Reinforcement.,equipment_breakdown,low,resolved,Contractor A,2022-07-16,0
+iss_00103,act_003_03,proj_003,Undocumented additional work added to Structural Repairs & Reinforcement.,scope_creep,low,open,Contractor A,2022-07-27,2
+iss_00104,act_003_03,proj_003,Insufficient crew available; Structural Repairs & Reinforcement understaffed.,labor_shortage,medium,open,Contractor B,2022-07-14,2
+iss_00105,act_003_03,proj_003,Municipal inspection failed; rework needed on Structural Repairs & Reinforcement.,inspection_fail,medium,resolved,Contractor A,2022-07-17,0
+iss_00106,act_003_04,proj_003,Undocumented additional work added to Waterproofing & Damp Proofing.,scope_creep,low,resolved,Client PM,2022-08-12,0
+iss_00107,act_003_04,proj_003,Adverse weather halted outdoor work on Waterproofing & Damp Proofing.,weather,critical,resolved,Procurement Lead,2022-08-05,0
+iss_00108,act_003_04,proj_003,Safety non-compliance flagged during Waterproofing & Damp Proofing.,safety,high,resolved,Contractor B,2022-08-12,0
+iss_00109,act_003_04,proj_003,Safety non-compliance flagged during Waterproofing & Damp Proofing.,safety,medium,resolved,Safety Officer,2022-08-10,0
+iss_00110,act_003_05,proj_003,Insufficient crew available; Plumbing Rough-in understaffed.,labor_shortage,medium,resolved,Client PM,2022-08-15,0
+iss_00111,act_003_05,proj_003,Delivery of Plumbing Rough-in delayed by supplier.,material_delay,medium,resolved,Project Engineer,2022-08-16,0
+iss_00112,act_003_05,proj_003,Delivery of Plumbing Rough-in delayed by supplier.,material_delay,low,open,Contractor B,2022-08-14,3
+iss_00113,act_003_05,proj_003,Key equipment broke down mid-task on Plumbing Rough-in.,equipment_breakdown,high,open,Contractor A,2022-08-10,3
+iss_00114,act_003_06,proj_003,Undocumented additional work added to Electrical Wiring & Conduits.,scope_creep,medium,resolved,Procurement Lead,2022-08-06,0
+iss_00115,act_003_06,proj_003,Insufficient crew available; Electrical Wiring & Conduits understaffed.,labor_shortage,low,open,QA Inspector,2022-08-08,3
+iss_00116,act_003_06,proj_003,Key equipment broke down mid-task on Electrical Wiring & Conduits.,equipment_breakdown,medium,resolved,Procurement Lead,2022-08-08,0
+iss_00117,act_003_06,proj_003,Undocumented additional work added to Electrical Wiring & Conduits.,scope_creep,low,resolved,Contractor B,2022-08-12,0
+iss_00118,act_003_07,proj_003,Adverse weather halted outdoor work on HVAC & Ventilation Installation.,weather,medium,resolved,Site Manager,2022-08-15,0
+iss_00119,act_003_07,proj_003,Key equipment broke down mid-task on HVAC & Ventilation Installation.,equipment_breakdown,low,resolved,QA Inspector,2022-08-13,0
+iss_00120,act_003_07,proj_003,Client-requested scope change impacts HVAC & Ventilation Installation.,design_change,low,resolved,QA Inspector,2022-08-10,0
+iss_00121,act_003_07,proj_003,Municipal inspection failed; rework needed on HVAC & Ventilation Installation.,inspection_fail,medium,open,Client PM,2022-08-12,0
+iss_00122,act_003_08,proj_003,Insufficient crew available; Floor Leveling & Screed understaffed.,labor_shortage,low,resolved,QA Inspector,2022-08-30,0
+iss_00123,act_003_08,proj_003,Client-requested scope change impacts Floor Leveling & Screed.,design_change,medium,resolved,Site Manager,2022-08-23,0
+iss_00124,act_003_08,proj_003,Key equipment broke down mid-task on Floor Leveling & Screed.,equipment_breakdown,medium,resolved,Contractor B,2022-08-25,0
+iss_00125,act_003_09,proj_003,Safety non-compliance flagged during Tiling — Floors & Wet Areas.,safety,critical,resolved,Contractor B,2022-09-16,0
+iss_00126,act_003_09,proj_003,Safety non-compliance flagged during Tiling — Floors & Wet Areas.,safety,critical,resolved,Site Manager,2022-09-20,0
+iss_00127,act_003_09,proj_003,Client-requested scope change impacts Tiling — Floors & Wet Areas.,design_change,low,resolved,Contractor B,2022-09-13,0
+iss_00128,act_003_10,proj_003,Safety non-compliance flagged during Wall Plastering & Screeding.,safety,low,resolved,Contractor B,2022-08-29,0
+iss_00129,act_003_10,proj_003,Safety non-compliance flagged during Wall Plastering & Screeding.,safety,low,resolved,QA Inspector,2022-08-26,0
+iss_00130,act_003_10,proj_003,Delivery of Wall Plastering & Screeding delayed by supplier.,material_delay,critical,resolved,Contractor B,2022-09-01,0
+iss_00131,act_003_11,proj_003,Undocumented additional work added to False Ceiling & Insulation.,scope_creep,medium,resolved,Site Manager,2022-09-10,0
+iss_00132,act_003_11,proj_003,Client-requested scope change impacts False Ceiling & Insulation.,design_change,medium,resolved,Contractor B,2022-09-16,0
+iss_00133,act_003_11,proj_003,Key equipment broke down mid-task on False Ceiling & Insulation.,equipment_breakdown,low,open,Site Manager,2022-09-12,1
+iss_00134,act_003_12,proj_003,Safety non-compliance flagged during Painting — Primer & Finish Coats.,safety,low,resolved,Contractor A,2022-10-01,0
+iss_00135,act_003_12,proj_003,Undocumented additional work added to Painting — Primer & Finish Coats.,scope_creep,medium,resolved,QA Inspector,2022-09-25,0
+iss_00136,act_003_12,proj_003,Safety non-compliance flagged during Painting — Primer & Finish Coats.,safety,high,resolved,Safety Officer,2022-09-21,0
+iss_00137,act_003_13,proj_003,"Adverse weather halted outdoor work on Carpentry, Joinery & Built-ins.",weather,medium,resolved,Contractor B,2022-10-19,0
+iss_00138,act_003_13,proj_003,"Key equipment broke down mid-task on Carpentry, Joinery & Built-ins.",equipment_breakdown,low,resolved,QA Inspector,2022-10-15,0
+iss_00139,act_003_13,proj_003,"Insufficient crew available; Carpentry, Joinery & Built-ins understaffed.",labor_shortage,critical,resolved,Contractor A,2022-10-08,0
+iss_00140,act_003_14,proj_003,"Delivery of Fixtures, Fittings & Sanitaryware delayed by supplier.",material_delay,medium,resolved,Procurement Lead,2022-11-04,0
+iss_00141,act_003_14,proj_003,"Insufficient crew available; Fixtures, Fittings & Sanitaryware understaffed.",labor_shortage,medium,resolved,Site Manager,2022-10-30,0
+iss_00142,act_003_14,proj_003,"Key equipment broke down mid-task on Fixtures, Fittings & Sanitaryware.",equipment_breakdown,low,resolved,QA Inspector,2022-10-27,0
+iss_00143,act_003_15,proj_003,"Client-requested scope change impacts Final Inspection, Snag & Handover.",design_change,high,resolved,Safety Officer,2022-11-09,0
+iss_00144,act_003_15,proj_003,"Key equipment broke down mid-task on Final Inspection, Snag & Handover.",equipment_breakdown,critical,resolved,QA Inspector,2022-11-06,0
+iss_00145,act_004_01,proj_004,Safety non-compliance flagged during Site Survey & Mobilization.,safety,high,resolved,Client PM,2022-09-08,0
+iss_00146,act_004_01,proj_004,Municipal inspection failed; rework needed on Site Survey & Mobilization.,inspection_fail,medium,resolved,QA Inspector,2022-09-08,0
+iss_00147,act_004_02,proj_004,Client-requested scope change impacts Demolition & Strip-Out.,design_change,low,resolved,Site Manager,2022-09-13,0
+iss_00148,act_004_02,proj_004,Delivery of Demolition & Strip-Out delayed by supplier.,material_delay,low,resolved,Safety Officer,2022-09-18,0
+iss_00149,act_004_02,proj_004,Adverse weather halted outdoor work on Demolition & Strip-Out.,weather,critical,resolved,Project Engineer,2022-09-21,0
+iss_00150,act_004_03,proj_004,Key equipment broke down mid-task on Structural Repairs & Reinforcement.,equipment_breakdown,low,resolved,Site Manager,2022-10-11,0
+iss_00151,act_004_03,proj_004,Adverse weather halted outdoor work on Structural Repairs & Reinforcement.,weather,critical,resolved,Contractor B,2022-10-10,0
+iss_00152,act_004_03,proj_004,Safety non-compliance flagged during Structural Repairs & Reinforcement.,safety,medium,resolved,Contractor A,2022-10-02,0
+iss_00153,act_004_03,proj_004,Insufficient crew available; Structural Repairs & Reinforcement understaffed.,labor_shortage,medium,resolved,Client PM,2022-10-15,0
+iss_00154,act_004_04,proj_004,Adverse weather halted outdoor work on Waterproofing & Damp Proofing.,weather,critical,open,Site Manager,2022-10-25,0
+iss_00155,act_004_04,proj_004,Delivery of Waterproofing & Damp Proofing delayed by supplier.,material_delay,medium,resolved,Site Manager,2022-10-20,0
+iss_00156,act_004_04,proj_004,Key equipment broke down mid-task on Waterproofing & Damp Proofing.,equipment_breakdown,low,resolved,Procurement Lead,2022-10-24,0
+iss_00157,act_004_04,proj_004,Adverse weather halted outdoor work on Waterproofing & Damp Proofing.,weather,low,resolved,Client PM,2022-10-22,0
+iss_00158,act_004_05,proj_004,Client-requested scope change impacts Plumbing Rough-in.,design_change,high,resolved,QA Inspector,2022-10-29,0
+iss_00159,act_004_05,proj_004,Municipal inspection failed; rework needed on Plumbing Rough-in.,inspection_fail,medium,resolved,Contractor B,2022-10-27,0
+iss_00160,act_004_05,proj_004,Delivery of Plumbing Rough-in delayed by supplier.,material_delay,medium,resolved,Contractor A,2022-10-18,0
+iss_00161,act_004_05,proj_004,Undocumented additional work added to Plumbing Rough-in.,scope_creep,critical,open,Client PM,2022-10-21,1
+iss_00162,act_004_06,proj_004,Adverse weather halted outdoor work on Electrical Wiring & Conduits.,weather,low,resolved,Safety Officer,2022-11-01,0
+iss_00163,act_004_06,proj_004,Client-requested scope change impacts Electrical Wiring & Conduits.,design_change,medium,resolved,Site Manager,2022-10-25,0
+iss_00164,act_004_06,proj_004,Insufficient crew available; Electrical Wiring & Conduits understaffed.,labor_shortage,medium,resolved,Project Engineer,2022-10-29,0
+iss_00165,act_004_06,proj_004,Key equipment broke down mid-task on Electrical Wiring & Conduits.,equipment_breakdown,medium,resolved,Procurement Lead,2022-10-31,0
+iss_00166,act_004_07,proj_004,Adverse weather halted outdoor work on HVAC & Ventilation Installation.,weather,low,open,Site Manager,2022-10-21,1
+iss_00167,act_004_07,proj_004,Safety non-compliance flagged during HVAC & Ventilation Installation.,safety,critical,resolved,Site Manager,2022-10-22,0
+iss_00168,act_004_07,proj_004,Municipal inspection failed; rework needed on HVAC & Ventilation Installation.,inspection_fail,critical,open,Site Manager,2022-10-28,0
+iss_00169,act_004_07,proj_004,Adverse weather halted outdoor work on HVAC & Ventilation Installation.,weather,low,resolved,Project Engineer,2022-10-20,0
+iss_00170,act_004_08,proj_004,Safety non-compliance flagged during Floor Leveling & Screed.,safety,low,open,Contractor B,2022-11-06,5
+iss_00171,act_004_08,proj_004,Municipal inspection failed; rework needed on Floor Leveling & Screed.,inspection_fail,medium,resolved,Safety Officer,2022-11-10,0
+iss_00172,act_004_08,proj_004,Municipal inspection failed; rework needed on Floor Leveling & Screed.,inspection_fail,medium,resolved,QA Inspector,2022-11-10,0
+iss_00173,act_004_09,proj_004,Key equipment broke down mid-task on Tiling — Floors & Wet Areas.,equipment_breakdown,critical,resolved,Project Engineer,2022-11-22,0
+iss_00174,act_004_09,proj_004,Key equipment broke down mid-task on Tiling — Floors & Wet Areas.,equipment_breakdown,low,resolved,Client PM,2022-11-19,0
+iss_00175,act_004_09,proj_004,Client-requested scope change impacts Tiling — Floors & Wet Areas.,design_change,critical,resolved,Procurement Lead,2022-11-27,0
+iss_00176,act_004_10,proj_004,Municipal inspection failed; rework needed on Wall Plastering & Screeding.,inspection_fail,high,resolved,QA Inspector,2022-11-09,0
+iss_00177,act_004_10,proj_004,Client-requested scope change impacts Wall Plastering & Screeding.,design_change,medium,resolved,Contractor A,2022-11-10,0
+iss_00178,act_004_10,proj_004,Adverse weather halted outdoor work on Wall Plastering & Screeding.,weather,high,resolved,Client PM,2022-11-12,0
+iss_00179,act_004_11,proj_004,Key equipment broke down mid-task on False Ceiling & Insulation.,equipment_breakdown,low,resolved,Safety Officer,2022-11-27,0
+iss_00180,act_004_11,proj_004,Delivery of False Ceiling & Insulation delayed by supplier.,material_delay,low,resolved,QA Inspector,2022-11-23,0
+iss_00181,act_004_11,proj_004,Safety non-compliance flagged during False Ceiling & Insulation.,safety,low,open,Safety Officer,2022-11-23,2
+iss_00182,act_004_12,proj_004,Safety non-compliance flagged during Painting — Primer & Finish Coats.,safety,low,resolved,Site Manager,2022-12-17,0
+iss_00183,act_004_12,proj_004,Safety non-compliance flagged during Painting — Primer & Finish Coats.,safety,low,resolved,Safety Officer,2022-12-09,0
+iss_00184,act_004_12,proj_004,Insufficient crew available; Painting — Primer & Finish Coats understaffed.,labor_shortage,medium,resolved,Project Engineer,2022-12-07,0
+iss_00185,act_004_13,proj_004,"Municipal inspection failed; rework needed on Carpentry, Joinery & Built-ins.",inspection_fail,high,resolved,Contractor A,2023-01-05,0
+iss_00186,act_004_13,proj_004,"Key equipment broke down mid-task on Carpentry, Joinery & Built-ins.",equipment_breakdown,medium,resolved,Project Engineer,2022-12-24,0
+iss_00187,act_004_13,proj_004,"Undocumented additional work added to Carpentry, Joinery & Built-ins.",scope_creep,medium,resolved,QA Inspector,2022-12-26,0
+iss_00188,act_004_14,proj_004,"Insufficient crew available; Fixtures, Fittings & Sanitaryware understaffed.",labor_shortage,medium,resolved,QA Inspector,2023-01-13,0
+iss_00189,act_004_14,proj_004,"Delivery of Fixtures, Fittings & Sanitaryware delayed by supplier.",material_delay,low,resolved,Site Manager,2023-01-17,0
+iss_00190,act_004_14,proj_004,"Municipal inspection failed; rework needed on Fixtures, Fittings & Sanitaryware.",inspection_fail,low,resolved,Site Manager,2023-01-18,0
+iss_00191,act_004_15,proj_004,"Delivery of Final Inspection, Snag & Handover delayed by supplier.",material_delay,medium,open,Contractor A,2023-01-26,3
+iss_00192,act_004_15,proj_004,"Municipal inspection failed; rework needed on Final Inspection, Snag & Handover.",inspection_fail,low,resolved,QA Inspector,2023-01-23,0
+iss_00193,act_005_01,proj_005,Safety non-compliance flagged during Site Survey & Mobilization.,safety,medium,open,Procurement Lead,2023-01-08,2
+iss_00194,act_005_01,proj_005,Insufficient crew available; Site Survey & Mobilization understaffed.,labor_shortage,high,resolved,Contractor A,2023-01-05,0
+iss_00195,act_005_02,proj_005,Client-requested scope change impacts Demolition & Strip-Out.,design_change,low,open,Safety Officer,2023-01-24,0
+iss_00196,act_005_02,proj_005,Key equipment broke down mid-task on Demolition & Strip-Out.,equipment_breakdown,low,open,Safety Officer,2023-01-21,5
+iss_00197,act_005_02,proj_005,Delivery of Demolition & Strip-Out delayed by supplier.,material_delay,critical,resolved,Client PM,2023-01-13,0
+iss_00198,act_005_03,proj_005,Insufficient crew available; Structural Repairs & Reinforcement understaffed.,labor_shortage,low,resolved,Client PM,2023-02-06,0
+iss_00199,act_005_03,proj_005,Key equipment broke down mid-task on Structural Repairs & Reinforcement.,equipment_breakdown,low,open,Procurement Lead,2023-01-30,1
+iss_00200,act_005_03,proj_005,Adverse weather halted outdoor work on Structural Repairs & Reinforcement.,weather,medium,open,QA Inspector,2023-02-10,4
+iss_00201,act_005_03,proj_005,Insufficient crew available; Structural Repairs & Reinforcement understaffed.,labor_shortage,medium,open,Procurement Lead,2023-02-04,3
+iss_00202,act_005_04,proj_005,Safety non-compliance flagged during Waterproofing & Damp Proofing.,safety,high,resolved,Contractor A,2023-02-22,0
+iss_00203,act_005_04,proj_005,Municipal inspection failed; rework needed on Waterproofing & Damp Proofing.,inspection_fail,high,resolved,Project Engineer,2023-02-21,0
+iss_00204,act_005_04,proj_005,Insufficient crew available; Waterproofing & Damp Proofing understaffed.,labor_shortage,low,resolved,Project Engineer,2023-02-18,0
+iss_00205,act_005_04,proj_005,Client-requested scope change impacts Waterproofing & Damp Proofing.,design_change,medium,resolved,Procurement Lead,2023-02-19,0
+iss_00206,act_005_05,proj_005,Safety non-compliance flagged during Plumbing Rough-in.,safety,low,resolved,Safety Officer,2023-02-28,0
+iss_00207,act_005_05,proj_005,Municipal inspection failed; rework needed on Plumbing Rough-in.,inspection_fail,high,resolved,Contractor A,2023-02-18,0
+iss_00208,act_005_05,proj_005,Client-requested scope change impacts Plumbing Rough-in.,design_change,critical,resolved,Procurement Lead,2023-03-01,0
+iss_00209,act_005_05,proj_005,Client-requested scope change impacts Plumbing Rough-in.,design_change,high,open,QA Inspector,2023-02-18,2
+iss_00210,act_005_06,proj_005,Municipal inspection failed; rework needed on Electrical Wiring & Conduits.,inspection_fail,critical,resolved,Contractor A,2023-02-18,0
+iss_00211,act_005_06,proj_005,Undocumented additional work added to Electrical Wiring & Conduits.,scope_creep,high,resolved,Project Engineer,2023-02-16,0
+iss_00212,act_005_06,proj_005,Undocumented additional work added to Electrical Wiring & Conduits.,scope_creep,low,open,Procurement Lead,2023-02-21,5
+iss_00213,act_005_06,proj_005,Municipal inspection failed; rework needed on Electrical Wiring & Conduits.,inspection_fail,low,resolved,Safety Officer,2023-02-22,0
+iss_00214,act_005_07,proj_005,Client-requested scope change impacts HVAC & Ventilation Installation.,design_change,low,resolved,Safety Officer,2023-02-16,0
+iss_00215,act_005_07,proj_005,Undocumented additional work added to HVAC & Ventilation Installation.,scope_creep,low,open,QA Inspector,2023-02-22,5
+iss_00216,act_005_07,proj_005,Client-requested scope change impacts HVAC & Ventilation Installation.,design_change,low,resolved,Client PM,2023-02-24,0
+iss_00217,act_005_07,proj_005,Undocumented additional work added to HVAC & Ventilation Installation.,scope_creep,medium,open,Project Engineer,2023-02-17,0
+iss_00218,act_005_08,proj_005,Client-requested scope change impacts Floor Leveling & Screed.,design_change,low,resolved,Client PM,2023-03-09,0
+iss_00219,act_005_08,proj_005,Insufficient crew available; Floor Leveling & Screed understaffed.,labor_shortage,medium,resolved,QA Inspector,2023-03-12,0
+iss_00220,act_005_08,proj_005,Key equipment broke down mid-task on Floor Leveling & Screed.,equipment_breakdown,low,resolved,Client PM,2023-03-13,0
+iss_00221,act_005_09,proj_005,Client-requested scope change impacts Tiling — Floors & Wet Areas.,design_change,low,open,Client PM,2023-03-26,5
+iss_00222,act_005_09,proj_005,Delivery of Tiling — Floors & Wet Areas delayed by supplier.,material_delay,low,resolved,Procurement Lead,2023-03-26,0
+iss_00223,act_005_09,proj_005,Client-requested scope change impacts Tiling — Floors & Wet Areas.,design_change,low,resolved,Contractor B,2023-03-22,0
+iss_00224,act_005_10,proj_005,Safety non-compliance flagged during Wall Plastering & Screeding.,safety,high,open,Procurement Lead,2023-03-11,0
+iss_00225,act_005_10,proj_005,Safety non-compliance flagged during Wall Plastering & Screeding.,safety,low,resolved,Contractor A,2023-03-07,0
+iss_00226,act_005_10,proj_005,Delivery of Wall Plastering & Screeding delayed by supplier.,material_delay,medium,resolved,Site Manager,2023-03-12,0
+iss_00227,act_005_11,proj_005,Client-requested scope change impacts False Ceiling & Insulation.,design_change,medium,open,Client PM,2023-03-25,0
+iss_00228,act_005_11,proj_005,Adverse weather halted outdoor work on False Ceiling & Insulation.,weather,high,resolved,Contractor A,2023-03-26,0
+iss_00229,act_005_11,proj_005,Safety non-compliance flagged during False Ceiling & Insulation.,safety,medium,resolved,Client PM,2023-03-29,0
+iss_00230,act_005_12,proj_005,Municipal inspection failed; rework needed on Painting — Primer & Finish Coats.,inspection_fail,medium,open,Client PM,2023-04-13,2
+iss_00231,act_005_12,proj_005,Safety non-compliance flagged during Painting — Primer & Finish Coats.,safety,high,resolved,Procurement Lead,2023-04-03,0
+iss_00232,act_005_12,proj_005,Municipal inspection failed; rework needed on Painting — Primer & Finish Coats.,inspection_fail,medium,resolved,Site Manager,2023-04-04,0
+iss_00233,act_005_13,proj_005,"Key equipment broke down mid-task on Carpentry, Joinery & Built-ins.",equipment_breakdown,high,resolved,Contractor B,2023-04-28,0
+iss_00234,act_005_13,proj_005,"Undocumented additional work added to Carpentry, Joinery & Built-ins.",scope_creep,low,resolved,QA Inspector,2023-04-28,0
+iss_00235,act_005_13,proj_005,"Client-requested scope change impacts Carpentry, Joinery & Built-ins.",design_change,high,open,Contractor A,2023-04-25,3
+iss_00236,act_005_14,proj_005,"Undocumented additional work added to Fixtures, Fittings & Sanitaryware.",scope_creep,critical,resolved,Contractor B,2023-05-08,0
+iss_00237,act_005_14,proj_005,"Safety non-compliance flagged during Fixtures, Fittings & Sanitaryware.",safety,high,resolved,QA Inspector,2023-05-08,0
+iss_00238,act_005_14,proj_005,"Municipal inspection failed; rework needed on Fixtures, Fittings & Sanitaryware.",inspection_fail,low,resolved,Safety Officer,2023-05-13,0
+iss_00239,act_005_15,proj_005,"Insufficient crew available; Final Inspection, Snag & Handover understaffed.",labor_shortage,medium,resolved,Safety Officer,2023-05-19,0
+iss_00240,act_005_15,proj_005,"Insufficient crew available; Final Inspection, Snag & Handover understaffed.",labor_shortage,critical,resolved,Contractor B,2023-05-20,0
+iss_00241,act_006_01,proj_006,Adverse weather halted outdoor work on Site Survey & Mobilization.,weather,medium,resolved,Contractor B,2023-03-06,0
+iss_00242,act_006_01,proj_006,Undocumented additional work added to Site Survey & Mobilization.,scope_creep,low,resolved,Site Manager,2023-03-07,0
+iss_00243,act_006_02,proj_006,Delivery of Demolition & Strip-Out delayed by supplier.,material_delay,low,resolved,Contractor A,2023-03-14,0
+iss_00244,act_006_02,proj_006,Undocumented additional work added to Demolition & Strip-Out.,scope_creep,medium,resolved,Site Manager,2023-03-14,0
+iss_00245,act_006_02,proj_006,Municipal inspection failed; rework needed on Demolition & Strip-Out.,inspection_fail,low,resolved,Contractor B,2023-03-15,0
+iss_00246,act_006_03,proj_006,Municipal inspection failed; rework needed on Structural Repairs & Reinforcement.,inspection_fail,low,resolved,QA Inspector,2023-03-29,0
+iss_00247,act_006_03,proj_006,Municipal inspection failed; rework needed on Structural Repairs & Reinforcement.,inspection_fail,low,resolved,Safety Officer,2023-04-03,0
+iss_00248,act_006_03,proj_006,Key equipment broke down mid-task on Structural Repairs & Reinforcement.,equipment_breakdown,medium,resolved,Contractor A,2023-04-04,0
+iss_00249,act_006_03,proj_006,Municipal inspection failed; rework needed on Structural Repairs & Reinforcement.,inspection_fail,medium,open,Safety Officer,2023-03-31,3
+iss_00250,act_006_04,proj_006,Client-requested scope change impacts Waterproofing & Damp Proofing.,design_change,low,resolved,Project Engineer,2023-04-22,0
+iss_00251,act_006_04,proj_006,Municipal inspection failed; rework needed on Waterproofing & Damp Proofing.,inspection_fail,low,resolved,Procurement Lead,2023-04-20,0
+iss_00252,act_006_04,proj_006,Key equipment broke down mid-task on Waterproofing & Damp Proofing.,equipment_breakdown,high,resolved,Contractor A,2023-04-20,0
+iss_00253,act_006_04,proj_006,Undocumented additional work added to Waterproofing & Damp Proofing.,scope_creep,medium,resolved,Safety Officer,2023-04-25,0
+iss_00254,act_006_05,proj_006,Safety non-compliance flagged during Plumbing Rough-in.,safety,medium,resolved,QA Inspector,2023-04-24,0
+iss_00255,act_006_05,proj_006,Delivery of Plumbing Rough-in delayed by supplier.,material_delay,critical,open,Contractor A,2023-04-29,3
+iss_00256,act_006_05,proj_006,Adverse weather halted outdoor work on Plumbing Rough-in.,weather,medium,resolved,Project Engineer,2023-04-26,0
+iss_00257,act_006_05,proj_006,Safety non-compliance flagged during Plumbing Rough-in.,safety,low,resolved,Client PM,2023-04-17,0
+iss_00258,act_006_06,proj_006,Key equipment broke down mid-task on Electrical Wiring & Conduits.,equipment_breakdown,low,resolved,Procurement Lead,2023-04-29,0
+iss_00259,act_006_06,proj_006,Undocumented additional work added to Electrical Wiring & Conduits.,scope_creep,high,open,Contractor A,2023-04-22,2
+iss_00260,act_006_06,proj_006,Insufficient crew available; Electrical Wiring & Conduits understaffed.,labor_shortage,high,resolved,Safety Officer,2023-04-30,0
+iss_00261,act_006_06,proj_006,Delivery of Electrical Wiring & Conduits delayed by supplier.,material_delay,low,resolved,Site Manager,2023-04-28,0
+iss_00262,act_006_07,proj_006,Client-requested scope change impacts HVAC & Ventilation Installation.,design_change,medium,resolved,Procurement Lead,2023-04-20,0
+iss_00263,act_006_07,proj_006,Client-requested scope change impacts HVAC & Ventilation Installation.,design_change,high,resolved,Contractor B,2023-04-22,0
+iss_00264,act_006_07,proj_006,Municipal inspection failed; rework needed on HVAC & Ventilation Installation.,inspection_fail,high,resolved,Procurement Lead,2023-04-27,0
+iss_00265,act_006_07,proj_006,Client-requested scope change impacts HVAC & Ventilation Installation.,design_change,low,open,Contractor A,2023-04-26,4
+iss_00266,act_006_08,proj_006,Insufficient crew available; Floor Leveling & Screed understaffed.,labor_shortage,low,open,Procurement Lead,2023-05-11,0
+iss_00267,act_006_08,proj_006,Delivery of Floor Leveling & Screed delayed by supplier.,material_delay,critical,resolved,Procurement Lead,2023-05-07,0
+iss_00268,act_006_08,proj_006,Client-requested scope change impacts Floor Leveling & Screed.,design_change,high,resolved,Procurement Lead,2023-05-14,0
+iss_00269,act_006_09,proj_006,Insufficient crew available; Tiling — Floors & Wet Areas understaffed.,labor_shortage,medium,resolved,Contractor B,2023-05-24,0
+iss_00270,act_006_09,proj_006,Client-requested scope change impacts Tiling — Floors & Wet Areas.,design_change,low,resolved,Project Engineer,2023-06-04,0
+iss_00271,act_006_09,proj_006,Undocumented additional work added to Tiling — Floors & Wet Areas.,scope_creep,low,resolved,Procurement Lead,2023-05-31,0
+iss_00272,act_006_10,proj_006,Municipal inspection failed; rework needed on Wall Plastering & Screeding.,inspection_fail,medium,resolved,Contractor A,2023-05-14,0
+iss_00273,act_006_10,proj_006,Key equipment broke down mid-task on Wall Plastering & Screeding.,equipment_breakdown,high,open,Procurement Lead,2023-05-08,2
+iss_00274,act_006_10,proj_006,Key equipment broke down mid-task on Wall Plastering & Screeding.,equipment_breakdown,low,resolved,Procurement Lead,2023-05-07,0
+iss_00275,act_006_11,proj_006,Safety non-compliance flagged during False Ceiling & Insulation.,safety,critical,resolved,Procurement Lead,2023-05-28,0
+iss_00276,act_006_11,proj_006,Delivery of False Ceiling & Insulation delayed by supplier.,material_delay,critical,resolved,Project Engineer,2023-05-29,0
+iss_00277,act_006_11,proj_006,Key equipment broke down mid-task on False Ceiling & Insulation.,equipment_breakdown,medium,open,Safety Officer,2023-06-02,1
+iss_00278,act_006_12,proj_006,Safety non-compliance flagged during Painting — Primer & Finish Coats.,safety,medium,resolved,Contractor B,2023-06-11,0
+iss_00279,act_006_12,proj_006,Municipal inspection failed; rework needed on Painting — Primer & Finish Coats.,inspection_fail,critical,open,Procurement Lead,2023-06-13,5
+iss_00280,act_006_12,proj_006,Undocumented additional work added to Painting — Primer & Finish Coats.,scope_creep,medium,open,Client PM,2023-06-09,5
+iss_00281,act_006_13,proj_006,"Safety non-compliance flagged during Carpentry, Joinery & Built-ins.",safety,medium,resolved,QA Inspector,2023-06-28,0
+iss_00282,act_006_13,proj_006,"Delivery of Carpentry, Joinery & Built-ins delayed by supplier.",material_delay,low,resolved,Project Engineer,2023-06-29,0
+iss_00283,act_006_13,proj_006,"Insufficient crew available; Carpentry, Joinery & Built-ins understaffed.",labor_shortage,medium,resolved,Safety Officer,2023-07-03,0
+iss_00284,act_006_14,proj_006,"Client-requested scope change impacts Fixtures, Fittings & Sanitaryware.",design_change,low,resolved,QA Inspector,2023-07-20,0
+iss_00285,act_006_14,proj_006,"Insufficient crew available; Fixtures, Fittings & Sanitaryware understaffed.",labor_shortage,low,resolved,Site Manager,2023-07-15,0
+iss_00286,act_006_14,proj_006,"Undocumented additional work added to Fixtures, Fittings & Sanitaryware.",scope_creep,high,resolved,Site Manager,2023-07-16,0
+iss_00287,act_006_15,proj_006,"Safety non-compliance flagged during Final Inspection, Snag & Handover.",safety,low,resolved,Contractor B,2023-08-01,0
+iss_00288,act_006_15,proj_006,"Client-requested scope change impacts Final Inspection, Snag & Handover.",design_change,low,resolved,Client PM,2023-07-28,0
+iss_00289,act_007_01,proj_007,Client-requested scope change impacts Site Survey & Mobilization.,design_change,high,resolved,Project Engineer,2023-06-01,0
+iss_00290,act_007_01,proj_007,Delivery of Site Survey & Mobilization delayed by supplier.,material_delay,medium,resolved,Project Engineer,2023-06-01,0
+iss_00291,act_007_02,proj_007,Adverse weather halted outdoor work on Demolition & Strip-Out.,weather,high,resolved,QA Inspector,2023-06-19,0
+iss_00292,act_007_02,proj_007,Insufficient crew available; Demolition & Strip-Out understaffed.,labor_shortage,medium,resolved,Procurement Lead,2023-06-13,0
+iss_00293,act_007_02,proj_007,Client-requested scope change impacts Demolition & Strip-Out.,design_change,medium,resolved,Safety Officer,2023-06-15,0
+iss_00294,act_007_03,proj_007,Adverse weather halted outdoor work on Structural Repairs & Reinforcement.,weather,high,resolved,QA Inspector,2023-07-01,0
+iss_00295,act_007_03,proj_007,Insufficient crew available; Structural Repairs & Reinforcement understaffed.,labor_shortage,low,resolved,Contractor A,2023-07-02,0
+iss_00296,act_007_03,proj_007,Undocumented additional work added to Structural Repairs & Reinforcement.,scope_creep,low,resolved,Safety Officer,2023-06-29,0
+iss_00297,act_007_03,proj_007,Client-requested scope change impacts Structural Repairs & Reinforcement.,design_change,high,resolved,Client PM,2023-07-11,0
+iss_00298,act_007_04,proj_007,Safety non-compliance flagged during Waterproofing & Damp Proofing.,safety,low,resolved,Client PM,2023-07-23,0
+iss_00299,act_007_04,proj_007,Client-requested scope change impacts Waterproofing & Damp Proofing.,design_change,high,resolved,Client PM,2023-07-28,0
+iss_00300,act_007_04,proj_007,Delivery of Waterproofing & Damp Proofing delayed by supplier.,material_delay,medium,resolved,Procurement Lead,2023-07-26,0
+iss_00301,act_007_04,proj_007,Delivery of Waterproofing & Damp Proofing delayed by supplier.,material_delay,low,resolved,Project Engineer,2023-07-27,0
+iss_00302,act_007_05,proj_007,Delivery of Plumbing Rough-in delayed by supplier.,material_delay,low,resolved,Safety Officer,2023-08-02,0
+iss_00303,act_007_05,proj_007,Delivery of Plumbing Rough-in delayed by supplier.,material_delay,low,open,Site Manager,2023-07-26,4
+iss_00304,act_007_05,proj_007,Insufficient crew available; Plumbing Rough-in understaffed.,labor_shortage,critical,resolved,Contractor A,2023-07-29,0
+iss_00305,act_007_05,proj_007,Undocumented additional work added to Plumbing Rough-in.,scope_creep,critical,resolved,Site Manager,2023-07-22,0
+iss_00306,act_007_06,proj_007,Delivery of Electrical Wiring & Conduits delayed by supplier.,material_delay,medium,open,QA Inspector,2023-07-29,2
+iss_00307,act_007_06,proj_007,Municipal inspection failed; rework needed on Electrical Wiring & Conduits.,inspection_fail,high,resolved,Project Engineer,2023-07-22,0
+iss_00308,act_007_06,proj_007,Delivery of Electrical Wiring & Conduits delayed by supplier.,material_delay,low,resolved,Project Engineer,2023-07-30,0
+iss_00309,act_007_06,proj_007,Key equipment broke down mid-task on Electrical Wiring & Conduits.,equipment_breakdown,medium,resolved,Procurement Lead,2023-07-22,0
+iss_00310,act_007_07,proj_007,Key equipment broke down mid-task on HVAC & Ventilation Installation.,equipment_breakdown,high,resolved,QA Inspector,2023-07-27,0
+iss_00311,act_007_07,proj_007,Adverse weather halted outdoor work on HVAC & Ventilation Installation.,weather,low,open,Safety Officer,2023-07-26,4
+iss_00312,act_007_07,proj_007,Client-requested scope change impacts HVAC & Ventilation Installation.,design_change,medium,resolved,Project Engineer,2023-07-24,0
+iss_00313,act_007_07,proj_007,Insufficient crew available; HVAC & Ventilation Installation understaffed.,labor_shortage,medium,open,Site Manager,2023-07-21,5
+iss_00314,act_007_08,proj_007,Client-requested scope change impacts Floor Leveling & Screed.,design_change,high,open,Procurement Lead,2023-08-09,1
+iss_00315,act_007_08,proj_007,Municipal inspection failed; rework needed on Floor Leveling & Screed.,inspection_fail,low,resolved,Project Engineer,2023-08-11,0
+iss_00316,act_007_08,proj_007,Adverse weather halted outdoor work on Floor Leveling & Screed.,weather,medium,resolved,Contractor A,2023-08-08,0
+iss_00317,act_007_09,proj_007,Insufficient crew available; Tiling — Floors & Wet Areas understaffed.,labor_shortage,low,resolved,Procurement Lead,2023-08-31,0
+iss_00318,act_007_09,proj_007,Client-requested scope change impacts Tiling — Floors & Wet Areas.,design_change,medium,resolved,Safety Officer,2023-09-06,0
+iss_00319,act_007_09,proj_007,Municipal inspection failed; rework needed on Tiling — Floors & Wet Areas.,inspection_fail,high,open,Safety Officer,2023-09-06,2
+iss_00320,act_007_10,proj_007,Insufficient crew available; Wall Plastering & Screeding understaffed.,labor_shortage,low,resolved,Procurement Lead,2023-08-16,0
+iss_00321,act_007_10,proj_007,Insufficient crew available; Wall Plastering & Screeding understaffed.,labor_shortage,low,open,Project Engineer,2023-08-16,4
+iss_00322,act_007_10,proj_007,Client-requested scope change impacts Wall Plastering & Screeding.,design_change,low,resolved,Contractor B,2023-08-12,0
+iss_00323,act_007_11,proj_007,Client-requested scope change impacts False Ceiling & Insulation.,design_change,medium,resolved,Procurement Lead,2023-08-29,0
+iss_00324,act_007_11,proj_007,Delivery of False Ceiling & Insulation delayed by supplier.,material_delay,medium,open,QA Inspector,2023-09-01,2
+iss_00325,act_007_11,proj_007,Insufficient crew available; False Ceiling & Insulation understaffed.,labor_shortage,low,resolved,QA Inspector,2023-09-04,0
+iss_00326,act_007_12,proj_007,Delivery of Painting — Primer & Finish Coats delayed by supplier.,material_delay,high,resolved,Site Manager,2023-09-14,0
+iss_00327,act_007_12,proj_007,Client-requested scope change impacts Painting — Primer & Finish Coats.,design_change,medium,resolved,Site Manager,2023-09-21,0
+iss_00328,act_007_12,proj_007,Municipal inspection failed; rework needed on Painting — Primer & Finish Coats.,inspection_fail,low,resolved,Site Manager,2023-09-20,0
+iss_00329,act_007_13,proj_007,"Safety non-compliance flagged during Carpentry, Joinery & Built-ins.",safety,critical,resolved,Project Engineer,2023-10-01,0
+iss_00330,act_007_13,proj_007,"Safety non-compliance flagged during Carpentry, Joinery & Built-ins.",safety,high,resolved,QA Inspector,2023-10-02,0
+iss_00331,act_007_13,proj_007,"Insufficient crew available; Carpentry, Joinery & Built-ins understaffed.",labor_shortage,medium,resolved,Client PM,2023-10-15,0
+iss_00332,act_007_14,proj_007,"Key equipment broke down mid-task on Fixtures, Fittings & Sanitaryware.",equipment_breakdown,medium,resolved,Client PM,2023-10-21,0
+iss_00333,act_007_14,proj_007,"Key equipment broke down mid-task on Fixtures, Fittings & Sanitaryware.",equipment_breakdown,medium,resolved,Project Engineer,2023-10-21,0
+iss_00334,act_007_14,proj_007,"Delivery of Fixtures, Fittings & Sanitaryware delayed by supplier.",material_delay,low,resolved,Client PM,2023-10-20,0
+iss_00335,act_007_15,proj_007,"Client-requested scope change impacts Final Inspection, Snag & Handover.",design_change,high,resolved,QA Inspector,2023-11-02,0
+iss_00336,act_007_15,proj_007,"Municipal inspection failed; rework needed on Final Inspection, Snag & Handover.",inspection_fail,medium,resolved,Site Manager,2023-11-02,0
+iss_00337,act_008_01,proj_008,Municipal inspection failed; rework needed on Site Survey & Mobilization.,inspection_fail,medium,open,Contractor B,2024-01-21,2
+iss_00338,act_008_01,proj_008,Undocumented additional work added to Site Survey & Mobilization.,scope_creep,low,open,Safety Officer,2024-01-21,0
+iss_00339,act_008_02,proj_008,Client-requested scope change impacts Demolition & Strip-Out.,design_change,medium,resolved,Contractor A,2024-02-03,0
+iss_00340,act_008_02,proj_008,Safety non-compliance flagged during Demolition & Strip-Out.,safety,critical,open,Client PM,2024-02-03,2
+iss_00341,act_008_02,proj_008,Undocumented additional work added to Demolition & Strip-Out.,scope_creep,low,resolved,Contractor B,2024-02-08,0
+iss_00342,act_008_03,proj_008,Delivery of Structural Repairs & Reinforcement delayed by supplier.,material_delay,low,resolved,Contractor B,2024-02-29,0
+iss_00343,act_008_03,proj_008,Undocumented additional work added to Structural Repairs & Reinforcement.,scope_creep,medium,open,Project Engineer,2024-02-14,5
+iss_00344,act_008_03,proj_008,Municipal inspection failed; rework needed on Structural Repairs & Reinforcement.,inspection_fail,critical,open,Site Manager,2024-02-20,2
+iss_00345,act_008_03,proj_008,Safety non-compliance flagged during Structural Repairs & Reinforcement.,safety,low,open,Contractor A,2024-02-20,0
+iss_00346,act_008_04,proj_008,Client-requested scope change impacts Waterproofing & Damp Proofing.,design_change,medium,open,QA Inspector,2024-03-04,5
+iss_00347,act_008_04,proj_008,Key equipment broke down mid-task on Waterproofing & Damp Proofing.,equipment_breakdown,high,open,Safety Officer,2024-03-08,2
+iss_00348,act_008_04,proj_008,Key equipment broke down mid-task on Waterproofing & Damp Proofing.,equipment_breakdown,high,open,Site Manager,2024-03-05,2
+iss_00349,act_008_04,proj_008,Safety non-compliance flagged during Waterproofing & Damp Proofing.,safety,low,resolved,Site Manager,2024-03-04,0
+iss_00350,act_008_05,proj_008,Client-requested scope change impacts Plumbing Rough-in.,design_change,high,open,Safety Officer,2024-03-07,5
+iss_00351,act_008_05,proj_008,Key equipment broke down mid-task on Plumbing Rough-in.,equipment_breakdown,high,open,Contractor B,2024-03-10,5
+iss_00352,act_008_05,proj_008,Insufficient crew available; Plumbing Rough-in understaffed.,labor_shortage,critical,resolved,Project Engineer,2024-03-13,0
+iss_00353,act_008_05,proj_008,Key equipment broke down mid-task on Plumbing Rough-in.,equipment_breakdown,medium,open,Site Manager,2024-03-13,4
+iss_00354,act_008_06,proj_008,Undocumented additional work added to Electrical Wiring & Conduits.,scope_creep,medium,open,Client PM,2024-03-07,2
+iss_00355,act_008_06,proj_008,Municipal inspection failed; rework needed on Electrical Wiring & Conduits.,inspection_fail,critical,open,Project Engineer,2024-03-11,2
+iss_00356,act_008_06,proj_008,Safety non-compliance flagged during Electrical Wiring & Conduits.,safety,high,open,Procurement Lead,2024-03-15,1
+iss_00357,act_008_06,proj_008,Key equipment broke down mid-task on Electrical Wiring & Conduits.,equipment_breakdown,medium,open,Contractor A,2024-03-09,4
+iss_00358,act_008_07,proj_008,Undocumented additional work added to HVAC & Ventilation Installation.,scope_creep,medium,open,Project Engineer,2024-03-14,3
+iss_00359,act_008_07,proj_008,Adverse weather halted outdoor work on HVAC & Ventilation Installation.,weather,critical,open,Contractor B,2024-03-14,3
+iss_00360,act_008_07,proj_008,Municipal inspection failed; rework needed on HVAC & Ventilation Installation.,inspection_fail,high,open,Contractor A,2024-03-11,0
+iss_00361,act_008_07,proj_008,Key equipment broke down mid-task on HVAC & Ventilation Installation.,equipment_breakdown,medium,open,Project Engineer,2024-03-07,3
+iss_00362,act_008_08,proj_008,Undocumented additional work added to Floor Leveling & Screed.,scope_creep,low,open,Procurement Lead,2024-03-22,2
+iss_00363,act_008_08,proj_008,Adverse weather halted outdoor work on Floor Leveling & Screed.,weather,high,resolved,Site Manager,2024-03-23,0
+iss_00364,act_008_08,proj_008,Insufficient crew available; Floor Leveling & Screed understaffed.,labor_shortage,low,resolved,QA Inspector,2024-03-27,0
+iss_00365,act_008_09,proj_008,Safety non-compliance flagged during Tiling — Floors & Wet Areas.,safety,low,resolved,Project Engineer,2024-04-10,0
+iss_00366,act_008_09,proj_008,Insufficient crew available; Tiling — Floors & Wet Areas understaffed.,labor_shortage,medium,resolved,Safety Officer,2024-04-04,0
+iss_00367,act_008_09,proj_008,Delivery of Tiling — Floors & Wet Areas delayed by supplier.,material_delay,low,resolved,Procurement Lead,2024-04-14,0
+iss_00368,act_009_01,proj_009,Undocumented additional work added to Site Survey & Mobilization.,scope_creep,high,open,Contractor B,2024-03-06,3
+iss_00369,act_009_01,proj_009,Adverse weather halted outdoor work on Site Survey & Mobilization.,weather,high,resolved,Contractor A,2024-03-02,0
+iss_00370,act_009_02,proj_009,Delivery of Demolition & Strip-Out delayed by supplier.,material_delay,medium,open,Procurement Lead,2024-03-16,5
+iss_00371,act_009_02,proj_009,Safety non-compliance flagged during Demolition & Strip-Out.,safety,medium,open,Client PM,2024-03-11,4
+iss_00372,act_009_02,proj_009,Client-requested scope change impacts Demolition & Strip-Out.,design_change,low,open,QA Inspector,2024-03-14,4
+iss_00373,act_009_03,proj_009,Safety non-compliance flagged during Structural Repairs & Reinforcement.,safety,medium,resolved,Contractor B,2024-03-24,0
+iss_00374,act_009_03,proj_009,Client-requested scope change impacts Structural Repairs & Reinforcement.,design_change,medium,open,Safety Officer,2024-03-26,4
+iss_00375,act_009_03,proj_009,Safety non-compliance flagged during Structural Repairs & Reinforcement.,safety,low,open,Procurement Lead,2024-04-06,2
+iss_00376,act_009_03,proj_009,Client-requested scope change impacts Structural Repairs & Reinforcement.,design_change,high,open,Contractor A,2024-03-30,2
+iss_00377,act_009_04,proj_009,Municipal inspection failed; rework needed on Waterproofing & Damp Proofing.,inspection_fail,low,open,Contractor B,2024-04-12,4
+iss_00378,act_009_04,proj_009,Delivery of Waterproofing & Damp Proofing delayed by supplier.,material_delay,critical,open,Site Manager,2024-04-19,1
+iss_00379,act_009_04,proj_009,Delivery of Waterproofing & Damp Proofing delayed by supplier.,material_delay,medium,open,QA Inspector,2024-04-19,4
+iss_00380,act_009_04,proj_009,Adverse weather halted outdoor work on Waterproofing & Damp Proofing.,weather,high,open,Contractor A,2024-04-19,0
+iss_00381,act_009_05,proj_009,Key equipment broke down mid-task on Plumbing Rough-in.,equipment_breakdown,medium,open,Client PM,2024-04-23,1
+iss_00382,act_009_05,proj_009,Insufficient crew available; Plumbing Rough-in understaffed.,labor_shortage,critical,resolved,Project Engineer,2024-04-23,0
+iss_00383,act_009_05,proj_009,Insufficient crew available; Plumbing Rough-in understaffed.,labor_shortage,medium,open,Procurement Lead,2024-04-22,2
+iss_00384,act_009_05,proj_009,Insufficient crew available; Plumbing Rough-in understaffed.,labor_shortage,high,open,QA Inspector,2024-04-13,0
+iss_00385,act_009_06,proj_009,Safety non-compliance flagged during Electrical Wiring & Conduits.,safety,low,resolved,Site Manager,2024-04-22,0
+iss_00386,act_009_06,proj_009,Delivery of Electrical Wiring & Conduits delayed by supplier.,material_delay,low,resolved,Project Engineer,2024-04-22,0
+iss_00387,act_009_06,proj_009,Client-requested scope change impacts Electrical Wiring & Conduits.,design_change,low,open,Procurement Lead,2024-04-16,1
+iss_00388,act_009_06,proj_009,Adverse weather halted outdoor work on Electrical Wiring & Conduits.,weather,low,resolved,Project Engineer,2024-04-12,0
+iss_00389,act_009_07,proj_009,Key equipment broke down mid-task on HVAC & Ventilation Installation.,equipment_breakdown,low,resolved,Project Engineer,2024-04-18,0
+iss_00390,act_009_07,proj_009,Delivery of HVAC & Ventilation Installation delayed by supplier.,material_delay,medium,open,Project Engineer,2024-04-21,3
+iss_00391,act_009_07,proj_009,Undocumented additional work added to HVAC & Ventilation Installation.,scope_creep,medium,resolved,Client PM,2024-04-19,0
+iss_00392,act_009_07,proj_009,Municipal inspection failed; rework needed on HVAC & Ventilation Installation.,inspection_fail,medium,open,QA Inspector,2024-04-25,5
+iss_00393,act_009_08,proj_009,Safety non-compliance flagged during Floor Leveling & Screed.,safety,medium,open,Contractor A,2024-05-03,1
+iss_00394,act_009_08,proj_009,Key equipment broke down mid-task on Floor Leveling & Screed.,equipment_breakdown,critical,open,QA Inspector,2024-04-30,5
+iss_00395,act_009_08,proj_009,Adverse weather halted outdoor work on Floor Leveling & Screed.,weather,medium,open,Safety Officer,2024-05-05,0

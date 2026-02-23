@@ -1,0 +1,541 @@
+id,activity_id,project_id,name,unit,quantity,unit_price,unit_cost,total_price,total_cost,margin_pct,currency
+boq_00001,act_001_01,proj_001,Site Survey & Layout,lumpsum,1,3262,2283,3262,2283,30.0,INR
+boq_00002,act_001_01,proj_001,Temporary Site Office Setup,lumpsum,1,8016,5611,8016,5611,30.0,INR
+boq_00003,act_001_01,proj_001,Safety Hoarding & Signage,lumpsum,1,2042,1429,2042,1429,30.0,INR
+boq_00004,act_001_02,proj_001,Demolition Labour & Equipment,lumpsum,1,12444,8711,12444,8711,30.0,INR
+boq_00005,act_001_02,proj_001,Debris Removal & Disposal,trip,6,5462,3823,32772,22938,30.0,INR
+boq_00006,act_001_02,proj_001,Asbestos Survey & Removal,sqm,30,3920,2744,117600,82320,30.0,INR
+boq_00007,act_001_03,proj_001,Reinforced Concrete M30,m3,15,9196,6437,137940,96555,30.0,INR
+boq_00008,act_001_03,proj_001,Steel Rebar TMT 12mm,tonne,6,4093,2865,24558,17190,30.0,INR
+boq_00009,act_001_03,proj_001,Shuttering Plywood 19mm,sheets,30,2119,1483,63570,44490,30.0,INR
+boq_00010,act_001_03,proj_001,Structural Grouting Compound,bags,20,1922,1346,38440,26920,30.0,INR
+boq_00011,act_001_04,proj_001,SBR Waterproofing Membrane,sqm,120,4481,3137,537720,376440,30.0,INR
+boq_00012,act_001_04,proj_001,Crystalline Waterproofing Slurry,kg,50,2874,2012,143700,100600,30.0,INR
+boq_00013,act_001_04,proj_001,Drainage Board & Filter Fabric,sqm,80,1809,1266,144720,101280,30.0,INR
+boq_00014,act_001_05,proj_001,CPVC Pipes 1 inch,meters,180,2904,2033,522720,365940,30.0,INR
+boq_00015,act_001_05,proj_001,uPVC Soil Pipes 4 inch,meters,60,1493,1045,89580,62700,30.0,INR
+boq_00016,act_001_05,proj_001,GI Fittings Set,set,1,1274,892,1274,892,30.0,INR
+boq_00017,act_001_05,proj_001,Water Storage Tank 1000L,unit,2,6864,4805,13728,9610,30.0,INR
+boq_00018,act_001_06,proj_001,FR Copper Wire 4 sq mm,meters,250,3935,2755,983750,688750,30.0,INR
+boq_00019,act_001_06,proj_001,MCB Distribution Board 18-way,unit,2,5428,3800,10856,7600,30.0,INR
+boq_00020,act_001_06,proj_001,PVC Conduit 25mm,meters,150,1144,801,171600,120150,30.0,INR
+boq_00021,act_001_06,proj_001,Switches & Sockets (Modular),set,1,3133,2193,3133,2193,30.0,INR
+boq_00022,act_001_07,proj_001,Cassette AC Unit 2 Ton,unit,4,14014,9810,56056,39240,30.0,INR
+boq_00023,act_001_07,proj_001,Insulated Ducting,meters,40,4820,3374,192800,134960,30.0,INR
+boq_00024,act_001_07,proj_001,AHU Return Air Grilles,unit,12,1829,1280,21948,15360,30.0,INR
+boq_00025,act_001_07,proj_001,Refrigerant Copper Pipes,meters,60,2725,1907,163500,114420,30.0,INR
+boq_00026,act_001_08,proj_001,Self-Leveling Compound,bags,20,3392,2374,67840,47480,30.0,INR
+boq_00027,act_001_08,proj_001,Bonding Agent SBR,liters,30,1383,968,41490,29040,30.0,INR
+boq_00028,act_001_08,proj_001,DPM Sheet 250 micron,sqm,200,2163,1514,432600,302800,30.0,INR
+boq_00029,act_001_09,proj_001,Vitrified Tiles 800x800mm,sqm,200,8237,5766,1647400,1153200,30.0,INR
+boq_00030,act_001_09,proj_001,Ceramic Tiles 300x600mm,sqm,80,3931,2752,314480,220160,30.0,INR
+boq_00031,act_001_09,proj_001,Tile Adhesive C2 Grade,bags,40,2061,1443,82440,57720,30.0,INR
+boq_00032,act_001_09,proj_001,Tile Grout Mapei,bags,15,648,454,9720,6810,29.9,INR
+boq_00033,act_001_09,proj_001,Tile Edge Trim SS,meters,60,397,278,23820,16680,30.0,INR
+boq_00034,act_001_10,proj_001,Gypsum Plaster 20mm,bags,50,2418,1693,120900,84650,30.0,INR
+boq_00035,act_001_10,proj_001,POP Punning Compound,bags,30,1172,820,35160,24600,30.0,INR
+boq_00036,act_001_10,proj_001,Wire Mesh Reinforcement,sqm,100,875,612,87500,61200,30.1,INR
+boq_00037,act_001_11,proj_001,Gypsum Board 12.5mm,sqm,150,3502,2451,525300,367650,30.0,INR
+boq_00038,act_001_11,proj_001,GI Suspension System,sqm,150,2612,1829,391800,274350,30.0,INR
+boq_00039,act_001_11,proj_001,Glass Wool Insulation 50mm,sqm,100,1771,1240,177100,124000,30.0,INR
+boq_00040,act_001_12,proj_001,Premium Emulsion Paint,liters,120,3576,2503,429120,300360,30.0,INR
+boq_00041,act_001_12,proj_001,Exterior Weather Shield,liters,60,3961,2772,237660,166320,30.0,INR
+boq_00042,act_001_12,proj_001,Primer Coat White,liters,60,1438,1006,86280,60360,30.0,INR
+boq_00043,act_001_12,proj_001,Putty Filler Wall,kg,40,701,491,28040,19640,30.0,INR
+boq_00044,act_001_13,proj_001,Teak Wood Panels Grade A,sqm,30,9937,6956,298110,208680,30.0,INR
+boq_00045,act_001_13,proj_001,Pre-hung Door Sets,unit,8,6929,4850,55432,38800,30.0,INR
+boq_00046,act_001_13,proj_001,Modular Kitchen Framework,lumpsum,1,21692,15184,21692,15184,30.0,INR
+boq_00047,act_001_13,proj_001,Cabinet Hardware Premium Set,set,2,3238,2267,6476,4534,30.0,INR
+boq_00048,act_001_14,proj_001,EWC Rimless Toilet Suite,unit,4,8415,5890,33660,23560,30.0,INR
+boq_00049,act_001_14,proj_001,Concealed Cistern,unit,4,3914,2740,15656,10960,30.0,INR
+boq_00050,act_001_14,proj_001,Basin & Pedestal Set,unit,4,3758,2631,15032,10524,30.0,INR
+boq_00051,act_001_14,proj_001,CP Fittings Set (Taps/Showers),set,4,5698,3989,22792,15956,30.0,INR
+boq_00052,act_001_15,proj_001,Snagging Rectification Labour,lumpsum,1,4940,3458,4940,3458,30.0,INR
+boq_00053,act_001_15,proj_001,As-Built Drawings & O&M Manual,set,1,3081,2157,3081,2157,30.0,INR
+boq_00054,act_001_15,proj_001,Defect Liability Retention,lumpsum,1,8120,0,8120,0,100.0,INR
+boq_00055,act_002_01,proj_002,Site Survey & Layout,lumpsum,1,3266,2286,3266,2286,30.0,INR
+boq_00056,act_002_01,proj_002,Temporary Site Office Setup,lumpsum,1,7824,5477,7824,5477,30.0,INR
+boq_00057,act_002_01,proj_002,Safety Hoarding & Signage,lumpsum,1,2156,1509,2156,1509,30.0,INR
+boq_00058,act_002_02,proj_002,Demolition Labour & Equipment,lumpsum,1,12804,8963,12804,8963,30.0,INR
+boq_00059,act_002_02,proj_002,Debris Removal & Disposal,trip,6,5637,3946,33822,23676,30.0,INR
+boq_00060,act_002_02,proj_002,Asbestos Survey & Removal,sqm,30,3884,2719,116520,81570,30.0,INR
+boq_00061,act_002_03,proj_002,Reinforced Concrete M30,m3,15,10194,7135,152910,107025,30.0,INR
+boq_00062,act_002_03,proj_002,Steel Rebar TMT 12mm,tonne,6,3713,2599,22278,15594,30.0,INR
+boq_00063,act_002_03,proj_002,Shuttering Plywood 19mm,sheets,30,2258,1580,67740,47400,30.0,INR
+boq_00064,act_002_03,proj_002,Structural Grouting Compound,bags,20,1822,1275,36440,25500,30.0,INR
+boq_00065,act_002_04,proj_002,SBR Waterproofing Membrane,sqm,120,4141,2899,496920,347880,30.0,INR
+boq_00066,act_002_04,proj_002,Crystalline Waterproofing Slurry,kg,50,3081,2157,154050,107850,30.0,INR
+boq_00067,act_002_04,proj_002,Drainage Board & Filter Fabric,sqm,80,1959,1371,156720,109680,30.0,INR
+boq_00068,act_002_05,proj_002,CPVC Pipes 1 inch,meters,180,2884,2019,519120,363420,30.0,INR
+boq_00069,act_002_05,proj_002,uPVC Soil Pipes 4 inch,meters,60,1640,1148,98400,68880,30.0,INR
+boq_00070,act_002_05,proj_002,GI Fittings Set,set,1,1322,925,1322,925,30.0,INR
+boq_00071,act_002_05,proj_002,Water Storage Tank 1000L,unit,2,6936,4855,13872,9710,30.0,INR
+boq_00072,act_002_06,proj_002,FR Copper Wire 4 sq mm,meters,250,4410,3087,1102500,771750,30.0,INR
+boq_00073,act_002_06,proj_002,MCB Distribution Board 18-way,unit,2,5296,3708,10592,7416,30.0,INR
+boq_00074,act_002_06,proj_002,PVC Conduit 25mm,meters,150,1014,710,152100,106500,30.0,INR
+boq_00075,act_002_06,proj_002,Switches & Sockets (Modular),set,1,3328,2330,3328,2330,30.0,INR
+boq_00076,act_002_07,proj_002,Cassette AC Unit 2 Ton,unit,4,13790,9653,55160,38612,30.0,INR
+boq_00077,act_002_07,proj_002,Insulated Ducting,meters,40,4221,2955,168840,118200,30.0,INR
+boq_00078,act_002_07,proj_002,AHU Return Air Grilles,unit,12,1683,1178,20196,14136,30.0,INR
+boq_00079,act_002_07,proj_002,Refrigerant Copper Pipes,meters,60,2764,1935,165840,116100,30.0,INR
+boq_00080,act_002_08,proj_002,Self-Leveling Compound,bags,20,3370,2359,67400,47180,30.0,INR
+boq_00081,act_002_08,proj_002,Bonding Agent SBR,liters,30,1357,950,40710,28500,30.0,INR
+boq_00082,act_002_08,proj_002,DPM Sheet 250 micron,sqm,200,2119,1483,423800,296600,30.0,INR
+boq_00083,act_002_09,proj_002,Vitrified Tiles 800x800mm,sqm,200,7324,5127,1464800,1025400,30.0,INR
+boq_00084,act_002_09,proj_002,Ceramic Tiles 300x600mm,sqm,80,4015,2811,321200,224880,30.0,INR
+boq_00085,act_002_09,proj_002,Tile Adhesive C2 Grade,bags,40,2207,1545,88280,61800,30.0,INR
+boq_00086,act_002_09,proj_002,Tile Grout Mapei,bags,15,647,453,9705,6795,30.0,INR
+boq_00087,act_002_09,proj_002,Tile Edge Trim SS,meters,60,395,276,23700,16560,30.1,INR
+boq_00088,act_002_10,proj_002,Gypsum Plaster 20mm,bags,50,2712,1898,135600,94900,30.0,INR
+boq_00089,act_002_10,proj_002,POP Punning Compound,bags,30,1136,795,34080,23850,30.0,INR
+boq_00090,act_002_10,proj_002,Wire Mesh Reinforcement,sqm,100,883,618,88300,61800,30.0,INR
+boq_00091,act_002_11,proj_002,Gypsum Board 12.5mm,sqm,150,3373,2361,505950,354150,30.0,INR
+boq_00092,act_002_11,proj_002,GI Suspension System,sqm,150,2825,1978,423750,296700,30.0,INR
+boq_00093,act_002_11,proj_002,Glass Wool Insulation 50mm,sqm,100,1847,1293,184700,129300,30.0,INR
+boq_00094,act_002_12,proj_002,Premium Emulsion Paint,liters,120,3895,2726,467400,327120,30.0,INR
+boq_00095,act_002_12,proj_002,Exterior Weather Shield,liters,60,4238,2966,254280,177960,30.0,INR
+boq_00096,act_002_12,proj_002,Primer Coat White,liters,60,1474,1032,88440,61920,30.0,INR
+boq_00097,act_002_12,proj_002,Putty Filler Wall,kg,40,775,542,31000,21680,30.1,INR
+boq_00098,act_002_13,proj_002,Teak Wood Panels Grade A,sqm,30,9234,6464,277020,193920,30.0,INR
+boq_00099,act_002_13,proj_002,Pre-hung Door Sets,unit,8,7194,5036,57552,40288,30.0,INR
+boq_00100,act_002_13,proj_002,Modular Kitchen Framework,lumpsum,1,20790,14553,20790,14553,30.0,INR
+boq_00101,act_002_13,proj_002,Cabinet Hardware Premium Set,set,2,3053,2137,6106,4274,30.0,INR
+boq_00102,act_002_14,proj_002,EWC Rimless Toilet Suite,unit,4,8525,5968,34100,23872,30.0,INR
+boq_00103,act_002_14,proj_002,Concealed Cistern,unit,4,3914,2740,15656,10960,30.0,INR
+boq_00104,act_002_14,proj_002,Basin & Pedestal Set,unit,4,3504,2453,14016,9812,30.0,INR
+boq_00105,act_002_14,proj_002,CP Fittings Set (Taps/Showers),set,4,5654,3958,22616,15832,30.0,INR
+boq_00106,act_002_15,proj_002,Snagging Rectification Labour,lumpsum,1,4600,3220,4600,3220,30.0,INR
+boq_00107,act_002_15,proj_002,As-Built Drawings & O&M Manual,set,1,3129,2190,3129,2190,30.0,INR
+boq_00108,act_002_15,proj_002,Defect Liability Retention,lumpsum,1,8632,0,8632,0,100.0,INR
+boq_00109,act_003_01,proj_003,Site Survey & Layout,lumpsum,1,3252,2276,3252,2276,30.0,INR
+boq_00110,act_003_01,proj_003,Temporary Site Office Setup,lumpsum,1,8176,5723,8176,5723,30.0,INR
+boq_00111,act_003_01,proj_003,Safety Hoarding & Signage,lumpsum,1,2077,1454,2077,1454,30.0,INR
+boq_00112,act_003_02,proj_003,Demolition Labour & Equipment,lumpsum,1,11880,8316,11880,8316,30.0,INR
+boq_00113,act_003_02,proj_003,Debris Removal & Disposal,trip,6,5682,3977,34092,23862,30.0,INR
+boq_00114,act_003_02,proj_003,Asbestos Survey & Removal,sqm,30,4104,2873,123120,86190,30.0,INR
+boq_00115,act_003_03,proj_003,Reinforced Concrete M30,m3,15,8778,6145,131670,92175,30.0,INR
+boq_00116,act_003_03,proj_003,Steel Rebar TMT 12mm,tonne,6,3804,2663,22824,15978,30.0,INR
+boq_00117,act_003_03,proj_003,Shuttering Plywood 19mm,sheets,30,2003,1402,60090,42060,30.0,INR
+boq_00118,act_003_03,proj_003,Structural Grouting Compound,bags,20,1944,1361,38880,27220,30.0,INR
+boq_00119,act_003_04,proj_003,SBR Waterproofing Membrane,sqm,120,4406,3084,528720,370080,30.0,INR
+boq_00120,act_003_04,proj_003,Crystalline Waterproofing Slurry,kg,50,3022,2116,151100,105800,30.0,INR
+boq_00121,act_003_04,proj_003,Drainage Board & Filter Fabric,sqm,80,2033,1423,162640,113840,30.0,INR
+boq_00122,act_003_05,proj_003,CPVC Pipes 1 inch,meters,180,2808,1966,505440,353880,30.0,INR
+boq_00123,act_003_05,proj_003,uPVC Soil Pipes 4 inch,meters,60,1662,1164,99720,69840,30.0,INR
+boq_00124,act_003_05,proj_003,GI Fittings Set,set,1,1231,862,1231,862,30.0,INR
+boq_00125,act_003_05,proj_003,Water Storage Tank 1000L,unit,2,6539,4577,13078,9154,30.0,INR
+boq_00126,act_003_06,proj_003,FR Copper Wire 4 sq mm,meters,250,4292,3005,1073000,751250,30.0,INR
+boq_00127,act_003_06,proj_003,MCB Distribution Board 18-way,unit,2,5440,3808,10880,7616,30.0,INR
+boq_00128,act_003_06,proj_003,PVC Conduit 25mm,meters,150,1092,765,163800,114750,29.9,INR
+boq_00129,act_003_06,proj_003,Switches & Sockets (Modular),set,1,3286,2300,3286,2300,30.0,INR
+boq_00130,act_003_07,proj_003,Cassette AC Unit 2 Ton,unit,4,13174,9222,52696,36888,30.0,INR
+boq_00131,act_003_07,proj_003,Insulated Ducting,meters,40,4280,2996,171200,119840,30.0,INR
+boq_00132,act_003_07,proj_003,AHU Return Air Grilles,unit,12,1780,1246,21360,14952,30.0,INR
+boq_00133,act_003_07,proj_003,Refrigerant Copper Pipes,meters,60,2751,1926,165060,115560,30.0,INR
+boq_00134,act_003_08,proj_003,Self-Leveling Compound,bags,20,3338,2336,66760,46720,30.0,INR
+boq_00135,act_003_08,proj_003,Bonding Agent SBR,liters,30,1394,976,41820,29280,30.0,INR
+boq_00136,act_003_08,proj_003,DPM Sheet 250 micron,sqm,200,2033,1423,406600,284600,30.0,INR
+boq_00137,act_003_09,proj_003,Vitrified Tiles 800x800mm,sqm,200,7753,5427,1550600,1085400,30.0,INR
+boq_00138,act_003_09,proj_003,Ceramic Tiles 300x600mm,sqm,80,3914,2740,313120,219200,30.0,INR
+boq_00139,act_003_09,proj_003,Tile Adhesive C2 Grade,bags,40,2350,1645,94000,65800,30.0,INR
+boq_00140,act_003_09,proj_003,Tile Grout Mapei,bags,15,642,449,9630,6735,30.1,INR
+boq_00141,act_003_09,proj_003,Tile Edge Trim SS,meters,60,374,262,22440,15720,29.9,INR
+boq_00142,act_003_10,proj_003,Gypsum Plaster 20mm,bags,50,2553,1787,127650,89350,30.0,INR
+boq_00143,act_003_10,proj_003,POP Punning Compound,bags,30,1066,746,31980,22380,30.0,INR
+boq_00144,act_003_10,proj_003,Wire Mesh Reinforcement,sqm,100,967,677,96700,67700,30.0,INR
+boq_00145,act_003_11,proj_003,Gypsum Board 12.5mm,sqm,150,3468,2428,520200,364200,30.0,INR
+boq_00146,act_003_11,proj_003,GI Suspension System,sqm,150,2638,1846,395700,276900,30.0,INR
+boq_00147,act_003_11,proj_003,Glass Wool Insulation 50mm,sqm,100,1761,1233,176100,123300,30.0,INR
+boq_00148,act_003_12,proj_003,Premium Emulsion Paint,liters,120,3960,2772,475200,332640,30.0,INR
+boq_00149,act_003_12,proj_003,Exterior Weather Shield,liters,60,4234,2964,254040,177840,30.0,INR
+boq_00150,act_003_12,proj_003,Primer Coat White,liters,60,1494,1046,89640,62760,30.0,INR
+boq_00151,act_003_12,proj_003,Putty Filler Wall,kg,40,703,492,28120,19680,30.0,INR
+boq_00152,act_003_13,proj_003,Teak Wood Panels Grade A,sqm,30,9224,6457,276720,193710,30.0,INR
+boq_00153,act_003_13,proj_003,Pre-hung Door Sets,unit,8,6732,4712,53856,37696,30.0,INR
+boq_00154,act_003_13,proj_003,Modular Kitchen Framework,lumpsum,1,21098,14769,21098,14769,30.0,INR
+boq_00155,act_003_13,proj_003,Cabinet Hardware Premium Set,set,2,3130,2191,6260,4382,30.0,INR
+boq_00156,act_003_14,proj_003,EWC Rimless Toilet Suite,unit,4,7981,5587,31924,22348,30.0,INR
+boq_00157,act_003_14,proj_003,Concealed Cistern,unit,4,4179,2925,16716,11700,30.0,INR
+boq_00158,act_003_14,proj_003,Basin & Pedestal Set,unit,4,3792,2655,15168,10620,30.0,INR
+boq_00159,act_003_14,proj_003,CP Fittings Set (Taps/Showers),set,4,5924,4146,23696,16584,30.0,INR
+boq_00160,act_003_15,proj_003,Snagging Rectification Labour,lumpsum,1,5175,3622,5175,3622,30.0,INR
+boq_00161,act_003_15,proj_003,As-Built Drawings & O&M Manual,set,1,2778,1945,2778,1945,30.0,INR
+boq_00162,act_003_15,proj_003,Defect Liability Retention,lumpsum,1,7408,0,7408,0,100.0,INR
+boq_00163,act_004_01,proj_004,Site Survey & Layout,lumpsum,1,3353,2347,3353,2347,30.0,INR
+boq_00164,act_004_01,proj_004,Temporary Site Office Setup,lumpsum,1,7528,5270,7528,5270,30.0,INR
+boq_00165,act_004_01,proj_004,Safety Hoarding & Signage,lumpsum,1,2224,1557,2224,1557,30.0,INR
+boq_00166,act_004_02,proj_004,Demolition Labour & Equipment,lumpsum,1,12396,8677,12396,8677,30.0,INR
+boq_00167,act_004_02,proj_004,Debris Removal & Disposal,trip,6,5720,4004,34320,24024,30.0,INR
+boq_00168,act_004_02,proj_004,Asbestos Survey & Removal,sqm,30,4060,2842,121800,85260,30.0,INR
+boq_00169,act_004_03,proj_004,Reinforced Concrete M30,m3,15,9452,6617,141780,99255,30.0,INR
+boq_00170,act_004_03,proj_004,Steel Rebar TMT 12mm,tonne,6,3751,2625,22506,15750,30.0,INR
+boq_00171,act_004_03,proj_004,Shuttering Plywood 19mm,sheets,30,2234,1564,67020,46920,30.0,INR
+boq_00172,act_004_03,proj_004,Structural Grouting Compound,bags,20,1841,1289,36820,25780,30.0,INR
+boq_00173,act_004_04,proj_004,SBR Waterproofing Membrane,sqm,120,4490,3143,538800,377160,30.0,INR
+boq_00174,act_004_04,proj_004,Crystalline Waterproofing Slurry,kg,50,3202,2242,160100,112100,30.0,INR
+boq_00175,act_004_04,proj_004,Drainage Board & Filter Fabric,sqm,80,1932,1353,154560,108240,30.0,INR
+boq_00176,act_004_05,proj_004,CPVC Pipes 1 inch,meters,180,2800,1960,504000,352800,30.0,INR
+boq_00177,act_004_05,proj_004,uPVC Soil Pipes 4 inch,meters,60,1602,1121,96120,67260,30.0,INR
+boq_00178,act_004_05,proj_004,GI Fittings Set,set,1,1230,861,1230,861,30.0,INR
+boq_00179,act_004_05,proj_004,Water Storage Tank 1000L,unit,2,6142,4300,12284,8600,30.0,INR
+boq_00180,act_004_06,proj_004,FR Copper Wire 4 sq mm,meters,250,4124,2887,1031000,721750,30.0,INR
+boq_00181,act_004_06,proj_004,MCB Distribution Board 18-way,unit,2,5748,4023,11496,8046,30.0,INR
+boq_00182,act_004_06,proj_004,PVC Conduit 25mm,meters,150,1148,804,172200,120600,30.0,INR
+boq_00183,act_004_06,proj_004,Switches & Sockets (Modular),set,1,3078,2155,3078,2155,30.0,INR
+boq_00184,act_004_07,proj_004,Cassette AC Unit 2 Ton,unit,4,13664,9565,54656,38260,30.0,INR
+boq_00185,act_004_07,proj_004,Insulated Ducting,meters,40,4486,3141,179440,125640,30.0,INR
+boq_00186,act_004_07,proj_004,AHU Return Air Grilles,unit,12,1899,1329,22788,15948,30.0,INR
+boq_00187,act_004_07,proj_004,Refrigerant Copper Pipes,meters,60,2506,1754,150360,105240,30.0,INR
+boq_00188,act_004_08,proj_004,Self-Leveling Compound,bags,20,3021,2115,60420,42300,30.0,INR
+boq_00189,act_004_08,proj_004,Bonding Agent SBR,liters,30,1333,933,39990,27990,30.0,INR
+boq_00190,act_004_08,proj_004,DPM Sheet 250 micron,sqm,200,2010,1407,402000,281400,30.0,INR
+boq_00191,act_004_09,proj_004,Vitrified Tiles 800x800mm,sqm,200,7504,5253,1500800,1050600,30.0,INR
+boq_00192,act_004_09,proj_004,Ceramic Tiles 300x600mm,sqm,80,4263,2984,341040,238720,30.0,INR
+boq_00193,act_004_09,proj_004,Tile Adhesive C2 Grade,bags,40,2072,1451,82880,58040,30.0,INR
+boq_00194,act_004_09,proj_004,Tile Grout Mapei,bags,15,696,487,10440,7305,30.0,INR
+boq_00195,act_004_09,proj_004,Tile Edge Trim SS,meters,60,351,246,21060,14760,29.9,INR
+boq_00196,act_004_10,proj_004,Gypsum Plaster 20mm,bags,50,2569,1798,128450,89900,30.0,INR
+boq_00197,act_004_10,proj_004,POP Punning Compound,bags,30,1090,763,32700,22890,30.0,INR
+boq_00198,act_004_10,proj_004,Wire Mesh Reinforcement,sqm,100,949,664,94900,66400,30.0,INR
+boq_00199,act_004_11,proj_004,Gypsum Board 12.5mm,sqm,150,3526,2468,528900,370200,30.0,INR
+boq_00200,act_004_11,proj_004,GI Suspension System,sqm,150,2632,1842,394800,276300,30.0,INR
+boq_00201,act_004_11,proj_004,Glass Wool Insulation 50mm,sqm,100,1904,1333,190400,133300,30.0,INR
+boq_00202,act_004_12,proj_004,Premium Emulsion Paint,liters,120,3633,2543,435960,305160,30.0,INR
+boq_00203,act_004_12,proj_004,Exterior Weather Shield,liters,60,4255,2978,255300,178680,30.0,INR
+boq_00204,act_004_12,proj_004,Primer Coat White,liters,60,1445,1011,86700,60660,30.0,INR
+boq_00205,act_004_12,proj_004,Putty Filler Wall,kg,40,689,482,27560,19280,30.0,INR
+boq_00206,act_004_13,proj_004,Teak Wood Panels Grade A,sqm,30,9262,6484,277860,194520,30.0,INR
+boq_00207,act_004_13,proj_004,Pre-hung Door Sets,unit,8,7283,5098,58264,40784,30.0,INR
+boq_00208,act_004_13,proj_004,Modular Kitchen Framework,lumpsum,1,20306,14214,20306,14214,30.0,INR
+boq_00209,act_004_13,proj_004,Cabinet Hardware Premium Set,set,2,2957,2070,5914,4140,30.0,INR
+boq_00210,act_004_14,proj_004,EWC Rimless Toilet Suite,unit,4,9163,6414,36652,25656,30.0,INR
+boq_00211,act_004_14,proj_004,Concealed Cistern,unit,4,4078,2855,16312,11420,30.0,INR
+boq_00212,act_004_14,proj_004,Basin & Pedestal Set,unit,4,3838,2687,15352,10748,30.0,INR
+boq_00213,act_004_14,proj_004,CP Fittings Set (Taps/Showers),set,4,5742,4019,22968,16076,30.0,INR
+boq_00214,act_004_15,proj_004,Snagging Rectification Labour,lumpsum,1,5235,3664,5235,3664,30.0,INR
+boq_00215,act_004_15,proj_004,As-Built Drawings & O&M Manual,set,1,3066,2146,3066,2146,30.0,INR
+boq_00216,act_004_15,proj_004,Defect Liability Retention,lumpsum,1,7448,0,7448,0,100.0,INR
+boq_00217,act_005_01,proj_005,Site Survey & Layout,lumpsum,1,3318,2323,3318,2323,30.0,INR
+boq_00218,act_005_01,proj_005,Temporary Site Office Setup,lumpsum,1,8368,5858,8368,5858,30.0,INR
+boq_00219,act_005_01,proj_005,Safety Hoarding & Signage,lumpsum,1,2332,1632,2332,1632,30.0,INR
+boq_00220,act_005_02,proj_005,Demolition Labour & Equipment,lumpsum,1,12672,8870,12672,8870,30.0,INR
+boq_00221,act_005_02,proj_005,Debris Removal & Disposal,trip,6,5269,3688,31614,22128,30.0,INR
+boq_00222,act_005_02,proj_005,Asbestos Survey & Removal,sqm,30,4184,2929,125520,87870,30.0,INR
+boq_00223,act_005_03,proj_005,Reinforced Concrete M30,m3,15,10127,7089,151905,106335,30.0,INR
+boq_00224,act_005_03,proj_005,Steel Rebar TMT 12mm,tonne,6,3815,2671,22890,16026,30.0,INR
+boq_00225,act_005_03,proj_005,Shuttering Plywood 19mm,sheets,30,2165,1516,64950,45480,30.0,INR
+boq_00226,act_005_03,proj_005,Structural Grouting Compound,bags,20,1683,1178,33660,23560,30.0,INR
+boq_00227,act_005_04,proj_005,SBR Waterproofing Membrane,sqm,120,4502,3152,540240,378240,30.0,INR
+boq_00228,act_005_04,proj_005,Crystalline Waterproofing Slurry,kg,50,3258,2281,162900,114050,30.0,INR
+boq_00229,act_005_04,proj_005,Drainage Board & Filter Fabric,sqm,80,1965,1375,157200,110000,30.0,INR
+boq_00230,act_005_05,proj_005,CPVC Pipes 1 inch,meters,180,2724,1907,490320,343260,30.0,INR
+boq_00231,act_005_05,proj_005,uPVC Soil Pipes 4 inch,meters,60,1587,1111,95220,66660,30.0,INR
+boq_00232,act_005_05,proj_005,GI Fittings Set,set,1,1332,933,1332,933,30.0,INR
+boq_00233,act_005_05,proj_005,Water Storage Tank 1000L,unit,2,6396,4477,12792,8954,30.0,INR
+boq_00234,act_005_06,proj_005,FR Copper Wire 4 sq mm,meters,250,4204,2943,1051000,735750,30.0,INR
+boq_00235,act_005_06,proj_005,MCB Distribution Board 18-way,unit,2,5527,3869,11054,7738,30.0,INR
+boq_00236,act_005_06,proj_005,PVC Conduit 25mm,meters,150,1122,785,168300,117750,30.0,INR
+boq_00237,act_005_06,proj_005,Switches & Sockets (Modular),set,1,3274,2292,3274,2292,30.0,INR
+boq_00238,act_005_07,proj_005,Cassette AC Unit 2 Ton,unit,4,14812,10368,59248,41472,30.0,INR
+boq_00239,act_005_07,proj_005,Insulated Ducting,meters,40,4401,3081,176040,123240,30.0,INR
+boq_00240,act_005_07,proj_005,AHU Return Air Grilles,unit,12,1683,1178,20196,14136,30.0,INR
+boq_00241,act_005_07,proj_005,Refrigerant Copper Pipes,meters,60,2681,1876,160860,112560,30.0,INR
+boq_00242,act_005_08,proj_005,Self-Leveling Compound,bags,20,2963,2074,59260,41480,30.0,INR
+boq_00243,act_005_08,proj_005,Bonding Agent SBR,liters,30,1308,915,39240,27450,30.0,INR
+boq_00244,act_005_08,proj_005,DPM Sheet 250 micron,sqm,200,2213,1549,442600,309800,30.0,INR
+boq_00245,act_005_09,proj_005,Vitrified Tiles 800x800mm,sqm,200,7621,5334,1524200,1066800,30.0,INR
+boq_00246,act_005_09,proj_005,Ceramic Tiles 300x600mm,sqm,80,4301,3011,344080,240880,30.0,INR
+boq_00247,act_005_09,proj_005,Tile Adhesive C2 Grade,bags,40,2099,1469,83960,58760,30.0,INR
+boq_00248,act_005_09,proj_005,Tile Grout Mapei,bags,15,604,423,9060,6345,30.0,INR
+boq_00249,act_005_09,proj_005,Tile Edge Trim SS,meters,60,359,251,21540,15060,30.1,INR
+boq_00250,act_005_10,proj_005,Gypsum Plaster 20mm,bags,50,2779,1946,138950,97300,30.0,INR
+boq_00251,act_005_10,proj_005,POP Punning Compound,bags,30,1047,733,31410,21990,30.0,INR
+boq_00252,act_005_10,proj_005,Wire Mesh Reinforcement,sqm,100,901,630,90100,63000,30.1,INR
+boq_00253,act_005_11,proj_005,Gypsum Board 12.5mm,sqm,150,3318,2323,497700,348450,30.0,INR
+boq_00254,act_005_11,proj_005,GI Suspension System,sqm,150,2582,1807,387300,271050,30.0,INR
+boq_00255,act_005_11,proj_005,Glass Wool Insulation 50mm,sqm,100,2008,1406,200800,140600,30.0,INR
+boq_00256,act_005_12,proj_005,Premium Emulsion Paint,liters,120,3998,2798,479760,335760,30.0,INR
+boq_00257,act_005_12,proj_005,Exterior Weather Shield,liters,60,4242,2969,254520,178140,30.0,INR
+boq_00258,act_005_12,proj_005,Primer Coat White,liters,60,1390,973,83400,58380,30.0,INR
+boq_00259,act_005_12,proj_005,Putty Filler Wall,kg,40,713,499,28520,19960,30.0,INR
+boq_00260,act_005_13,proj_005,Teak Wood Panels Grade A,sqm,30,9139,6397,274170,191910,30.0,INR
+boq_00261,act_005_13,proj_005,Pre-hung Door Sets,unit,8,7079,4955,56632,39640,30.0,INR
+boq_00262,act_005_13,proj_005,Modular Kitchen Framework,lumpsum,1,22352,15646,22352,15646,30.0,INR
+boq_00263,act_005_13,proj_005,Cabinet Hardware Premium Set,set,2,3299,2309,6598,4618,30.0,INR
+boq_00264,act_005_14,proj_005,EWC Rimless Toilet Suite,unit,4,7828,5480,31312,21920,30.0,INR
+boq_00265,act_005_14,proj_005,Concealed Cistern,unit,4,3940,2758,15760,11032,30.0,INR
+boq_00266,act_005_14,proj_005,Basin & Pedestal Set,unit,4,3515,2460,14060,9840,30.0,INR
+boq_00267,act_005_14,proj_005,CP Fittings Set (Taps/Showers),set,4,5247,3673,20988,14692,30.0,INR
+boq_00268,act_005_15,proj_005,Snagging Rectification Labour,lumpsum,1,5100,3570,5100,3570,30.0,INR
+boq_00269,act_005_15,proj_005,As-Built Drawings & O&M Manual,set,1,2829,1980,2829,1980,30.0,INR
+boq_00270,act_005_15,proj_005,Defect Liability Retention,lumpsum,1,7920,0,7920,0,100.0,INR
+boq_00271,act_006_01,proj_006,Site Survey & Layout,lumpsum,1,3762,2634,3762,2634,30.0,INR
+boq_00272,act_006_01,proj_006,Temporary Site Office Setup,lumpsum,1,8104,5673,8104,5673,30.0,INR
+boq_00273,act_006_01,proj_006,Safety Hoarding & Signage,lumpsum,1,2141,1498,2141,1498,30.0,INR
+boq_00274,act_006_02,proj_006,Demolition Labour & Equipment,lumpsum,1,11400,7980,11400,7980,30.0,INR
+boq_00275,act_006_02,proj_006,Debris Removal & Disposal,trip,6,5698,3989,34188,23934,30.0,INR
+boq_00276,act_006_02,proj_006,Asbestos Survey & Removal,sqm,30,4120,2884,123600,86520,30.0,INR
+boq_00277,act_006_03,proj_006,Reinforced Concrete M30,m3,15,10232,7162,153480,107430,30.0,INR
+boq_00278,act_006_03,proj_006,Steel Rebar TMT 12mm,tonne,6,3735,2615,22410,15690,30.0,INR
+boq_00279,act_006_03,proj_006,Shuttering Plywood 19mm,sheets,30,2258,1580,67740,47400,30.0,INR
+boq_00280,act_006_03,proj_006,Structural Grouting Compound,bags,20,1778,1245,35560,24900,30.0,INR
+boq_00281,act_006_04,proj_006,SBR Waterproofing Membrane,sqm,120,4351,3046,522120,365520,30.0,INR
+boq_00282,act_006_04,proj_006,Crystalline Waterproofing Slurry,kg,50,3252,2276,162600,113800,30.0,INR
+boq_00283,act_006_04,proj_006,Drainage Board & Filter Fabric,sqm,80,1782,1248,142560,99840,30.0,INR
+boq_00284,act_006_05,proj_006,CPVC Pipes 1 inch,meters,180,2747,1923,494460,346140,30.0,INR
+boq_00285,act_006_05,proj_006,uPVC Soil Pipes 4 inch,meters,60,1562,1093,93720,65580,30.0,INR
+boq_00286,act_006_05,proj_006,GI Fittings Set,set,1,1332,933,1332,933,30.0,INR
+boq_00287,act_006_05,proj_006,Water Storage Tank 1000L,unit,2,6045,4232,12090,8464,30.0,INR
+boq_00288,act_006_06,proj_006,FR Copper Wire 4 sq mm,meters,250,4465,3125,1116250,781250,30.0,INR
+boq_00289,act_006_06,proj_006,MCB Distribution Board 18-way,unit,2,5346,3742,10692,7484,30.0,INR
+boq_00290,act_006_06,proj_006,PVC Conduit 25mm,meters,150,1076,753,161400,112950,30.0,INR
+boq_00291,act_006_06,proj_006,Switches & Sockets (Modular),set,1,3245,2271,3245,2271,30.0,INR
+boq_00292,act_006_07,proj_006,Cassette AC Unit 2 Ton,unit,4,13776,9643,55104,38572,30.0,INR
+boq_00293,act_006_07,proj_006,Insulated Ducting,meters,40,4662,3263,186480,130520,30.0,INR
+boq_00294,act_006_07,proj_006,AHU Return Air Grilles,unit,12,1935,1354,23220,16248,30.0,INR
+boq_00295,act_006_07,proj_006,Refrigerant Copper Pipes,meters,60,2709,1896,162540,113760,30.0,INR
+boq_00296,act_006_08,proj_006,Self-Leveling Compound,bags,20,3245,2271,64900,45420,30.0,INR
+boq_00297,act_006_08,proj_006,Bonding Agent SBR,liters,30,1365,956,40950,28680,30.0,INR
+boq_00298,act_006_08,proj_006,DPM Sheet 250 micron,sqm,200,2207,1545,441400,309000,30.0,INR
+boq_00299,act_006_09,proj_006,Vitrified Tiles 800x800mm,sqm,200,7839,5487,1567800,1097400,30.0,INR
+boq_00300,act_006_09,proj_006,Ceramic Tiles 300x600mm,sqm,80,4435,3105,354800,248400,30.0,INR
+boq_00301,act_006_09,proj_006,Tile Adhesive C2 Grade,bags,40,2226,1558,89040,62320,30.0,INR
+boq_00302,act_006_09,proj_006,Tile Grout Mapei,bags,15,687,481,10305,7215,30.0,INR
+boq_00303,act_006_09,proj_006,Tile Edge Trim SS,meters,60,365,256,21900,15360,29.9,INR
+boq_00304,act_006_10,proj_006,Gypsum Plaster 20mm,bags,50,2738,1916,136900,95800,30.0,INR
+boq_00305,act_006_10,proj_006,POP Punning Compound,bags,30,1165,815,34950,24450,30.0,INR
+boq_00306,act_006_10,proj_006,Wire Mesh Reinforcement,sqm,100,884,618,88400,61800,30.1,INR
+boq_00307,act_006_11,proj_006,Gypsum Board 12.5mm,sqm,150,3349,2344,502350,351600,30.0,INR
+boq_00308,act_006_11,proj_006,GI Suspension System,sqm,150,2794,1956,419100,293400,30.0,INR
+boq_00309,act_006_11,proj_006,Glass Wool Insulation 50mm,sqm,100,1759,1232,175900,123200,30.0,INR
+boq_00310,act_006_12,proj_006,Premium Emulsion Paint,liters,120,4013,2809,481560,337080,30.0,INR
+boq_00311,act_006_12,proj_006,Exterior Weather Shield,liters,60,4061,2843,243660,170580,30.0,INR
+boq_00312,act_006_12,proj_006,Primer Coat White,liters,60,1302,911,78120,54660,30.0,INR
+boq_00313,act_006_12,proj_006,Putty Filler Wall,kg,40,733,513,29320,20520,30.0,INR
+boq_00314,act_006_13,proj_006,Teak Wood Panels Grade A,sqm,30,9054,6337,271620,190110,30.0,INR
+boq_00315,act_006_13,proj_006,Pre-hung Door Sets,unit,8,6399,4479,51192,35832,30.0,INR
+boq_00316,act_006_13,proj_006,Modular Kitchen Framework,lumpsum,1,23210,16247,23210,16247,30.0,INR
+boq_00317,act_006_13,proj_006,Cabinet Hardware Premium Set,set,2,3450,2415,6900,4830,30.0,INR
+boq_00318,act_006_14,proj_006,EWC Rimless Toilet Suite,unit,4,9138,6396,36552,25584,30.0,INR
+boq_00319,act_006_14,proj_006,Concealed Cistern,unit,4,4410,3087,17640,12348,30.0,INR
+boq_00320,act_006_14,proj_006,Basin & Pedestal Set,unit,4,3747,2623,14988,10492,30.0,INR
+boq_00321,act_006_14,proj_006,CP Fittings Set (Taps/Showers),set,4,5863,4104,23452,16416,30.0,INR
+boq_00322,act_006_15,proj_006,Snagging Rectification Labour,lumpsum,1,4965,3476,4965,3476,30.0,INR
+boq_00323,act_006_15,proj_006,As-Built Drawings & O&M Manual,set,1,3054,2138,3054,2138,30.0,INR
+boq_00324,act_006_15,proj_006,Defect Liability Retention,lumpsum,1,7600,0,7600,0,100.0,INR
+boq_00325,act_007_01,proj_007,Site Survey & Layout,lumpsum,1,3742,2619,3742,2619,30.0,INR
+boq_00326,act_007_01,proj_007,Temporary Site Office Setup,lumpsum,1,7928,5550,7928,5550,30.0,INR
+boq_00327,act_007_01,proj_007,Safety Hoarding & Signage,lumpsum,1,2347,1643,2347,1643,30.0,INR
+boq_00328,act_007_02,proj_007,Demolition Labour & Equipment,lumpsum,1,11172,7820,11172,7820,30.0,INR
+boq_00329,act_007_02,proj_007,Debris Removal & Disposal,trip,6,5929,4150,35574,24900,30.0,INR
+boq_00330,act_007_02,proj_007,Asbestos Survey & Removal,sqm,30,3920,2744,117600,82320,30.0,INR
+boq_00331,act_007_03,proj_007,Reinforced Concrete M30,m3,15,9186,6431,137790,96465,30.0,INR
+boq_00332,act_007_03,proj_007,Steel Rebar TMT 12mm,tonne,6,3747,2623,22482,15738,30.0,INR
+boq_00333,act_007_03,proj_007,Shuttering Plywood 19mm,sheets,30,2216,1551,66480,46530,30.0,INR
+boq_00334,act_007_03,proj_007,Structural Grouting Compound,bags,20,1870,1309,37400,26180,30.0,INR
+boq_00335,act_007_04,proj_007,SBR Waterproofing Membrane,sqm,120,4309,3016,517080,361920,30.0,INR
+boq_00336,act_007_04,proj_007,Crystalline Waterproofing Slurry,kg,50,2979,2085,148950,104250,30.0,INR
+boq_00337,act_007_04,proj_007,Drainage Board & Filter Fabric,sqm,80,1889,1322,151120,105760,30.0,INR
+boq_00338,act_007_05,proj_007,CPVC Pipes 1 inch,meters,180,2652,1856,477360,334080,30.0,INR
+boq_00339,act_007_05,proj_007,uPVC Soil Pipes 4 inch,meters,60,1707,1195,102420,71700,30.0,INR
+boq_00340,act_007_05,proj_007,GI Fittings Set,set,1,1362,954,1362,954,30.0,INR
+boq_00341,act_007_05,proj_007,Water Storage Tank 1000L,unit,2,6253,4377,12506,8754,30.0,INR
+boq_00342,act_007_06,proj_007,FR Copper Wire 4 sq mm,meters,250,3969,2778,992250,694500,30.0,INR
+boq_00343,act_007_06,proj_007,MCB Distribution Board 18-way,unit,2,5274,3692,10548,7384,30.0,INR
+boq_00344,act_007_06,proj_007,PVC Conduit 25mm,meters,150,1100,770,165000,115500,30.0,INR
+boq_00345,act_007_06,proj_007,Switches & Sockets (Modular),set,1,3130,2191,3130,2191,30.0,INR
+boq_00346,act_007_07,proj_007,Cassette AC Unit 2 Ton,unit,4,13566,9496,54264,37984,30.0,INR
+boq_00347,act_007_07,proj_007,Insulated Ducting,meters,40,4702,3292,188080,131680,30.0,INR
+boq_00348,act_007_07,proj_007,AHU Return Air Grilles,unit,12,1669,1168,20028,14016,30.0,INR
+boq_00349,act_007_07,proj_007,Refrigerant Copper Pipes,meters,60,2506,1754,150360,105240,30.0,INR
+boq_00350,act_007_08,proj_007,Self-Leveling Compound,bags,20,2957,2070,59140,41400,30.0,INR
+boq_00351,act_007_08,proj_007,Bonding Agent SBR,liters,30,1347,943,40410,28290,30.0,INR
+boq_00352,act_007_08,proj_007,DPM Sheet 250 micron,sqm,200,2121,1485,424200,297000,30.0,INR
+boq_00353,act_007_09,proj_007,Vitrified Tiles 800x800mm,sqm,200,7340,5138,1468000,1027600,30.0,INR
+boq_00354,act_007_09,proj_007,Ceramic Tiles 300x600mm,sqm,80,3931,2752,314480,220160,30.0,INR
+boq_00355,act_007_09,proj_007,Tile Adhesive C2 Grade,bags,40,2136,1495,85440,59800,30.0,INR
+boq_00356,act_007_09,proj_007,Tile Grout Mapei,bags,15,615,430,9225,6450,30.1,INR
+boq_00357,act_007_09,proj_007,Tile Edge Trim SS,meters,60,393,275,23580,16500,30.0,INR
+boq_00358,act_007_10,proj_007,Gypsum Plaster 20mm,bags,50,2792,1955,139600,97750,30.0,INR
+boq_00359,act_007_10,proj_007,POP Punning Compound,bags,30,1041,728,31230,21840,30.1,INR
+boq_00360,act_007_10,proj_007,Wire Mesh Reinforcement,sqm,100,881,616,88100,61600,30.1,INR
+boq_00361,act_007_11,proj_007,Gypsum Board 12.5mm,sqm,150,3193,2235,478950,335250,30.0,INR
+boq_00362,act_007_11,proj_007,GI Suspension System,sqm,150,2621,1835,393150,275250,30.0,INR
+boq_00363,act_007_11,proj_007,Glass Wool Insulation 50mm,sqm,100,1909,1337,190900,133700,30.0,INR
+boq_00364,act_007_12,proj_007,Premium Emulsion Paint,liters,120,3709,2596,445080,311520,30.0,INR
+boq_00365,act_007_12,proj_007,Exterior Weather Shield,liters,60,4234,2964,254040,177840,30.0,INR
+boq_00366,act_007_12,proj_007,Primer Coat White,liters,60,1386,970,83160,58200,30.0,INR
+boq_00367,act_007_12,proj_007,Putty Filler Wall,kg,40,762,534,30480,21360,29.9,INR
+boq_00368,act_007_13,proj_007,Teak Wood Panels Grade A,sqm,30,9528,6670,285840,200100,30.0,INR
+boq_00369,act_007_13,proj_007,Pre-hung Door Sets,unit,8,6984,4889,55872,39112,30.0,INR
+boq_00370,act_007_13,proj_007,Modular Kitchen Framework,lumpsum,1,23144,16201,23144,16201,30.0,INR
+boq_00371,act_007_13,proj_007,Cabinet Hardware Premium Set,set,2,3456,2419,6912,4838,30.0,INR
+boq_00372,act_007_14,proj_007,EWC Rimless Toilet Suite,unit,4,9112,6378,36448,25512,30.0,INR
+boq_00373,act_007_14,proj_007,Concealed Cistern,unit,4,4456,3119,17824,12476,30.0,INR
+boq_00374,act_007_14,proj_007,Basin & Pedestal Set,unit,4,3754,2628,15016,10512,30.0,INR
+boq_00375,act_007_14,proj_007,CP Fittings Set (Taps/Showers),set,4,5159,3611,20636,14444,30.0,INR
+boq_00376,act_007_15,proj_007,Snagging Rectification Labour,lumpsum,1,5315,3720,5315,3720,30.0,INR
+boq_00377,act_007_15,proj_007,As-Built Drawings & O&M Manual,set,1,3207,2245,3207,2245,30.0,INR
+boq_00378,act_007_15,proj_007,Defect Liability Retention,lumpsum,1,7456,0,7456,0,100.0,INR
+boq_00379,act_008_01,proj_008,Site Survey & Layout,lumpsum,1,3468,2428,3468,2428,30.0,INR
+boq_00380,act_008_01,proj_008,Temporary Site Office Setup,lumpsum,1,8432,5902,8432,5902,30.0,INR
+boq_00381,act_008_01,proj_008,Safety Hoarding & Signage,lumpsum,1,2369,1659,2369,1659,30.0,INR
+boq_00382,act_008_02,proj_008,Demolition Labour & Equipment,lumpsum,1,11376,7963,11376,7963,30.0,INR
+boq_00383,act_008_02,proj_008,Debris Removal & Disposal,trip,6,5836,4085,35016,24510,30.0,INR
+boq_00384,act_008_02,proj_008,Asbestos Survey & Removal,sqm,30,3760,2632,112800,78960,30.0,INR
+boq_00385,act_008_03,proj_008,Reinforced Concrete M30,m3,15,10032,7022,150480,105330,30.0,INR
+boq_00386,act_008_03,proj_008,Steel Rebar TMT 12mm,tonne,6,3659,2562,21954,15372,30.0,INR
+boq_00387,act_008_03,proj_008,Shuttering Plywood 19mm,sheets,30,1987,1391,59610,41730,30.0,INR
+boq_00388,act_008_03,proj_008,Structural Grouting Compound,bags,20,1778,1245,35560,24900,30.0,INR
+boq_00389,act_008_04,proj_008,SBR Waterproofing Membrane,sqm,120,4523,3166,542760,379920,30.0,INR
+boq_00390,act_008_04,proj_008,Crystalline Waterproofing Slurry,kg,50,3153,2207,157650,110350,30.0,INR
+boq_00391,act_008_04,proj_008,Drainage Board & Filter Fabric,sqm,80,1824,1277,145920,102160,30.0,INR
+boq_00392,act_008_05,proj_008,CPVC Pipes 1 inch,meters,180,2666,1866,479880,335880,30.0,INR
+boq_00393,act_008_05,proj_008,uPVC Soil Pipes 4 inch,meters,60,1491,1044,89460,62640,30.0,INR
+boq_00394,act_008_05,proj_008,GI Fittings Set,set,1,1300,910,1300,910,30.0,INR
+boq_00395,act_008_05,proj_008,Water Storage Tank 1000L,unit,2,6662,4664,13324,9328,30.0,INR
+boq_00396,act_008_06,proj_008,FR Copper Wire 4 sq mm,meters,250,4418,3093,1104500,773250,30.0,INR
+boq_00397,act_008_06,proj_008,MCB Distribution Board 18-way,unit,2,5324,3727,10648,7454,30.0,INR
+boq_00398,act_008_06,proj_008,PVC Conduit 25mm,meters,150,1178,825,176700,123750,30.0,INR
+boq_00399,act_008_06,proj_008,Switches & Sockets (Modular),set,1,3069,2148,3069,2148,30.0,INR
+boq_00400,act_008_07,proj_008,Cassette AC Unit 2 Ton,unit,4,14364,10055,57456,40220,30.0,INR
+boq_00401,act_008_07,proj_008,Insulated Ducting,meters,40,4604,3222,184160,128880,30.0,INR
+boq_00402,act_008_07,proj_008,AHU Return Air Grilles,unit,12,1777,1244,21324,14928,30.0,INR
+boq_00403,act_008_07,proj_008,Refrigerant Copper Pipes,meters,60,2668,1867,160080,112020,30.0,INR
+boq_00404,act_008_08,proj_008,Self-Leveling Compound,bags,20,3434,2404,68680,48080,30.0,INR
+boq_00405,act_008_08,proj_008,Bonding Agent SBR,liters,30,1344,941,40320,28230,30.0,INR
+boq_00406,act_008_08,proj_008,DPM Sheet 250 micron,sqm,200,1976,1383,395200,276600,30.0,INR
+boq_00407,act_008_09,proj_008,Vitrified Tiles 800x800mm,sqm,200,7316,5121,1463200,1024200,30.0,INR
+boq_00408,act_008_09,proj_008,Ceramic Tiles 300x600mm,sqm,80,3961,2772,316880,221760,30.0,INR
+boq_00409,act_008_09,proj_008,Tile Adhesive C2 Grade,bags,40,2145,1502,85800,60080,30.0,INR
+boq_00410,act_008_09,proj_008,Tile Grout Mapei,bags,15,697,488,10455,7320,30.0,INR
+boq_00411,act_008_09,proj_008,Tile Edge Trim SS,meters,60,352,247,21120,14820,29.8,INR
+boq_00412,act_008_10,proj_008,Gypsum Plaster 20mm,bags,50,2634,1844,131700,92200,30.0,INR
+boq_00413,act_008_10,proj_008,POP Punning Compound,bags,30,1188,832,35640,24960,30.0,INR
+boq_00414,act_008_10,proj_008,Wire Mesh Reinforcement,sqm,100,954,668,95400,66800,30.0,INR
+boq_00415,act_008_11,proj_008,Gypsum Board 12.5mm,sqm,150,3499,2449,524850,367350,30.0,INR
+boq_00416,act_008_11,proj_008,GI Suspension System,sqm,150,2862,2003,429300,300450,30.0,INR
+boq_00417,act_008_11,proj_008,Glass Wool Insulation 50mm,sqm,100,1767,1237,176700,123700,30.0,INR
+boq_00418,act_008_12,proj_008,Premium Emulsion Paint,liters,120,3686,2580,442320,309600,30.0,INR
+boq_00419,act_008_12,proj_008,Exterior Weather Shield,liters,60,4141,2899,248460,173940,30.0,INR
+boq_00420,act_008_12,proj_008,Primer Coat White,liters,60,1386,970,83160,58200,30.0,INR
+boq_00421,act_008_12,proj_008,Putty Filler Wall,kg,40,667,467,26680,18680,30.0,INR
+boq_00422,act_008_13,proj_008,Teak Wood Panels Grade A,sqm,30,9918,6943,297540,208290,30.0,INR
+boq_00423,act_008_13,proj_008,Pre-hung Door Sets,unit,8,6793,4755,54344,38040,30.0,INR
+boq_00424,act_008_13,proj_008,Modular Kitchen Framework,lumpsum,1,20856,14599,20856,14599,30.0,INR
+boq_00425,act_008_13,proj_008,Cabinet Hardware Premium Set,set,2,3165,2215,6330,4430,30.0,INR
+boq_00426,act_008_14,proj_008,EWC Rimless Toilet Suite,unit,4,8390,5873,33560,23492,30.0,INR
+boq_00427,act_008_14,proj_008,Concealed Cistern,unit,4,4330,3031,17320,12124,30.0,INR
+boq_00428,act_008_14,proj_008,Basin & Pedestal Set,unit,4,3496,2447,13984,9788,30.0,INR
+boq_00429,act_008_14,proj_008,CP Fittings Set (Taps/Showers),set,4,5357,3750,21428,15000,30.0,INR
+boq_00430,act_008_15,proj_008,Snagging Rectification Labour,lumpsum,1,5270,3689,5270,3689,30.0,INR
+boq_00431,act_008_15,proj_008,As-Built Drawings & O&M Manual,set,1,2937,2056,2937,2056,30.0,INR
+boq_00432,act_008_15,proj_008,Defect Liability Retention,lumpsum,1,8272,0,8272,0,100.0,INR
+boq_00433,act_009_01,proj_009,Site Survey & Layout,lumpsum,1,3227,2259,3227,2259,30.0,INR
+boq_00434,act_009_01,proj_009,Temporary Site Office Setup,lumpsum,1,8424,5897,8424,5897,30.0,INR
+boq_00435,act_009_01,proj_009,Safety Hoarding & Signage,lumpsum,1,2141,1498,2141,1498,30.0,INR
+boq_00436,act_009_02,proj_009,Demolition Labour & Equipment,lumpsum,1,11472,8030,11472,8030,30.0,INR
+boq_00437,act_009_02,proj_009,Debris Removal & Disposal,trip,6,5384,3769,32304,22614,30.0,INR
+boq_00438,act_009_02,proj_009,Asbestos Survey & Removal,sqm,30,3720,2604,111600,78120,30.0,INR
+boq_00439,act_009_03,proj_009,Reinforced Concrete M30,m3,15,9168,6417,137520,96255,30.0,INR
+boq_00440,act_009_03,proj_009,Steel Rebar TMT 12mm,tonne,6,3690,2583,22140,15498,30.0,INR
+boq_00441,act_009_03,proj_009,Shuttering Plywood 19mm,sheets,30,1999,1399,59970,41970,30.0,INR
+boq_00442,act_009_03,proj_009,Structural Grouting Compound,bags,20,1687,1181,33740,23620,30.0,INR
+boq_00443,act_009_04,proj_009,SBR Waterproofing Membrane,sqm,120,3961,2772,475320,332640,30.0,INR
+boq_00444,act_009_04,proj_009,Crystalline Waterproofing Slurry,kg,50,2973,2081,148650,104050,30.0,INR
+boq_00445,act_009_04,proj_009,Drainage Board & Filter Fabric,sqm,80,2027,1419,162160,113520,30.0,INR
+boq_00446,act_009_05,proj_009,CPVC Pipes 1 inch,meters,180,2803,1962,504540,353160,30.0,INR
+boq_00447,act_009_05,proj_009,uPVC Soil Pipes 4 inch,meters,60,1555,1089,93300,65340,30.0,INR
+boq_00448,act_009_05,proj_009,GI Fittings Set,set,1,1404,983,1404,983,30.0,INR
+boq_00449,act_009_05,proj_009,Water Storage Tank 1000L,unit,2,6740,4718,13480,9436,30.0,INR
+boq_00450,act_009_06,proj_009,FR Copper Wire 4 sq mm,meters,250,4003,2802,1000750,700500,30.0,INR
+boq_00451,act_009_06,proj_009,MCB Distribution Board 18-way,unit,2,5318,3723,10636,7446,30.0,INR
+boq_00452,act_009_06,proj_009,PVC Conduit 25mm,meters,150,1031,721,154650,108150,30.1,INR
+boq_00453,act_009_06,proj_009,Switches & Sockets (Modular),set,1,3322,2325,3322,2325,30.0,INR
+boq_00454,act_009_07,proj_009,Cassette AC Unit 2 Ton,unit,4,15050,10535,60200,42140,30.0,INR
+boq_00455,act_009_07,proj_009,Insulated Ducting,meters,40,4680,3276,187200,131040,30.0,INR
+boq_00456,act_009_07,proj_009,AHU Return Air Grilles,unit,12,1897,1328,22764,15936,30.0,INR
+boq_00457,act_009_07,proj_009,Refrigerant Copper Pipes,meters,60,2538,1776,152280,106560,30.0,INR
+boq_00458,act_009_08,proj_009,Self-Leveling Compound,bags,20,3312,2318,66240,46360,30.0,INR
+boq_00459,act_009_08,proj_009,Bonding Agent SBR,liters,30,1350,945,40500,28350,30.0,INR
+boq_00460,act_009_08,proj_009,DPM Sheet 250 micron,sqm,200,2106,1474,421200,294800,30.0,INR
+boq_00461,act_009_09,proj_009,Vitrified Tiles 800x800mm,sqm,200,7940,5558,1588000,1111600,30.0,INR
+boq_00462,act_009_09,proj_009,Ceramic Tiles 300x600mm,sqm,80,3956,2769,316480,221520,30.0,INR
+boq_00463,act_009_09,proj_009,Tile Adhesive C2 Grade,bags,40,2372,1660,94880,66400,30.0,INR
+boq_00464,act_009_09,proj_009,Tile Grout Mapei,bags,15,658,460,9870,6900,30.1,INR
+boq_00465,act_009_09,proj_009,Tile Edge Trim SS,meters,60,385,269,23100,16140,30.1,INR
+boq_00466,act_009_10,proj_009,Gypsum Plaster 20mm,bags,50,2413,1689,120650,84450,30.0,INR
+boq_00467,act_009_10,proj_009,POP Punning Compound,bags,30,1081,757,32430,22710,30.0,INR
+boq_00468,act_009_10,proj_009,Wire Mesh Reinforcement,sqm,100,908,636,90800,63600,30.0,INR
+boq_00469,act_009_11,proj_009,Gypsum Board 12.5mm,sqm,150,3213,2249,481950,337350,30.0,INR
+boq_00470,act_009_11,proj_009,GI Suspension System,sqm,150,2951,2066,442650,309900,30.0,INR
+boq_00471,act_009_11,proj_009,Glass Wool Insulation 50mm,sqm,100,1828,1279,182800,127900,30.0,INR
+boq_00472,act_009_12,proj_009,Premium Emulsion Paint,liters,120,3979,2785,477480,334200,30.0,INR
+boq_00473,act_009_12,proj_009,Exterior Weather Shield,liters,60,4376,3063,262560,183780,30.0,INR
+boq_00474,act_009_12,proj_009,Primer Coat White,liters,60,1387,971,83220,58260,30.0,INR
+boq_00475,act_009_12,proj_009,Putty Filler Wall,kg,40,758,531,30320,21240,29.9,INR
+boq_00476,act_009_13,proj_009,Teak Wood Panels Grade A,sqm,30,8892,6224,266760,186720,30.0,INR
+boq_00477,act_009_13,proj_009,Pre-hung Door Sets,unit,8,6480,4536,51840,36288,30.0,INR
+boq_00478,act_009_13,proj_009,Modular Kitchen Framework,lumpsum,1,23386,16370,23386,16370,30.0,INR
+boq_00479,act_009_13,proj_009,Cabinet Hardware Premium Set,set,2,3325,2327,6650,4654,30.0,INR
+boq_00480,act_009_14,proj_009,EWC Rimless Toilet Suite,unit,4,8602,6021,34408,24084,30.0,INR
+boq_00481,act_009_14,proj_009,Concealed Cistern,unit,4,4469,3128,17876,12512,30.0,INR
+boq_00482,act_009_14,proj_009,Basin & Pedestal Set,unit,4,3956,2769,15824,11076,30.0,INR
+boq_00483,act_009_14,proj_009,CP Fittings Set (Taps/Showers),set,4,5186,3631,20744,14524,30.0,INR
+boq_00484,act_009_15,proj_009,Snagging Rectification Labour,lumpsum,1,5205,3643,5205,3643,30.0,INR
+boq_00485,act_009_15,proj_009,As-Built Drawings & O&M Manual,set,1,2976,2083,2976,2083,30.0,INR
+boq_00486,act_009_15,proj_009,Defect Liability Retention,lumpsum,1,7464,0,7464,0,100.0,INR
+boq_00487,act_010_01,proj_010,Site Survey & Layout,lumpsum,1,3538,2477,3538,2477,30.0,INR
+boq_00488,act_010_01,proj_010,Temporary Site Office Setup,lumpsum,1,8016,5611,8016,5611,30.0,INR
+boq_00489,act_010_01,proj_010,Safety Hoarding & Signage,lumpsum,1,2101,1471,2101,1471,30.0,INR
+boq_00490,act_010_02,proj_010,Demolition Labour & Equipment,lumpsum,1,11988,8392,11988,8392,30.0,INR
+boq_00491,act_010_02,proj_010,Debris Removal & Disposal,trip,6,5390,3773,32340,22638,30.0,INR
+boq_00492,act_010_02,proj_010,Asbestos Survey & Removal,sqm,30,4244,2971,127320,89130,30.0,INR
+boq_00493,act_010_03,proj_010,Reinforced Concrete M30,m3,15,9072,6351,136080,95265,30.0,INR
+boq_00494,act_010_03,proj_010,Steel Rebar TMT 12mm,tonne,6,4028,2820,24168,16920,30.0,INR
+boq_00495,act_010_03,proj_010,Shuttering Plywood 19mm,sheets,30,2094,1466,62820,43980,30.0,INR
+boq_00496,act_010_03,proj_010,Structural Grouting Compound,bags,20,1660,1162,33200,23240,30.0,INR
+boq_00497,act_010_04,proj_010,SBR Waterproofing Membrane,sqm,120,4389,3072,526680,368640,30.0,INR
+boq_00498,act_010_04,proj_010,Crystalline Waterproofing Slurry,kg,50,3255,2278,162750,113900,30.0,INR
+boq_00499,act_010_04,proj_010,Drainage Board & Filter Fabric,sqm,80,2035,1424,162800,113920,30.0,INR
+boq_00500,act_010_05,proj_010,CPVC Pipes 1 inch,meters,180,2850,1995,513000,359100,30.0,INR
+boq_00501,act_010_05,proj_010,uPVC Soil Pipes 4 inch,meters,60,1522,1065,91320,63900,30.0,INR
+boq_00502,act_010_05,proj_010,GI Fittings Set,set,1,1384,969,1384,969,30.0,INR
+boq_00503,act_010_05,proj_010,Water Storage Tank 1000L,unit,2,6071,4250,12142,8500,30.0,INR
+boq_00504,act_010_06,proj_010,FR Copper Wire 4 sq mm,meters,250,3990,2793,997500,698250,30.0,INR
+boq_00505,act_010_06,proj_010,MCB Distribution Board 18-way,unit,2,5896,4127,11792,8254,30.0,INR
+boq_00506,act_010_06,proj_010,PVC Conduit 25mm,meters,150,1013,709,151950,106350,30.0,INR
+boq_00507,act_010_06,proj_010,Switches & Sockets (Modular),set,1,3299,2309,3299,2309,30.0,INR
+boq_00508,act_010_07,proj_010,Cassette AC Unit 2 Ton,unit,4,14378,10065,57512,40260,30.0,INR
+boq_00509,act_010_07,proj_010,Insulated Ducting,meters,40,4734,3314,189360,132560,30.0,INR
+boq_00510,act_010_07,proj_010,AHU Return Air Grilles,unit,12,1881,1317,22572,15804,30.0,INR
+boq_00511,act_010_07,proj_010,Refrigerant Copper Pipes,meters,60,2441,1709,146460,102540,30.0,INR
+boq_00512,act_010_08,proj_010,Self-Leveling Compound,bags,20,3120,2184,62400,43680,30.0,INR
+boq_00513,act_010_08,proj_010,Bonding Agent SBR,liters,30,1322,925,39660,27750,30.0,INR
+boq_00514,act_010_08,proj_010,DPM Sheet 250 micron,sqm,200,2253,1577,450600,315400,30.0,INR
+boq_00515,act_010_09,proj_010,Vitrified Tiles 800x800mm,sqm,200,8393,5875,1678600,1175000,30.0,INR
+boq_00516,act_010_09,proj_010,Ceramic Tiles 300x600mm,sqm,80,4049,2834,323920,226720,30.0,INR
+boq_00517,act_010_09,proj_010,Tile Adhesive C2 Grade,bags,40,2037,1426,81480,57040,30.0,INR
+boq_00518,act_010_09,proj_010,Tile Grout Mapei,bags,15,684,479,10260,7185,30.0,INR
+boq_00519,act_010_09,proj_010,Tile Edge Trim SS,meters,60,358,251,21480,15060,29.9,INR
+boq_00520,act_010_10,proj_010,Gypsum Plaster 20mm,bags,50,2431,1702,121550,85100,30.0,INR
+boq_00521,act_010_10,proj_010,POP Punning Compound,bags,30,1033,723,30990,21690,30.0,INR
+boq_00522,act_010_10,proj_010,Wire Mesh Reinforcement,sqm,100,952,666,95200,66600,30.0,INR
+boq_00523,act_010_11,proj_010,Gypsum Board 12.5mm,sqm,150,3131,2192,469650,328800,30.0,INR
+boq_00524,act_010_11,proj_010,GI Suspension System,sqm,150,2887,2021,433050,303150,30.0,INR
+boq_00525,act_010_11,proj_010,Glass Wool Insulation 50mm,sqm,100,1754,1228,175400,122800,30.0,INR
+boq_00526,act_010_12,proj_010,Premium Emulsion Paint,liters,120,4081,2857,489720,342840,30.0,INR
+boq_00527,act_010_12,proj_010,Exterior Weather Shield,liters,60,4112,2878,246720,172680,30.0,INR
+boq_00528,act_010_12,proj_010,Primer Coat White,liters,60,1299,909,77940,54540,30.0,INR
+boq_00529,act_010_12,proj_010,Putty Filler Wall,kg,40,701,490,28040,19600,30.1,INR
+boq_00530,act_010_13,proj_010,Teak Wood Panels Grade A,sqm,30,9576,6703,287280,201090,30.0,INR
+boq_00531,act_010_13,proj_010,Pre-hung Door Sets,unit,8,6576,4603,52608,36824,30.0,INR
+boq_00532,act_010_13,proj_010,Modular Kitchen Framework,lumpsum,1,22616,15831,22616,15831,30.0,INR
+boq_00533,act_010_13,proj_010,Cabinet Hardware Premium Set,set,2,2950,2065,5900,4130,30.0,INR
+boq_00534,act_010_14,proj_010,EWC Rimless Toilet Suite,unit,4,8866,6206,35464,24824,30.0,INR
+boq_00535,act_010_14,proj_010,Concealed Cistern,unit,4,4087,2861,16348,11444,30.0,INR
+boq_00536,act_010_14,proj_010,Basin & Pedestal Set,unit,4,4039,2828,16156,11312,30.0,INR
+boq_00537,act_010_14,proj_010,CP Fittings Set (Taps/Showers),set,4,5098,3569,20392,14276,30.0,INR
+boq_00538,act_010_15,proj_010,Snagging Rectification Labour,lumpsum,1,4650,3255,4650,3255,30.0,INR
+boq_00539,act_010_15,proj_010,As-Built Drawings & O&M Manual,set,1,2958,2071,2958,2071,30.0,INR
+boq_00540,act_010_15,proj_010,Defect Liability Retention,lumpsum,1,8048,0,8048,0,100.0,INR

@@ -1,0 +1,256 @@
+id,activity_id,project_id,contractor,resource_type,allocated_workers,cost_per_day,start_date,end_date
+res_00001,act_001_01,proj_001,Apex Interiors,Material Supplier,18,27695,2022-01-10,2022-01-19
+res_00002,act_001_01,proj_001,ProStruct Engineers,Specialist Subcontractor,3,17533,2022-01-10,2022-01-19
+res_00003,act_001_01,proj_001,Swift MEP Pvt Ltd,Specialist Subcontractor,16,9992,2022-01-10,2022-01-19
+res_00004,act_001_02,proj_001,Urban Build Solutions,Equipment,11,30118,2022-01-19,2022-02-01
+res_00005,act_001_02,proj_001,Swift MEP Pvt Ltd,Material Supplier,15,34510,2022-01-19,2022-02-01
+res_00006,act_001_02,proj_001,ProStruct Engineers,Material Supplier,15,16542,2022-01-19,2022-02-01
+res_00007,act_001_03,proj_001,Swift MEP Pvt Ltd,Material Supplier,10,19135,2022-02-01,2022-02-20
+res_00008,act_001_04,proj_001,Urban Build Solutions,Labour Gang,12,22668,2022-02-20,2022-03-01
+res_00009,act_001_04,proj_001,ProStruct Engineers,Specialist Subcontractor,8,25564,2022-02-20,2022-03-01
+res_00010,act_001_04,proj_001,Apex Interiors,Labour Gang,13,12234,2022-02-20,2022-03-01
+res_00011,act_001_05,proj_001,EliteFinish Works,Labour Gang,3,34293,2022-02-20,2022-03-08
+res_00012,act_001_05,proj_001,ProStruct Engineers,Labour Gang,13,19557,2022-02-20,2022-03-08
+res_00013,act_001_05,proj_001,Urban Build Solutions,Labour Gang,4,24995,2022-02-20,2022-03-08
+res_00014,act_001_06,proj_001,Swift MEP Pvt Ltd,Specialist Subcontractor,8,25553,2022-02-20,2022-03-09
+res_00015,act_001_07,proj_001,Urban Build Solutions,Specialist Subcontractor,12,34256,2022-02-20,2022-03-05
+res_00016,act_001_07,proj_001,Apex Interiors,Equipment,13,21546,2022-02-20,2022-03-05
+res_00017,act_001_08,proj_001,EliteFinish Works,Specialist Subcontractor,3,9182,2022-03-08,2022-03-20
+res_00018,act_001_09,proj_001,Urban Build Solutions,Labour Gang,19,21039,2022-03-20,2022-04-10
+res_00019,act_001_10,proj_001,BuildRight Co.,Specialist Subcontractor,12,17878,2022-03-09,2022-03-24
+res_00020,act_001_10,proj_001,BuildRight Co.,Specialist Subcontractor,10,9106,2022-03-09,2022-03-24
+res_00021,act_001_11,proj_001,National Contractors,Labour Gang,15,29472,2022-03-26,2022-04-08
+res_00022,act_001_11,proj_001,ProStruct Engineers,Specialist Subcontractor,11,10782,2022-03-26,2022-04-08
+res_00023,act_001_12,proj_001,BuildRight Co.,Material Supplier,3,8483,2022-04-08,2022-04-25
+res_00024,act_001_13,proj_001,Urban Build Solutions,Specialist Subcontractor,6,32113,2022-04-28,2022-05-18
+res_00025,act_001_13,proj_001,EliteFinish Works,Material Supplier,9,27847,2022-04-28,2022-05-18
+res_00026,act_001_13,proj_001,Urban Build Solutions,Equipment,13,21931,2022-04-28,2022-05-18
+res_00027,act_001_14,proj_001,National Contractors,Labour Gang,12,16980,2022-05-18,2022-05-29
+res_00028,act_001_14,proj_001,ProStruct Engineers,Specialist Subcontractor,6,16659,2022-05-18,2022-05-29
+res_00029,act_001_14,proj_001,National Contractors,Material Supplier,15,17543,2022-05-18,2022-05-29
+res_00030,act_001_15,proj_001,BuildRight Co.,Specialist Subcontractor,16,26382,2022-05-29,2022-06-06
+res_00031,act_001_15,proj_001,Swift MEP Pvt Ltd,Material Supplier,12,31031,2022-05-29,2022-06-06
+res_00032,act_002_01,proj_002,EliteFinish Works,Specialist Subcontractor,15,8564,2022-03-01,2022-03-09
+res_00033,act_002_01,proj_002,ProStruct Engineers,Material Supplier,14,32992,2022-03-01,2022-03-09
+res_00034,act_002_01,proj_002,EliteFinish Works,Labour Gang,17,15342,2022-03-01,2022-03-09
+res_00035,act_002_02,proj_002,BuildRight Co.,Material Supplier,10,22650,2022-03-10,2022-03-23
+res_00036,act_002_02,proj_002,Swift MEP Pvt Ltd,Material Supplier,6,29063,2022-03-10,2022-03-23
+res_00037,act_002_02,proj_002,Swift MEP Pvt Ltd,Equipment,7,34531,2022-03-10,2022-03-23
+res_00038,act_002_03,proj_002,BuildRight Co.,Labour Gang,20,13546,2022-03-23,2022-04-11
+res_00039,act_002_03,proj_002,Apex Interiors,Material Supplier,10,10748,2022-03-23,2022-04-11
+res_00040,act_002_03,proj_002,Apex Interiors,Material Supplier,18,25150,2022-03-23,2022-04-11
+res_00041,act_002_04,proj_002,Urban Build Solutions,Specialist Subcontractor,4,33146,2022-04-11,2022-04-20
+res_00042,act_002_04,proj_002,ProStruct Engineers,Equipment,16,18205,2022-04-11,2022-04-20
+res_00043,act_002_04,proj_002,National Contractors,Equipment,7,9196,2022-04-11,2022-04-20
+res_00044,act_002_05,proj_002,National Contractors,Material Supplier,3,16786,2022-04-11,2022-04-26
+res_00045,act_002_05,proj_002,National Contractors,Specialist Subcontractor,20,34040,2022-04-11,2022-04-26
+res_00046,act_002_06,proj_002,EliteFinish Works,Material Supplier,13,29365,2022-04-12,2022-04-28
+res_00047,act_002_06,proj_002,Apex Interiors,Equipment,17,31228,2022-04-12,2022-04-28
+res_00048,act_002_07,proj_002,EliteFinish Works,Labour Gang,6,21949,2022-04-11,2022-04-22
+res_00049,act_002_07,proj_002,National Contractors,Labour Gang,15,12170,2022-04-11,2022-04-22
+res_00050,act_002_08,proj_002,Apex Interiors,Labour Gang,8,14467,2022-04-26,2022-05-08
+res_00051,act_002_09,proj_002,Urban Build Solutions,Labour Gang,4,21899,2022-05-11,2022-05-31
+res_00052,act_002_09,proj_002,ProStruct Engineers,Specialist Subcontractor,19,23964,2022-05-11,2022-05-31
+res_00053,act_002_10,proj_002,National Contractors,Material Supplier,15,8303,2022-04-30,2022-05-15
+res_00054,act_002_11,proj_002,BuildRight Co.,Material Supplier,12,31591,2022-05-16,2022-05-27
+res_00055,act_002_11,proj_002,National Contractors,Equipment,19,18563,2022-05-16,2022-05-27
+res_00056,act_002_12,proj_002,Swift MEP Pvt Ltd,Specialist Subcontractor,7,17509,2022-05-27,2022-06-11
+res_00057,act_002_12,proj_002,EliteFinish Works,Specialist Subcontractor,14,25019,2022-05-27,2022-06-11
+res_00058,act_002_12,proj_002,EliteFinish Works,Equipment,18,23167,2022-05-27,2022-06-11
+res_00059,act_002_13,proj_002,Swift MEP Pvt Ltd,Specialist Subcontractor,8,25182,2022-06-11,2022-06-29
+res_00060,act_002_14,proj_002,Urban Build Solutions,Material Supplier,3,18410,2022-06-29,2022-07-10
+res_00061,act_002_14,proj_002,ProStruct Engineers,Specialist Subcontractor,7,23417,2022-06-29,2022-07-10
+res_00062,act_002_14,proj_002,BuildRight Co.,Labour Gang,12,30985,2022-06-29,2022-07-10
+res_00063,act_002_15,proj_002,Apex Interiors,Labour Gang,20,23027,2022-07-10,2022-07-17
+res_00064,act_003_01,proj_003,BuildRight Co.,Labour Gang,17,27479,2022-06-16,2022-06-25
+res_00065,act_003_01,proj_003,Apex Interiors,Labour Gang,14,28851,2022-06-16,2022-06-25
+res_00066,act_003_02,proj_003,Apex Interiors,Equipment,3,14312,2022-06-25,2022-07-09
+res_00067,act_003_02,proj_003,Swift MEP Pvt Ltd,Equipment,16,27151,2022-06-25,2022-07-09
+res_00068,act_003_02,proj_003,National Contractors,Equipment,14,28463,2022-06-25,2022-07-09
+res_00069,act_003_03,proj_003,Swift MEP Pvt Ltd,Specialist Subcontractor,5,27419,2022-07-12,2022-08-05
+res_00070,act_003_03,proj_003,Apex Interiors,Labour Gang,9,17174,2022-07-12,2022-08-05
+res_00071,act_003_04,proj_003,Swift MEP Pvt Ltd,Labour Gang,7,34112,2022-08-05,2022-08-14
+res_00072,act_003_05,proj_003,EliteFinish Works,Material Supplier,13,26863,2022-08-05,2022-08-21
+res_00073,act_003_05,proj_003,Urban Build Solutions,Equipment,18,14858,2022-08-05,2022-08-21
+res_00074,act_003_05,proj_003,Apex Interiors,Labour Gang,10,15092,2022-08-05,2022-08-21
+res_00075,act_003_06,proj_003,Urban Build Solutions,Specialist Subcontractor,7,13400,2022-08-05,2022-08-22
+res_00076,act_003_07,proj_003,Urban Build Solutions,Labour Gang,13,10548,2022-08-06,2022-08-17
+res_00077,act_003_07,proj_003,BuildRight Co.,Specialist Subcontractor,19,34451,2022-08-06,2022-08-17
+res_00078,act_003_08,proj_003,ProStruct Engineers,Material Supplier,13,17914,2022-08-22,2022-09-03
+res_00079,act_003_08,proj_003,EliteFinish Works,Labour Gang,10,26354,2022-08-22,2022-09-03
+res_00080,act_003_09,proj_003,ProStruct Engineers,Material Supplier,18,19632,2022-09-03,2022-09-25
+res_00081,act_003_09,proj_003,Swift MEP Pvt Ltd,Equipment,19,10562,2022-09-03,2022-09-25
+res_00082,act_003_10,proj_003,Urban Build Solutions,Specialist Subcontractor,8,28767,2022-08-22,2022-09-07
+res_00083,act_003_10,proj_003,Urban Build Solutions,Equipment,7,22327,2022-08-22,2022-09-07
+res_00084,act_003_10,proj_003,EliteFinish Works,Material Supplier,18,30777,2022-08-22,2022-09-07
+res_00085,act_003_11,proj_003,National Contractors,Labour Gang,20,22267,2022-09-07,2022-09-20
+res_00086,act_003_11,proj_003,National Contractors,Equipment,8,8828,2022-09-07,2022-09-20
+res_00087,act_003_12,proj_003,Urban Build Solutions,Material Supplier,14,31871,2022-09-20,2022-10-05
+res_00088,act_003_12,proj_003,ProStruct Engineers,Specialist Subcontractor,20,14258,2022-09-20,2022-10-05
+res_00089,act_003_13,proj_003,Swift MEP Pvt Ltd,Specialist Subcontractor,3,14417,2022-10-06,2022-10-26
+res_00090,act_003_13,proj_003,ProStruct Engineers,Equipment,19,14386,2022-10-06,2022-10-26
+res_00091,act_003_14,proj_003,EliteFinish Works,Equipment,13,11083,2022-10-26,2022-11-06
+res_00092,act_003_15,proj_003,Swift MEP Pvt Ltd,Labour Gang,11,9098,2022-11-06,2022-11-14
+res_00093,act_003_15,proj_003,National Contractors,Equipment,18,21051,2022-11-06,2022-11-14
+res_00094,act_004_01,proj_004,National Contractors,Equipment,11,28488,2022-09-03,2022-09-11
+res_00095,act_004_02,proj_004,EliteFinish Works,Labour Gang,18,27908,2022-09-13,2022-09-27
+res_00096,act_004_03,proj_004,ProStruct Engineers,Material Supplier,8,23513,2022-09-28,2022-10-17
+res_00097,act_004_03,proj_004,National Contractors,Labour Gang,4,20108,2022-09-28,2022-10-17
+res_00098,act_004_03,proj_004,BuildRight Co.,Specialist Subcontractor,8,12313,2022-09-28,2022-10-17
+res_00099,act_004_04,proj_004,ProStruct Engineers,Labour Gang,4,22528,2022-10-19,2022-10-28
+res_00100,act_004_05,proj_004,National Contractors,Labour Gang,13,11194,2022-10-17,2022-11-02
+res_00101,act_004_05,proj_004,Urban Build Solutions,Equipment,9,29466,2022-10-17,2022-11-02
+res_00102,act_004_05,proj_004,EliteFinish Works,Labour Gang,13,30019,2022-10-17,2022-11-02
+res_00103,act_004_06,proj_004,National Contractors,Specialist Subcontractor,14,24919,2022-10-19,2022-11-03
+res_00104,act_004_06,proj_004,BuildRight Co.,Material Supplier,16,29879,2022-10-19,2022-11-03
+res_00105,act_004_07,proj_004,BuildRight Co.,Labour Gang,9,32946,2022-10-20,2022-11-02
+res_00106,act_004_07,proj_004,EliteFinish Works,Specialist Subcontractor,11,10751,2022-10-20,2022-11-02
+res_00107,act_004_07,proj_004,Apex Interiors,Material Supplier,4,17028,2022-10-20,2022-11-02
+res_00108,act_004_08,proj_004,Apex Interiors,Material Supplier,8,28817,2022-11-02,2022-11-14
+res_00109,act_004_08,proj_004,National Contractors,Labour Gang,12,16970,2022-11-02,2022-11-14
+res_00110,act_004_08,proj_004,EliteFinish Works,Equipment,6,19188,2022-11-02,2022-11-14
+res_00111,act_004_09,proj_004,EliteFinish Works,Labour Gang,17,10888,2022-11-14,2022-12-04
+res_00112,act_004_09,proj_004,BuildRight Co.,Labour Gang,8,31905,2022-11-14,2022-12-04
+res_00113,act_004_10,proj_004,Apex Interiors,Equipment,3,33123,2022-11-03,2022-11-21
+res_00114,act_004_11,proj_004,Urban Build Solutions,Labour Gang,9,28904,2022-11-21,2022-12-04
+res_00115,act_004_12,proj_004,ProStruct Engineers,Labour Gang,10,18085,2022-12-06,2022-12-23
+res_00116,act_004_12,proj_004,Urban Build Solutions,Specialist Subcontractor,7,18174,2022-12-06,2022-12-23
+res_00117,act_004_13,proj_004,ProStruct Engineers,Equipment,8,17141,2022-12-23,2023-01-09
+res_00118,act_004_14,proj_004,EliteFinish Works,Equipment,16,15404,2023-01-10,2023-01-21
+res_00119,act_004_15,proj_004,Swift MEP Pvt Ltd,Specialist Subcontractor,8,17664,2023-01-23,2023-01-30
+res_00120,act_005_01,proj_005,National Contractors,Material Supplier,11,11028,2023-01-05,2023-01-13
+res_00121,act_005_01,proj_005,ProStruct Engineers,Equipment,14,19431,2023-01-05,2023-01-13
+res_00122,act_005_02,proj_005,EliteFinish Works,Material Supplier,8,9203,2023-01-13,2023-01-27
+res_00123,act_005_02,proj_005,Urban Build Solutions,Material Supplier,7,25627,2023-01-13,2023-01-27
+res_00124,act_005_02,proj_005,EliteFinish Works,Specialist Subcontractor,16,19367,2023-01-13,2023-01-27
+res_00125,act_005_03,proj_005,Urban Build Solutions,Equipment,9,19212,2023-01-27,2023-02-16
+res_00126,act_005_03,proj_005,National Contractors,Equipment,5,24818,2023-01-27,2023-02-16
+res_00127,act_005_03,proj_005,Urban Build Solutions,Specialist Subcontractor,11,15151,2023-01-27,2023-02-16
+res_00128,act_005_04,proj_005,Swift MEP Pvt Ltd,Labour Gang,6,24942,2023-02-18,2023-02-27
+res_00129,act_005_04,proj_005,National Contractors,Specialist Subcontractor,18,12581,2023-02-18,2023-02-27
+res_00130,act_005_05,proj_005,EliteFinish Works,Equipment,14,26473,2023-02-16,2023-03-03
+res_00131,act_005_05,proj_005,ProStruct Engineers,Labour Gang,13,30979,2023-02-16,2023-03-03
+res_00132,act_005_06,proj_005,National Contractors,Equipment,3,13201,2023-02-16,2023-03-04
+res_00133,act_005_07,proj_005,ProStruct Engineers,Equipment,13,29229,2023-02-16,2023-02-27
+res_00134,act_005_07,proj_005,BuildRight Co.,Specialist Subcontractor,14,18036,2023-02-16,2023-02-27
+res_00135,act_005_08,proj_005,ProStruct Engineers,Specialist Subcontractor,3,22385,2023-03-06,2023-03-17
+res_00136,act_005_09,proj_005,ProStruct Engineers,Material Supplier,15,23518,2023-03-17,2023-04-05
+res_00137,act_005_09,proj_005,Urban Build Solutions,Specialist Subcontractor,11,31703,2023-03-17,2023-04-05
+res_00138,act_005_09,proj_005,Swift MEP Pvt Ltd,Equipment,18,30234,2023-03-17,2023-04-05
+res_00139,act_005_10,proj_005,Swift MEP Pvt Ltd,Labour Gang,10,33007,2023-03-05,2023-03-21
+res_00140,act_005_10,proj_005,EliteFinish Works,Labour Gang,16,21955,2023-03-05,2023-03-21
+res_00141,act_005_11,proj_005,EliteFinish Works,Material Supplier,3,13374,2023-03-22,2023-04-02
+res_00142,act_005_11,proj_005,EliteFinish Works,Specialist Subcontractor,12,27557,2023-03-22,2023-04-02
+res_00143,act_005_12,proj_005,EliteFinish Works,Specialist Subcontractor,7,12256,2023-04-02,2023-04-17
+res_00144,act_005_12,proj_005,National Contractors,Equipment,4,10962,2023-04-02,2023-04-17
+res_00145,act_005_12,proj_005,Swift MEP Pvt Ltd,Specialist Subcontractor,14,23031,2023-04-02,2023-04-17
+res_00146,act_005_13,proj_005,Apex Interiors,Material Supplier,3,29581,2023-04-17,2023-05-04
+res_00147,act_005_13,proj_005,Apex Interiors,Specialist Subcontractor,8,17872,2023-04-17,2023-05-04
+res_00148,act_005_14,proj_005,BuildRight Co.,Specialist Subcontractor,10,14662,2023-05-04,2023-05-16
+res_00149,act_005_14,proj_005,ProStruct Engineers,Labour Gang,10,13050,2023-05-04,2023-05-16
+res_00150,act_005_15,proj_005,EliteFinish Works,Equipment,3,23641,2023-05-17,2023-05-24
+res_00151,act_005_15,proj_005,Apex Interiors,Equipment,6,23427,2023-05-17,2023-05-24
+res_00152,act_005_15,proj_005,EliteFinish Works,Material Supplier,9,23476,2023-05-17,2023-05-24
+res_00153,act_006_01,proj_006,ProStruct Engineers,Material Supplier,10,33003,2023-03-04,2023-03-12
+res_00154,act_006_01,proj_006,BuildRight Co.,Material Supplier,7,18431,2023-03-04,2023-03-12
+res_00155,act_006_01,proj_006,Urban Build Solutions,Specialist Subcontractor,15,33338,2023-03-04,2023-03-12
+res_00156,act_006_02,proj_006,Swift MEP Pvt Ltd,Material Supplier,15,25501,2023-03-14,2023-03-27
+res_00157,act_006_02,proj_006,BuildRight Co.,Equipment,18,29950,2023-03-14,2023-03-27
+res_00158,act_006_03,proj_006,EliteFinish Works,Labour Gang,10,27940,2023-03-27,2023-04-17
+res_00159,act_006_03,proj_006,Apex Interiors,Specialist Subcontractor,14,19871,2023-03-27,2023-04-17
+res_00160,act_006_03,proj_006,Swift MEP Pvt Ltd,Labour Gang,15,10531,2023-03-27,2023-04-17
+res_00161,act_006_04,proj_006,Apex Interiors,Specialist Subcontractor,18,14159,2023-04-18,2023-04-27
+res_00162,act_006_04,proj_006,BuildRight Co.,Specialist Subcontractor,12,22267,2023-04-18,2023-04-27
+res_00163,act_006_04,proj_006,BuildRight Co.,Equipment,15,29431,2023-04-18,2023-04-27
+res_00164,act_006_05,proj_006,ProStruct Engineers,Specialist Subcontractor,12,18193,2023-04-17,2023-05-04
+res_00165,act_006_06,proj_006,National Contractors,Material Supplier,4,16553,2023-04-17,2023-05-04
+res_00166,act_006_06,proj_006,ProStruct Engineers,Specialist Subcontractor,8,21048,2023-04-17,2023-05-04
+res_00167,act_006_07,proj_006,EliteFinish Works,Labour Gang,17,34418,2023-04-18,2023-04-30
+res_00168,act_006_07,proj_006,BuildRight Co.,Equipment,6,29491,2023-04-18,2023-04-30
+res_00169,act_006_07,proj_006,Urban Build Solutions,Material Supplier,3,13271,2023-04-18,2023-04-30
+res_00170,act_006_08,proj_006,Apex Interiors,Material Supplier,17,8379,2023-05-05,2023-05-18
+res_00171,act_006_08,proj_006,ProStruct Engineers,Material Supplier,16,33275,2023-05-05,2023-05-18
+res_00172,act_006_09,proj_006,Swift MEP Pvt Ltd,Material Supplier,11,32315,2023-05-20,2023-06-09
+res_00173,act_006_10,proj_006,BuildRight Co.,Material Supplier,19,20216,2023-05-07,2023-05-24
+res_00174,act_006_10,proj_006,Urban Build Solutions,Material Supplier,13,25531,2023-05-07,2023-05-24
+res_00175,act_006_10,proj_006,Swift MEP Pvt Ltd,Labour Gang,8,21895,2023-05-07,2023-05-24
+res_00176,act_006_11,proj_006,Urban Build Solutions,Material Supplier,5,12927,2023-05-24,2023-06-05
+res_00177,act_006_11,proj_006,BuildRight Co.,Equipment,11,14475,2023-05-24,2023-06-05
+res_00178,act_006_11,proj_006,EliteFinish Works,Material Supplier,16,9590,2023-05-24,2023-06-05
+res_00179,act_006_12,proj_006,Swift MEP Pvt Ltd,Labour Gang,6,24043,2023-06-07,2023-06-24
+res_00180,act_006_12,proj_006,ProStruct Engineers,Equipment,4,27638,2023-06-07,2023-06-24
+res_00181,act_006_13,proj_006,Swift MEP Pvt Ltd,Equipment,16,19057,2023-06-26,2023-07-14
+res_00182,act_006_13,proj_006,National Contractors,Equipment,3,25784,2023-06-26,2023-07-14
+res_00183,act_006_13,proj_006,Swift MEP Pvt Ltd,Specialist Subcontractor,12,19694,2023-06-26,2023-07-14
+res_00184,act_006_14,proj_006,BuildRight Co.,Material Supplier,13,17754,2023-07-14,2023-07-27
+res_00185,act_006_14,proj_006,National Contractors,Labour Gang,6,19706,2023-07-14,2023-07-27
+res_00186,act_006_15,proj_006,BuildRight Co.,Material Supplier,10,13742,2023-07-27,2023-08-03
+res_00187,act_006_15,proj_006,BuildRight Co.,Labour Gang,7,31815,2023-07-27,2023-08-03
+res_00188,act_006_15,proj_006,Apex Interiors,Material Supplier,16,17001,2023-07-27,2023-08-03
+res_00189,act_007_01,proj_007,ProStruct Engineers,Specialist Subcontractor,19,26647,2023-06-01,2023-06-10
+res_00190,act_007_01,proj_007,ProStruct Engineers,Labour Gang,5,18701,2023-06-01,2023-06-10
+res_00191,act_007_02,proj_007,BuildRight Co.,Specialist Subcontractor,6,20514,2023-06-10,2023-06-25
+res_00192,act_007_02,proj_007,EliteFinish Works,Labour Gang,13,28864,2023-06-10,2023-06-25
+res_00193,act_007_03,proj_007,Swift MEP Pvt Ltd,Material Supplier,15,8733,2023-06-29,2023-07-21
+res_00194,act_007_03,proj_007,Apex Interiors,Equipment,5,22202,2023-06-29,2023-07-21
+res_00195,act_007_03,proj_007,BuildRight Co.,Specialist Subcontractor,11,17935,2023-06-29,2023-07-21
+res_00196,act_007_04,proj_007,EliteFinish Works,Specialist Subcontractor,4,20262,2023-07-22,2023-07-31
+res_00197,act_007_04,proj_007,EliteFinish Works,Material Supplier,9,32927,2023-07-22,2023-07-31
+res_00198,act_007_04,proj_007,ProStruct Engineers,Equipment,8,17071,2023-07-22,2023-07-31
+res_00199,act_007_05,proj_007,National Contractors,Labour Gang,15,13939,2023-07-21,2023-08-07
+res_00200,act_007_05,proj_007,National Contractors,Equipment,11,8165,2023-07-21,2023-08-07
+res_00201,act_007_05,proj_007,ProStruct Engineers,Specialist Subcontractor,3,33626,2023-07-21,2023-08-07
+res_00202,act_007_06,proj_007,National Contractors,Specialist Subcontractor,11,16750,2023-07-22,2023-08-09
+res_00203,act_007_06,proj_007,ProStruct Engineers,Equipment,6,15252,2023-07-22,2023-08-09
+res_00204,act_007_07,proj_007,BuildRight Co.,Equipment,10,10088,2023-07-21,2023-08-01
+res_00205,act_007_08,proj_007,Swift MEP Pvt Ltd,Material Supplier,16,28800,2023-08-07,2023-08-20
+res_00206,act_007_08,proj_007,EliteFinish Works,Equipment,20,20748,2023-08-07,2023-08-20
+res_00207,act_007_08,proj_007,ProStruct Engineers,Labour Gang,13,19160,2023-08-07,2023-08-20
+res_00208,act_007_09,proj_007,Swift MEP Pvt Ltd,Material Supplier,7,23137,2023-08-20,2023-09-10
+res_00209,act_007_09,proj_007,Urban Build Solutions,Material Supplier,9,25440,2023-08-20,2023-09-10
+res_00210,act_007_10,proj_007,Apex Interiors,Material Supplier,11,21203,2023-08-12,2023-08-27
+res_00211,act_007_10,proj_007,BuildRight Co.,Labour Gang,18,26393,2023-08-12,2023-08-27
+res_00212,act_007_10,proj_007,Swift MEP Pvt Ltd,Labour Gang,9,32510,2023-08-12,2023-08-27
+res_00213,act_007_11,proj_007,Swift MEP Pvt Ltd,Equipment,12,32604,2023-08-28,2023-09-11
+res_00214,act_007_11,proj_007,Swift MEP Pvt Ltd,Material Supplier,17,8968,2023-08-28,2023-09-11
+res_00215,act_007_11,proj_007,Apex Interiors,Specialist Subcontractor,14,26510,2023-08-28,2023-09-11
+res_00216,act_007_12,proj_007,ProStruct Engineers,Labour Gang,12,26233,2023-09-11,2023-09-28
+res_00217,act_007_12,proj_007,National Contractors,Material Supplier,10,20297,2023-09-11,2023-09-28
+res_00218,act_007_13,proj_007,Apex Interiors,Material Supplier,6,11177,2023-10-01,2023-10-18
+res_00219,act_007_13,proj_007,ProStruct Engineers,Specialist Subcontractor,9,11625,2023-10-01,2023-10-18
+res_00220,act_007_13,proj_007,EliteFinish Works,Equipment,8,13213,2023-10-01,2023-10-18
+res_00221,act_007_14,proj_007,ProStruct Engineers,Material Supplier,14,32617,2023-10-19,2023-11-01
+res_00222,act_007_14,proj_007,Apex Interiors,Material Supplier,11,18466,2023-10-19,2023-11-01
+res_00223,act_007_14,proj_007,Urban Build Solutions,Equipment,6,29765,2023-10-19,2023-11-01
+res_00224,act_007_15,proj_007,National Contractors,Equipment,19,25551,2023-11-02,2023-11-09
+res_00225,act_007_15,proj_007,EliteFinish Works,Material Supplier,10,21237,2023-11-02,2023-11-09
+res_00226,act_007_15,proj_007,ProStruct Engineers,Material Supplier,12,22727,2023-11-02,2023-11-09
+res_00227,act_008_01,proj_008,Urban Build Solutions,Specialist Subcontractor,15,17450,2024-01-18,2024-01-27
+res_00228,act_008_02,proj_008,EliteFinish Works,Equipment,17,29502,2024-01-30,2024-02-13
+res_00229,act_008_03,proj_008,National Contractors,Labour Gang,15,27010,2024-02-13,2024-03-03
+res_00230,act_008_04,proj_008,ProStruct Engineers,Material Supplier,16,14189,2024-03-03,2024-03-12
+res_00231,act_008_04,proj_008,National Contractors,Labour Gang,10,12540,2024-03-03,2024-03-12
+res_00232,act_008_04,proj_008,EliteFinish Works,Labour Gang,16,8748,2024-03-03,2024-03-12
+res_00233,act_008_05,proj_008,EliteFinish Works,Specialist Subcontractor,8,26655,2024-03-04,2024-03-20
+res_00234,act_008_05,proj_008,National Contractors,Material Supplier,5,20133,2024-03-04,2024-03-20
+res_00235,act_008_06,proj_008,National Contractors,Material Supplier,20,24755,2024-03-04,2024-03-20
+res_00236,act_008_07,proj_008,Urban Build Solutions,Specialist Subcontractor,17,20093,2024-03-05,2024-03-17
+res_00237,act_008_08,proj_008,Urban Build Solutions,Specialist Subcontractor,8,23472,2024-03-21,2024-04-01
+res_00238,act_008_08,proj_008,National Contractors,Specialist Subcontractor,13,12346,2024-03-21,2024-04-01
+res_00239,act_008_08,proj_008,Swift MEP Pvt Ltd,Labour Gang,3,14783,2024-03-21,2024-04-01
+res_00240,act_008_09,proj_008,ProStruct Engineers,Material Supplier,10,30402,2024-04-01,
+res_00241,act_008_09,proj_008,EliteFinish Works,Material Supplier,10,34108,2024-04-01,
+res_00242,act_008_09,proj_008,Apex Interiors,Material Supplier,19,29016,2024-04-01,
+res_00243,act_009_01,proj_009,Urban Build Solutions,Equipment,8,16023,2024-03-01,2024-03-10
+res_00244,act_009_02,proj_009,National Contractors,Labour Gang,3,32530,2024-03-10,2024-03-23
+res_00245,act_009_02,proj_009,BuildRight Co.,Material Supplier,19,23407,2024-03-10,2024-03-23
+res_00246,act_009_03,proj_009,BuildRight Co.,Material Supplier,11,31461,2024-03-23,2024-04-12
+res_00247,act_009_03,proj_009,EliteFinish Works,Labour Gang,20,31421,2024-03-23,2024-04-12
+res_00248,act_009_04,proj_009,ProStruct Engineers,Material Supplier,4,17599,2024-04-12,2024-04-21
+res_00249,act_009_05,proj_009,Urban Build Solutions,Labour Gang,14,21088,2024-04-12,2024-04-28
+res_00250,act_009_05,proj_009,National Contractors,Material Supplier,16,33802,2024-04-12,2024-04-28
+res_00251,act_009_06,proj_009,BuildRight Co.,Specialist Subcontractor,11,32836,2024-04-12,2024-04-30
+res_00252,act_009_07,proj_009,Urban Build Solutions,Labour Gang,8,20008,2024-04-16,
+res_00253,act_009_07,proj_009,ProStruct Engineers,Equipment,7,15964,2024-04-16,
+res_00254,act_009_07,proj_009,Urban Build Solutions,Material Supplier,9,16667,2024-04-16,
+res_00255,act_009_08,proj_009,Swift MEP Pvt Ltd,Labour Gang,17,31235,2024-04-29,

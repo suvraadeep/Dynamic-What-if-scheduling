@@ -1,0 +1,11 @@
+id,name,planned_start,planned_end,type,city,actual_start,actual_end,status
+proj_001,Parkview Residence Renovation,2022-01-10,2022-07-31,residential,Mumbai,2022-01-10,2022-06-06,completed
+proj_002,Downtown Office Fit-Out Phase 1,2022-03-01,2022-09-30,commercial,Delhi,2022-03-01,2022-07-17,completed
+proj_003,Greenfield Villa Complex,2022-06-15,2023-01-20,residential,Bangalore,2022-06-15,2022-11-14,completed
+proj_004,Heritage Hotel Refurbishment,2022-09-01,2023-04-30,hospitality,Jaipur,2022-09-01,2023-01-30,completed
+proj_005,Tech Park Interior Overhaul,2023-01-05,2023-08-15,commercial,Hyderabad,2023-01-05,2023-05-24,completed
+proj_006,Riverside Apartment Renovation,2023-03-01,2023-09-28,residential,Pune,2023-03-01,2023-08-03,completed
+proj_007,Coastal Resort Renovation,2023-06-01,2024-01-31,hospitality,Goa,2023-06-01,2023-11-09,completed
+proj_008,Lakeview Villa Renovation,2024-01-15,2024-08-31,residential,Chennai,2024-01-15,,in_progress
+proj_009,Metro Commercial Tower Fit-Out,2024-03-01,2024-11-30,commercial,Mumbai,2024-03-01,,in_progress
+proj_010,Skyline Penthouse Renovation,2024-09-01,2025-03-31,residential,Delhi,,,not_started

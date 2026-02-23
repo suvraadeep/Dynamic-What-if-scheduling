@@ -1,0 +1,151 @@
+id,project_id,project_type,name,category,planned_start_date,planned_end_date,planned_duration_days,actual_start_date,actual_end_date,forecasted_start_date,forecasted_end_date,progress,status,parent_id,depends_on,actual_duration_days,schedule_variance_days
+act_001_01,proj_001,residential,Site Survey & Mobilization,prep,2022-01-10,2022-01-17,7,2022-01-10,2022-01-19,2022-01-10,2022-01-19,100,completed,,,9,0
+act_001_02,proj_001,residential,Demolition & Strip-Out,demo,2022-01-17,2022-01-29,12,2022-01-19,2022-02-01,2022-01-19,2022-02-01,100,completed,,act_001_01,13,2
+act_001_03,proj_001,residential,Structural Repairs & Reinforcement,structural,2022-01-29,2022-02-16,18,2022-02-01,2022-02-20,2022-02-01,2022-02-20,100,completed,,act_001_02,19,3
+act_001_04,proj_001,residential,Waterproofing & Damp Proofing,structural,2022-02-16,2022-02-24,8,2022-02-20,2022-03-01,2022-02-20,2022-03-01,100,completed,,act_001_03,9,4
+act_001_05,proj_001,residential,Plumbing Rough-in,mep,2022-02-16,2022-03-02,14,2022-02-20,2022-03-08,2022-02-20,2022-03-08,100,completed,,act_001_03,16,4
+act_001_06,proj_001,residential,Electrical Wiring & Conduits,mep,2022-02-16,2022-03-02,14,2022-02-20,2022-03-09,2022-02-20,2022-03-09,100,completed,,act_001_03,17,4
+act_001_07,proj_001,residential,HVAC & Ventilation Installation,mep,2022-02-16,2022-02-26,10,2022-02-20,2022-03-05,2022-02-20,2022-03-05,100,completed,,act_001_03,13,4
+act_001_08,proj_001,residential,Floor Leveling & Screed,finishing,2022-03-02,2022-03-12,10,2022-03-08,2022-03-20,2022-03-08,2022-03-20,100,completed,,act_001_05,12,6
+act_001_09,proj_001,residential,Tiling — Floors & Wet Areas,finishing,2022-03-12,2022-03-30,18,2022-03-20,2022-04-10,2022-03-20,2022-04-10,100,completed,,act_001_08,21,8
+act_001_10,proj_001,residential,Wall Plastering & Screeding,finishing,2022-03-02,2022-03-16,14,2022-03-09,2022-03-24,2022-03-09,2022-03-24,100,completed,,act_001_06,15,7
+act_001_11,proj_001,residential,False Ceiling & Insulation,finishing,2022-03-16,2022-03-26,10,2022-03-26,2022-04-08,2022-03-26,2022-04-08,100,completed,,act_001_10,13,10
+act_001_12,proj_001,residential,Painting — Primer & Finish Coats,finishing,2022-03-26,2022-04-09,14,2022-04-08,2022-04-25,2022-04-08,2022-04-25,100,completed,,act_001_11,17,13
+act_001_13,proj_001,residential,"Carpentry, Joinery & Built-ins",finishing,2022-04-09,2022-04-25,16,2022-04-28,2022-05-18,2022-04-28,2022-05-18,100,completed,,act_001_12,20,19
+act_001_14,proj_001,residential,"Fixtures, Fittings & Sanitaryware",finishing,2022-04-25,2022-05-05,10,2022-05-18,2022-05-29,2022-05-18,2022-05-29,100,completed,,act_001_13,11,23
+act_001_15,proj_001,residential,"Final Inspection, Snag & Handover",inspection,2022-05-05,2022-05-11,6,2022-05-29,2022-06-06,2022-05-29,2022-06-06,100,completed,,act_001_14,8,24
+act_002_01,proj_002,commercial,Site Survey & Mobilization,prep,2022-03-01,2022-03-08,7,2022-03-01,2022-03-09,2022-03-01,2022-03-09,100,completed,,,8,0
+act_002_02,proj_002,commercial,Demolition & Strip-Out,demo,2022-03-08,2022-03-20,12,2022-03-10,2022-03-23,2022-03-10,2022-03-23,100,completed,,act_002_01,13,2
+act_002_03,proj_002,commercial,Structural Repairs & Reinforcement,structural,2022-03-20,2022-04-07,18,2022-03-23,2022-04-11,2022-03-23,2022-04-11,100,completed,,act_002_02,19,3
+act_002_04,proj_002,commercial,Waterproofing & Damp Proofing,structural,2022-04-07,2022-04-15,8,2022-04-11,2022-04-20,2022-04-11,2022-04-20,100,completed,,act_002_03,9,4
+act_002_05,proj_002,commercial,Plumbing Rough-in,mep,2022-04-07,2022-04-21,14,2022-04-11,2022-04-26,2022-04-11,2022-04-26,100,completed,,act_002_03,15,4
+act_002_06,proj_002,commercial,Electrical Wiring & Conduits,mep,2022-04-07,2022-04-21,14,2022-04-12,2022-04-28,2022-04-12,2022-04-28,100,completed,,act_002_03,16,5
+act_002_07,proj_002,commercial,HVAC & Ventilation Installation,mep,2022-04-07,2022-04-17,10,2022-04-11,2022-04-22,2022-04-11,2022-04-22,100,completed,,act_002_03,11,4
+act_002_08,proj_002,commercial,Floor Leveling & Screed,finishing,2022-04-21,2022-05-01,10,2022-04-26,2022-05-08,2022-04-26,2022-05-08,100,completed,,act_002_05,12,5
+act_002_09,proj_002,commercial,Tiling — Floors & Wet Areas,finishing,2022-05-01,2022-05-19,18,2022-05-11,2022-05-31,2022-05-11,2022-05-31,100,completed,,act_002_08,20,10
+act_002_10,proj_002,commercial,Wall Plastering & Screeding,finishing,2022-04-21,2022-05-05,14,2022-04-30,2022-05-15,2022-04-30,2022-05-15,100,completed,,act_002_06,15,9
+act_002_11,proj_002,commercial,False Ceiling & Insulation,finishing,2022-05-05,2022-05-15,10,2022-05-16,2022-05-27,2022-05-16,2022-05-27,100,completed,,act_002_10,11,11
+act_002_12,proj_002,commercial,Painting — Primer & Finish Coats,finishing,2022-05-15,2022-05-29,14,2022-05-27,2022-06-11,2022-05-27,2022-06-11,100,completed,,act_002_11,15,12
+act_002_13,proj_002,commercial,"Carpentry, Joinery & Built-ins",finishing,2022-05-29,2022-06-14,16,2022-06-11,2022-06-29,2022-06-11,2022-06-29,100,completed,,act_002_12,18,13
+act_002_14,proj_002,commercial,"Fixtures, Fittings & Sanitaryware",finishing,2022-06-14,2022-06-24,10,2022-06-29,2022-07-10,2022-06-29,2022-07-10,100,completed,,act_002_13,11,15
+act_002_15,proj_002,commercial,"Final Inspection, Snag & Handover",inspection,2022-06-24,2022-06-30,6,2022-07-10,2022-07-17,2022-07-10,2022-07-17,100,completed,,act_002_14,7,16
+act_003_01,proj_003,residential,Site Survey & Mobilization,prep,2022-06-15,2022-06-22,7,2022-06-16,2022-06-25,2022-06-16,2022-06-25,100,completed,,,9,1
+act_003_02,proj_003,residential,Demolition & Strip-Out,demo,2022-06-22,2022-07-04,12,2022-06-25,2022-07-09,2022-06-25,2022-07-09,100,completed,,act_003_01,14,3
+act_003_03,proj_003,residential,Structural Repairs & Reinforcement,structural,2022-07-04,2022-07-22,18,2022-07-12,2022-08-05,2022-07-12,2022-08-05,100,completed,,act_003_02,24,8
+act_003_04,proj_003,residential,Waterproofing & Damp Proofing,structural,2022-07-22,2022-07-30,8,2022-08-05,2022-08-14,2022-08-05,2022-08-14,100,completed,,act_003_03,9,14
+act_003_05,proj_003,residential,Plumbing Rough-in,mep,2022-07-22,2022-08-05,14,2022-08-05,2022-08-21,2022-08-05,2022-08-21,100,completed,,act_003_03,16,14
+act_003_06,proj_003,residential,Electrical Wiring & Conduits,mep,2022-07-22,2022-08-05,14,2022-08-05,2022-08-22,2022-08-05,2022-08-22,100,completed,,act_003_03,17,14
+act_003_07,proj_003,residential,HVAC & Ventilation Installation,mep,2022-07-22,2022-08-01,10,2022-08-06,2022-08-17,2022-08-06,2022-08-17,100,completed,,act_003_03,11,15
+act_003_08,proj_003,residential,Floor Leveling & Screed,finishing,2022-08-05,2022-08-15,10,2022-08-22,2022-09-03,2022-08-22,2022-09-03,100,completed,,act_003_05,12,17
+act_003_09,proj_003,residential,Tiling — Floors & Wet Areas,finishing,2022-08-15,2022-09-02,18,2022-09-03,2022-09-25,2022-09-03,2022-09-25,100,completed,,act_003_08,22,19
+act_003_10,proj_003,residential,Wall Plastering & Screeding,finishing,2022-08-05,2022-08-19,14,2022-08-22,2022-09-07,2022-08-22,2022-09-07,100,completed,,act_003_06,16,17
+act_003_11,proj_003,residential,False Ceiling & Insulation,finishing,2022-08-19,2022-08-29,10,2022-09-07,2022-09-20,2022-09-07,2022-09-20,100,completed,,act_003_10,13,19
+act_003_12,proj_003,residential,Painting — Primer & Finish Coats,finishing,2022-08-29,2022-09-12,14,2022-09-20,2022-10-05,2022-09-20,2022-10-05,100,completed,,act_003_11,15,22
+act_003_13,proj_003,residential,"Carpentry, Joinery & Built-ins",finishing,2022-09-12,2022-09-28,16,2022-10-06,2022-10-26,2022-10-06,2022-10-26,100,completed,,act_003_12,20,24
+act_003_14,proj_003,residential,"Fixtures, Fittings & Sanitaryware",finishing,2022-09-28,2022-10-08,10,2022-10-26,2022-11-06,2022-10-26,2022-11-06,100,completed,,act_003_13,11,28
+act_003_15,proj_003,residential,"Final Inspection, Snag & Handover",inspection,2022-10-08,2022-10-14,6,2022-11-06,2022-11-14,2022-11-06,2022-11-14,100,completed,,act_003_14,8,29
+act_004_01,proj_004,hospitality,Site Survey & Mobilization,prep,2022-09-01,2022-09-08,7,2022-09-03,2022-09-11,2022-09-03,2022-09-11,100,completed,,,8,2
+act_004_02,proj_004,hospitality,Demolition & Strip-Out,demo,2022-09-08,2022-09-20,12,2022-09-13,2022-09-27,2022-09-13,2022-09-27,100,completed,,act_004_01,14,5
+act_004_03,proj_004,hospitality,Structural Repairs & Reinforcement,structural,2022-09-20,2022-10-08,18,2022-09-28,2022-10-17,2022-09-28,2022-10-17,100,completed,,act_004_02,19,8
+act_004_04,proj_004,hospitality,Waterproofing & Damp Proofing,structural,2022-10-08,2022-10-16,8,2022-10-19,2022-10-28,2022-10-19,2022-10-28,100,completed,,act_004_03,9,11
+act_004_05,proj_004,hospitality,Plumbing Rough-in,mep,2022-10-08,2022-10-22,14,2022-10-17,2022-11-02,2022-10-17,2022-11-02,100,completed,,act_004_03,16,9
+act_004_06,proj_004,hospitality,Electrical Wiring & Conduits,mep,2022-10-08,2022-10-22,14,2022-10-19,2022-11-03,2022-10-19,2022-11-03,100,completed,,act_004_03,15,11
+act_004_07,proj_004,hospitality,HVAC & Ventilation Installation,mep,2022-10-08,2022-10-18,10,2022-10-20,2022-11-02,2022-10-20,2022-11-02,100,completed,,act_004_03,13,12
+act_004_08,proj_004,hospitality,Floor Leveling & Screed,finishing,2022-10-22,2022-11-01,10,2022-11-02,2022-11-14,2022-11-02,2022-11-14,100,completed,,act_004_05,12,11
+act_004_09,proj_004,hospitality,Tiling — Floors & Wet Areas,finishing,2022-11-01,2022-11-19,18,2022-11-14,2022-12-04,2022-11-14,2022-12-04,100,completed,,act_004_08,20,13
+act_004_10,proj_004,hospitality,Wall Plastering & Screeding,finishing,2022-10-22,2022-11-05,14,2022-11-03,2022-11-21,2022-11-03,2022-11-21,100,completed,,act_004_06,18,12
+act_004_11,proj_004,hospitality,False Ceiling & Insulation,finishing,2022-11-05,2022-11-15,10,2022-11-21,2022-12-04,2022-11-21,2022-12-04,100,completed,,act_004_10,13,16
+act_004_12,proj_004,hospitality,Painting — Primer & Finish Coats,finishing,2022-11-15,2022-11-29,14,2022-12-06,2022-12-23,2022-12-06,2022-12-23,100,completed,,act_004_11,17,21
+act_004_13,proj_004,hospitality,"Carpentry, Joinery & Built-ins",finishing,2022-11-29,2022-12-15,16,2022-12-23,2023-01-09,2022-12-23,2023-01-09,100,completed,,act_004_12,17,24
+act_004_14,proj_004,hospitality,"Fixtures, Fittings & Sanitaryware",finishing,2022-12-15,2022-12-25,10,2023-01-10,2023-01-21,2023-01-10,2023-01-21,100,completed,,act_004_13,11,26
+act_004_15,proj_004,hospitality,"Final Inspection, Snag & Handover",inspection,2022-12-25,2022-12-31,6,2023-01-23,2023-01-30,2023-01-23,2023-01-30,100,completed,,act_004_14,7,29
+act_005_01,proj_005,commercial,Site Survey & Mobilization,prep,2023-01-05,2023-01-12,7,2023-01-05,2023-01-13,2023-01-05,2023-01-13,100,completed,,,8,0
+act_005_02,proj_005,commercial,Demolition & Strip-Out,demo,2023-01-12,2023-01-24,12,2023-01-13,2023-01-27,2023-01-13,2023-01-27,100,completed,,act_005_01,14,1
+act_005_03,proj_005,commercial,Structural Repairs & Reinforcement,structural,2023-01-24,2023-02-11,18,2023-01-27,2023-02-16,2023-01-27,2023-02-16,100,completed,,act_005_02,20,3
+act_005_04,proj_005,commercial,Waterproofing & Damp Proofing,structural,2023-02-11,2023-02-19,8,2023-02-18,2023-02-27,2023-02-18,2023-02-27,100,completed,,act_005_03,9,7
+act_005_05,proj_005,commercial,Plumbing Rough-in,mep,2023-02-11,2023-02-25,14,2023-02-16,2023-03-03,2023-02-16,2023-03-03,100,completed,,act_005_03,15,5
+act_005_06,proj_005,commercial,Electrical Wiring & Conduits,mep,2023-02-11,2023-02-25,14,2023-02-16,2023-03-04,2023-02-16,2023-03-04,100,completed,,act_005_03,16,5
+act_005_07,proj_005,commercial,HVAC & Ventilation Installation,mep,2023-02-11,2023-02-21,10,2023-02-16,2023-02-27,2023-02-16,2023-02-27,100,completed,,act_005_03,11,5
+act_005_08,proj_005,commercial,Floor Leveling & Screed,finishing,2023-02-25,2023-03-07,10,2023-03-06,2023-03-17,2023-03-06,2023-03-17,100,completed,,act_005_05,11,9
+act_005_09,proj_005,commercial,Tiling — Floors & Wet Areas,finishing,2023-03-07,2023-03-25,18,2023-03-17,2023-04-05,2023-03-17,2023-04-05,100,completed,,act_005_08,19,10
+act_005_10,proj_005,commercial,Wall Plastering & Screeding,finishing,2023-02-25,2023-03-11,14,2023-03-05,2023-03-21,2023-03-05,2023-03-21,100,completed,,act_005_06,16,8
+act_005_11,proj_005,commercial,False Ceiling & Insulation,finishing,2023-03-11,2023-03-21,10,2023-03-22,2023-04-02,2023-03-22,2023-04-02,100,completed,,act_005_10,11,11
+act_005_12,proj_005,commercial,Painting — Primer & Finish Coats,finishing,2023-03-21,2023-04-04,14,2023-04-02,2023-04-17,2023-04-02,2023-04-17,100,completed,,act_005_11,15,12
+act_005_13,proj_005,commercial,"Carpentry, Joinery & Built-ins",finishing,2023-04-04,2023-04-20,16,2023-04-17,2023-05-04,2023-04-17,2023-05-04,100,completed,,act_005_12,17,13
+act_005_14,proj_005,commercial,"Fixtures, Fittings & Sanitaryware",finishing,2023-04-20,2023-04-30,10,2023-05-04,2023-05-16,2023-05-04,2023-05-16,100,completed,,act_005_13,12,14
+act_005_15,proj_005,commercial,"Final Inspection, Snag & Handover",inspection,2023-04-30,2023-05-06,6,2023-05-17,2023-05-24,2023-05-17,2023-05-24,100,completed,,act_005_14,7,17
+act_006_01,proj_006,residential,Site Survey & Mobilization,prep,2023-03-01,2023-03-08,7,2023-03-04,2023-03-12,2023-03-04,2023-03-12,100,completed,,,8,3
+act_006_02,proj_006,residential,Demolition & Strip-Out,demo,2023-03-08,2023-03-20,12,2023-03-14,2023-03-27,2023-03-14,2023-03-27,100,completed,,act_006_01,13,6
+act_006_03,proj_006,residential,Structural Repairs & Reinforcement,structural,2023-03-20,2023-04-07,18,2023-03-27,2023-04-17,2023-03-27,2023-04-17,100,completed,,act_006_02,21,7
+act_006_04,proj_006,residential,Waterproofing & Damp Proofing,structural,2023-04-07,2023-04-15,8,2023-04-18,2023-04-27,2023-04-18,2023-04-27,100,completed,,act_006_03,9,11
+act_006_05,proj_006,residential,Plumbing Rough-in,mep,2023-04-07,2023-04-21,14,2023-04-17,2023-05-04,2023-04-17,2023-05-04,100,completed,,act_006_03,17,10
+act_006_06,proj_006,residential,Electrical Wiring & Conduits,mep,2023-04-07,2023-04-21,14,2023-04-17,2023-05-04,2023-04-17,2023-05-04,100,completed,,act_006_03,17,10
+act_006_07,proj_006,residential,HVAC & Ventilation Installation,mep,2023-04-07,2023-04-17,10,2023-04-18,2023-04-30,2023-04-18,2023-04-30,100,completed,,act_006_03,12,11
+act_006_08,proj_006,residential,Floor Leveling & Screed,finishing,2023-04-21,2023-05-01,10,2023-05-05,2023-05-18,2023-05-05,2023-05-18,100,completed,,act_006_05,13,14
+act_006_09,proj_006,residential,Tiling — Floors & Wet Areas,finishing,2023-05-01,2023-05-19,18,2023-05-20,2023-06-09,2023-05-20,2023-06-09,100,completed,,act_006_08,20,19
+act_006_10,proj_006,residential,Wall Plastering & Screeding,finishing,2023-04-21,2023-05-05,14,2023-05-07,2023-05-24,2023-05-07,2023-05-24,100,completed,,act_006_06,17,16
+act_006_11,proj_006,residential,False Ceiling & Insulation,finishing,2023-05-05,2023-05-15,10,2023-05-24,2023-06-05,2023-05-24,2023-06-05,100,completed,,act_006_10,12,19
+act_006_12,proj_006,residential,Painting — Primer & Finish Coats,finishing,2023-05-15,2023-05-29,14,2023-06-07,2023-06-24,2023-06-07,2023-06-24,100,completed,,act_006_11,17,23
+act_006_13,proj_006,residential,"Carpentry, Joinery & Built-ins",finishing,2023-05-29,2023-06-14,16,2023-06-26,2023-07-14,2023-06-26,2023-07-14,100,completed,,act_006_12,18,28
+act_006_14,proj_006,residential,"Fixtures, Fittings & Sanitaryware",finishing,2023-06-14,2023-06-24,10,2023-07-14,2023-07-27,2023-07-14,2023-07-27,100,completed,,act_006_13,13,30
+act_006_15,proj_006,residential,"Final Inspection, Snag & Handover",inspection,2023-06-24,2023-06-30,6,2023-07-27,2023-08-03,2023-07-27,2023-08-03,100,completed,,act_006_14,7,33
+act_007_01,proj_007,hospitality,Site Survey & Mobilization,prep,2023-06-01,2023-06-08,7,2023-06-01,2023-06-10,2023-06-01,2023-06-10,100,completed,,,9,0
+act_007_02,proj_007,hospitality,Demolition & Strip-Out,demo,2023-06-08,2023-06-20,12,2023-06-10,2023-06-25,2023-06-10,2023-06-25,100,completed,,act_007_01,15,2
+act_007_03,proj_007,hospitality,Structural Repairs & Reinforcement,structural,2023-06-20,2023-07-08,18,2023-06-29,2023-07-21,2023-06-29,2023-07-21,100,completed,,act_007_02,22,9
+act_007_04,proj_007,hospitality,Waterproofing & Damp Proofing,structural,2023-07-08,2023-07-16,8,2023-07-22,2023-07-31,2023-07-22,2023-07-31,100,completed,,act_007_03,9,14
+act_007_05,proj_007,hospitality,Plumbing Rough-in,mep,2023-07-08,2023-07-22,14,2023-07-21,2023-08-07,2023-07-21,2023-08-07,100,completed,,act_007_03,17,13
+act_007_06,proj_007,hospitality,Electrical Wiring & Conduits,mep,2023-07-08,2023-07-22,14,2023-07-22,2023-08-09,2023-07-22,2023-08-09,100,completed,,act_007_03,18,14
+act_007_07,proj_007,hospitality,HVAC & Ventilation Installation,mep,2023-07-08,2023-07-18,10,2023-07-21,2023-08-01,2023-07-21,2023-08-01,100,completed,,act_007_03,11,13
+act_007_08,proj_007,hospitality,Floor Leveling & Screed,finishing,2023-07-22,2023-08-01,10,2023-08-07,2023-08-20,2023-08-07,2023-08-20,100,completed,,act_007_05,13,16
+act_007_09,proj_007,hospitality,Tiling — Floors & Wet Areas,finishing,2023-08-01,2023-08-19,18,2023-08-20,2023-09-10,2023-08-20,2023-09-10,100,completed,,act_007_08,21,19
+act_007_10,proj_007,hospitality,Wall Plastering & Screeding,finishing,2023-07-22,2023-08-05,14,2023-08-12,2023-08-27,2023-08-12,2023-08-27,100,completed,,act_007_06,15,21
+act_007_11,proj_007,hospitality,False Ceiling & Insulation,finishing,2023-08-05,2023-08-15,10,2023-08-28,2023-09-11,2023-08-28,2023-09-11,100,completed,,act_007_10,14,23
+act_007_12,proj_007,hospitality,Painting — Primer & Finish Coats,finishing,2023-08-15,2023-08-29,14,2023-09-11,2023-09-28,2023-09-11,2023-09-28,100,completed,,act_007_11,17,27
+act_007_13,proj_007,hospitality,"Carpentry, Joinery & Built-ins",finishing,2023-08-29,2023-09-14,16,2023-10-01,2023-10-18,2023-10-01,2023-10-18,100,completed,,act_007_12,17,33
+act_007_14,proj_007,hospitality,"Fixtures, Fittings & Sanitaryware",finishing,2023-09-14,2023-09-24,10,2023-10-19,2023-11-01,2023-10-19,2023-11-01,100,completed,,act_007_13,13,35
+act_007_15,proj_007,hospitality,"Final Inspection, Snag & Handover",inspection,2023-09-24,2023-09-30,6,2023-11-02,2023-11-09,2023-11-02,2023-11-09,100,completed,,act_007_14,7,39
+act_008_01,proj_008,residential,Site Survey & Mobilization,prep,2024-01-15,2024-01-22,7,2024-01-18,2024-01-27,2024-01-18,2024-01-27,100,completed,,,9,3
+act_008_02,proj_008,residential,Demolition & Strip-Out,demo,2024-01-22,2024-02-03,12,2024-01-30,2024-02-13,2024-01-30,2024-02-13,100,completed,,act_008_01,14,8
+act_008_03,proj_008,residential,Structural Repairs & Reinforcement,structural,2024-02-03,2024-02-21,18,2024-02-13,2024-03-03,2024-02-13,2024-03-03,100,completed,,act_008_02,19,10
+act_008_04,proj_008,residential,Waterproofing & Damp Proofing,structural,2024-02-21,2024-02-29,8,2024-03-03,2024-03-12,2024-03-03,2024-03-12,100,completed,,act_008_03,9,11
+act_008_05,proj_008,residential,Plumbing Rough-in,mep,2024-02-21,2024-03-06,14,2024-03-04,2024-03-20,2024-03-04,2024-03-20,100,completed,,act_008_03,16,12
+act_008_06,proj_008,residential,Electrical Wiring & Conduits,mep,2024-02-21,2024-03-06,14,2024-03-04,2024-03-20,2024-03-04,2024-03-20,100,completed,,act_008_03,16,12
+act_008_07,proj_008,residential,HVAC & Ventilation Installation,mep,2024-02-21,2024-03-02,10,2024-03-05,2024-03-17,2024-03-05,2024-03-17,100,completed,,act_008_03,12,13
+act_008_08,proj_008,residential,Floor Leveling & Screed,finishing,2024-03-06,2024-03-16,10,2024-03-21,2024-04-01,2024-03-21,2024-04-01,100,completed,,act_008_05,11,15
+act_008_09,proj_008,residential,Tiling — Floors & Wet Areas,finishing,2024-03-16,2024-04-03,18,2024-04-01,,2024-04-01,2024-09-26,62,in_progress,,act_008_08,,16
+act_008_10,proj_008,residential,Wall Plastering & Screeding,finishing,2024-03-06,2024-03-20,14,2024-03-20,,,,0,not_started,,act_008_06,,14
+act_008_11,proj_008,residential,False Ceiling & Insulation,finishing,2024-03-20,2024-03-30,10,2024-04-04,,,,0,not_started,,act_008_10,,15
+act_008_12,proj_008,residential,Painting — Primer & Finish Coats,finishing,2024-03-30,2024-04-13,14,2024-04-17,,,,0,not_started,,act_008_11,,18
+act_008_13,proj_008,residential,"Carpentry, Joinery & Built-ins",finishing,2024-04-13,2024-04-29,16,2024-05-03,,,,0,not_started,,act_008_12,,20
+act_008_14,proj_008,residential,"Fixtures, Fittings & Sanitaryware",finishing,2024-04-29,2024-05-09,10,2024-05-20,,,,0,not_started,,act_008_13,,21
+act_008_15,proj_008,residential,"Final Inspection, Snag & Handover",inspection,2024-05-09,2024-05-15,6,2024-06-02,,,,0,not_started,,act_008_14,,24
+act_009_01,proj_009,commercial,Site Survey & Mobilization,prep,2024-03-01,2024-03-08,7,2024-03-01,2024-03-10,2024-03-01,2024-03-10,100,completed,,,9,0
+act_009_02,proj_009,commercial,Demolition & Strip-Out,demo,2024-03-08,2024-03-20,12,2024-03-10,2024-03-23,2024-03-10,2024-03-23,100,completed,,act_009_01,13,2
+act_009_03,proj_009,commercial,Structural Repairs & Reinforcement,structural,2024-03-20,2024-04-07,18,2024-03-23,2024-04-12,2024-03-23,2024-04-12,100,completed,,act_009_02,20,3
+act_009_04,proj_009,commercial,Waterproofing & Damp Proofing,structural,2024-04-07,2024-04-15,8,2024-04-12,2024-04-21,2024-04-12,2024-04-21,100,completed,,act_009_03,9,5
+act_009_05,proj_009,commercial,Plumbing Rough-in,mep,2024-04-07,2024-04-21,14,2024-04-12,2024-04-28,2024-04-12,2024-04-28,100,completed,,act_009_03,16,5
+act_009_06,proj_009,commercial,Electrical Wiring & Conduits,mep,2024-04-07,2024-04-21,14,2024-04-12,2024-04-30,2024-04-12,2024-04-30,100,completed,,act_009_03,18,5
+act_009_07,proj_009,commercial,HVAC & Ventilation Installation,mep,2024-04-07,2024-04-17,10,2024-04-16,,2024-04-16,2024-10-31,48,in_progress,,act_009_03,,9
+act_009_08,proj_009,commercial,Floor Leveling & Screed,finishing,2024-04-21,2024-05-01,10,2024-04-29,,2024-04-29,2024-12-23,22,in_progress,,act_009_05,,8
+act_009_09,proj_009,commercial,Tiling — Floors & Wet Areas,finishing,2024-05-01,2024-05-19,18,2024-05-14,,,,0,not_started,,act_009_08,,13
+act_009_10,proj_009,commercial,Wall Plastering & Screeding,finishing,2024-04-21,2024-05-05,14,2024-05-01,,,,0,not_started,,act_009_06,,10
+act_009_11,proj_009,commercial,False Ceiling & Insulation,finishing,2024-05-05,2024-05-15,10,2024-05-19,,,,0,not_started,,act_009_10,,14
+act_009_12,proj_009,commercial,Painting — Primer & Finish Coats,finishing,2024-05-15,2024-05-29,14,2024-06-03,,,,0,not_started,,act_009_11,,19
+act_009_13,proj_009,commercial,"Carpentry, Joinery & Built-ins",finishing,2024-05-29,2024-06-14,16,2024-06-23,,,,0,not_started,,act_009_12,,25
+act_009_14,proj_009,commercial,"Fixtures, Fittings & Sanitaryware",finishing,2024-06-14,2024-06-24,10,2024-07-18,,,,0,not_started,,act_009_13,,34
+act_009_15,proj_009,commercial,"Final Inspection, Snag & Handover",inspection,2024-06-24,2024-06-30,6,2024-07-30,,,,0,not_started,,act_009_14,,36
+act_010_01,proj_010,residential,Site Survey & Mobilization,prep,2024-09-01,2024-09-08,7,,,2024-09-01,2024-09-08,0,not_started,,,,
+act_010_02,proj_010,residential,Demolition & Strip-Out,demo,2024-09-08,2024-09-20,12,,,2024-09-08,2024-09-20,0,not_started,,act_010_01,,
+act_010_03,proj_010,residential,Structural Repairs & Reinforcement,structural,2024-09-20,2024-10-08,18,,,2024-09-20,2024-10-08,0,not_started,,act_010_02,,
+act_010_04,proj_010,residential,Waterproofing & Damp Proofing,structural,2024-10-08,2024-10-16,8,,,2024-10-08,2024-10-16,0,not_started,,act_010_03,,
+act_010_05,proj_010,residential,Plumbing Rough-in,mep,2024-10-08,2024-10-22,14,,,2024-10-08,2024-10-22,0,not_started,,act_010_03,,
+act_010_06,proj_010,residential,Electrical Wiring & Conduits,mep,2024-10-08,2024-10-22,14,,,2024-10-08,2024-10-22,0,not_started,,act_010_03,,
+act_010_07,proj_010,residential,HVAC & Ventilation Installation,mep,2024-10-08,2024-10-18,10,,,2024-10-08,2024-10-18,0,not_started,,act_010_03,,
+act_010_08,proj_010,residential,Floor Leveling & Screed,finishing,2024-10-22,2024-11-01,10,,,2024-10-22,2024-11-01,0,not_started,,act_010_05,,
+act_010_09,proj_010,residential,Tiling — Floors & Wet Areas,finishing,2024-11-01,2024-11-19,18,,,2024-11-01,2024-11-19,0,not_started,,act_010_08,,
+act_010_10,proj_010,residential,Wall Plastering & Screeding,finishing,2024-10-22,2024-11-05,14,,,2024-10-22,2024-11-05,0,not_started,,act_010_06,,
+act_010_11,proj_010,residential,False Ceiling & Insulation,finishing,2024-11-05,2024-11-15,10,,,2024-11-05,2024-11-15,0,not_started,,act_010_10,,
+act_010_12,proj_010,residential,Painting — Primer & Finish Coats,finishing,2024-11-15,2024-11-29,14,,,2024-11-15,2024-11-29,0,not_started,,act_010_11,,
+act_010_13,proj_010,residential,"Carpentry, Joinery & Built-ins",finishing,2024-11-29,2024-12-15,16,,,2024-11-29,2024-12-15,0,not_started,,act_010_12,,
+act_010_14,proj_010,residential,"Fixtures, Fittings & Sanitaryware",finishing,2024-12-15,2024-12-25,10,,,2024-12-15,2024-12-25,0,not_started,,act_010_13,,
+act_010_15,proj_010,residential,"Final Inspection, Snag & Handover",inspection,2024-12-25,2024-12-31,6,,,2024-12-25,2024-12-31,0,not_started,,act_010_14,,
